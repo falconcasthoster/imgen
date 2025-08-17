@@ -210,34 +210,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Chelsea",
-    "team_b": "Crystal Palace",
-    "event_name": "Premier League",
-    "poster_id": "Chelsea-Crystal-Palace-17082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Nottingham Forest",
-    "team_b": "Brentford",
-    "event_name": "Premier League",
-    "poster_id": "Nottingham-Forest-Brentford-17082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Jamshedpur FC ",
-    "team_b": "Diamond  Harbour FC ",
-    "event_name": "Durand Cup",
-    "poster_id": "Jamshedpur-FC-Diamond-Harbour-FC-17082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Manchester Originals Women",
-    "team_b": "Northern Superchargers Women",
-    "event_name": "The Hundred Women",
-    "poster_id": "Manchester-Originals-Women-Northern-Superchargers-Women-17082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Manchester Originals",
     "team_b": "Northern Superchargers",
     "event_name": "The Hundred",
@@ -259,13 +231,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Ipswich Town",
-    "team_b": "Southampton",
-    "event_name": "Championship",
-    "poster_id": "Ipswich-Town-Southampton-17082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Celta Vigo",
     "team_b": "Getafe",
     "event_name": "LaLiga",
@@ -277,55 +242,6 @@
     "team_b": "Bari",
     "event_name": "Coppa Italia",
     "poster_id": "Milan-Bari-17082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Blau-Weiss Lohne",
-    "team_b": "SpVgg Greuther FÃ¼rth",
-    "event_name": "DFB Pokal",
-    "poster_id": "Blau-Weiss-Lohne-SpVgg-Greuther-FÃ¼rth-17082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "RSV Eintracht 1949 e.V.",
-    "team_b": "1. FC Kaiserslautern",
-    "event_name": "DFB Pokal",
-    "poster_id": "RSV-Eintracht-1949-e.V.-1.-FC-Kaiserslautern-17082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Stade Brestois",
-    "team_b": "Lille",
-    "event_name": "Ligue 1",
-    "poster_id": "Stade-Brestois-Lille-17082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "SV Atlas Delmenhorst",
-    "team_b": "Borussia M'gladbach",
-    "event_name": "DFB Pokal",
-    "poster_id": "SV-Atlas-Delmenhorst-Borussia-M'gladbach-17082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "SSV Jahn Regensburg",
-    "team_b": "1. FC KÃ¶ln",
-    "event_name": "DFB Pokal",
-    "poster_id": "SSV-Jahn-Regensburg-1.-FC-KÃ¶ln-17082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Espanyol",
-    "team_b": "AtlÃ©tico Madrid",
-    "event_name": "LaLiga",
-    "poster_id": "Espanyol-AtlÃ©tico-Madrid-17082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "1. FC Lokomotive Leipzig",
-    "team_b": "FC Schalke 04",
-    "event_name": "DFB Pokal",
-    "poster_id": "1.-FC-Lokomotive-Leipzig-FC-Schalke-04-17082025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -343,13 +259,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "ZFC Meuselwitz",
-    "team_b": "Karlsruher SC",
-    "event_name": "DFB Pokal",
-    "poster_id": "ZFC-Meuselwitz-Karlsruher-SC-17082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Manchester United",
     "team_b": "Arsenal",
     "event_name": "Premier League",
@@ -361,6 +270,27 @@
     "team_b": "Paris Saint-Germain",
     "event_name": "Ligue 1",
     "poster_id": "Nantes-Paris-Saint-Germain-17082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Athletic Club",
+    "team_b": "Sevilla",
+    "event_name": "LaLiga",
+    "poster_id": "Athletic-Club-Sevilla-17082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Botafogo",
+    "team_b": "Palmeiras",
+    "event_name": "BrasileirÃ£o Betano",
+    "poster_id": "Botafogo-Palmeiras-17082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Espanyol",
+    "team_b": "AtlÃ©tico Madrid",
+    "event_name": "LaLiga",
+    "poster_id": "Espanyol-AtlÃ©tico-Madrid-17082025.png",
     "match_type": "team_vs_team"
   }
 ]
