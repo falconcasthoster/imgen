@@ -278,5 +278,12 @@
     "event_name": "LaLiga",
     "poster_id": "Espanyol-AtlÃ©tico-Madrid-17082025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Santos",
+    "team_b": "Vasco da Gama",
+    "event_name": "BrasileirÃ£o Betano",
+    "poster_id": "Santos-Vasco-da-Gama-17082025.png",
+    "match_type": "team_vs_team"
   }
 ]
