@@ -238,38 +238,10 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Milan",
-    "team_b": "Bari",
-    "event_name": "Coppa Italia",
-    "poster_id": "Milan-Bari-17082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "River Plate",
-    "team_b": "Godoy Cruz",
-    "event_name": "Liga Profesional de FÃºtbol",
-    "poster_id": "River-Plate-Godoy-Cruz-17082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Internacional",
-    "team_b": "Flamengo",
-    "event_name": "BrasileirÃ£o Betano",
-    "poster_id": "Internacional-Flamengo-17082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Manchester United",
     "team_b": "Arsenal",
     "event_name": "Premier League",
     "poster_id": "Manchester-United-Arsenal-17082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Nantes",
-    "team_b": "Paris Saint-Germain",
-    "event_name": "Ligue 1",
-    "poster_id": "Nantes-Paris-Saint-Germain-17082025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -284,6 +256,20 @@
     "team_b": "Palmeiras",
     "event_name": "BrasileirÃ£o Betano",
     "poster_id": "Botafogo-Palmeiras-17082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Nantes",
+    "team_b": "Paris Saint-Germain",
+    "event_name": "Ligue 1",
+    "poster_id": "Nantes-Paris-Saint-Germain-17082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "River Plate",
+    "team_b": "Godoy Cruz",
+    "event_name": "Liga Profesional de FÃºtbol",
+    "poster_id": "River-Plate-Godoy-Cruz-17082025.png",
     "match_type": "team_vs_team"
   },
   {
