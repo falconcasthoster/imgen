@@ -1,0 +1,366 @@
+[
+  {
+    "team_a": "Monday Night RAW ð¥",
+    "team_b": "",
+    "event_name": "Monday Night RAW ð¥",
+    "poster_id": "Monday-Night-RAW-ð¥-12082025.png",
+    "match_type": "single_event"
+  },
+  {
+    "team_a": "Formula 1 ðï¸",
+    "team_b": "",
+    "event_name": "Formula 1 ðï¸",
+    "poster_id": "Formula-1-ðï¸-26082025.png",
+    "match_type": "single_event"
+  },
+  {
+    "team_a": "SmackDownð¥",
+    "team_b": "",
+    "event_name": "SmackDownð¥",
+    "poster_id": "SmackDownð¥-16082025.png",
+    "match_type": "single_event"
+  },
+  {
+    "team_a": "MotoGP ðï¸",
+    "team_b": "",
+    "event_name": "MotoGP ðï¸",
+    "poster_id": "MotoGP-ðï¸-15082025.png",
+    "match_type": "single_event"
+  },
+  {
+    "team_a": "WWE NXT",
+    "team_b": "",
+    "event_name": "WWW NXT",
+    "poster_id": "WWE-NXT-13082025.png",
+    "match_type": "single_event"
+  },
+  {
+    "team_a": "AEW",
+    "team_b": "",
+    "event_name": "AEW Dynamite: Cleveland",
+    "poster_id": "AEW-06082025.png",
+    "match_type": "single_event"
+  },
+  {
+    "team_a": "WWE | Saturday Night's main event",
+    "team_b": "",
+    "event_name": "WWE | Summerslam ",
+    "poster_id": "WWE-Saturday-Night's-main-event-02082025.png",
+    "match_type": "single_event"
+  },
+  {
+    "team_a": "Boxing: Usyk vs. Dubois 2",
+    "team_b": "",
+    "event_name": "Boxing",
+    "poster_id": "Boxing-Usyk-vs.-Dubois-2-19072025.png",
+    "match_type": "single_event"
+  },
+  {
+    "team_a": "Darts:2025 Betfred World Matchplay: Day One",
+    "team_b": "",
+    "event_name": "Darts",
+    "poster_id": "Darts2025-Betfred-World-Matchplay-Day-One-19072025.png",
+    "match_type": "single_event"
+  },
+  {
+    "team_a": "Boxing:Pacquiao vs. Barrios",
+    "team_b": "",
+    "event_name": "Boxing",
+    "poster_id": "BoxingPacquiao-vs.-Barrios-19072025.png",
+    "match_type": "single_event"
+  },
+  {
+    "team_a": "Australia",
+    "team_b": "South Africa",
+    "event_name": "One Day International",
+    "poster_id": "Australia-South-Africa-19082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Kuwait",
+    "team_b": "Qatar",
+    "event_name": "CWC Challenge League",
+    "poster_id": "Kuwait-Qatar-21082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Kenya",
+    "team_b": "Jersey",
+    "event_name": "CWC Challenge League",
+    "poster_id": "Kenya-Jersey-21082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Bangladesh",
+    "team_b": "India",
+    "event_name": "One Day International",
+    "poster_id": "Bangladesh-India-20082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Australia",
+    "team_b": "South Africa",
+    "event_name": "One Day International",
+    "poster_id": "Australia-South-Africa-22082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Kuwait",
+    "team_b": "Jersey",
+    "event_name": "CWC Challenge League",
+    "poster_id": "Kuwait-Jersey-23082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Kuwait",
+    "team_b": "Qatar",
+    "event_name": "CWC Challenge League",
+    "poster_id": "Kuwait-Qatar-21082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Bangladesh",
+    "team_b": "India",
+    "event_name": "One Day International",
+    "poster_id": "Bangladesh-India-23082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Papua New Guinea",
+    "team_b": "Kuwait",
+    "event_name": "CWC Challenge League",
+    "poster_id": "Papua-New-Guinea-Kuwait-24082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Qatar",
+    "team_b": "Kenya",
+    "event_name": "CWC Challenge League",
+    "poster_id": "Qatar-Kenya-24082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Bangladesh",
+    "team_b": "India",
+    "event_name": "T20 International",
+    "poster_id": "Bangladesh-India-26082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Zimbabwe",
+    "team_b": "Sri Lanka",
+    "event_name": "One Day International",
+    "poster_id": "Zimbabwe-Sri-Lanka-29082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Qatar",
+    "team_b": "Denmark",
+    "event_name": "CWC Challenge League",
+    "poster_id": "Qatar-Denmark-27082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Jersey",
+    "team_b": "Qatar",
+    "event_name": "CWC Challenge League",
+    "poster_id": "Jersey-Qatar-31082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Denmark",
+    "team_b": "Kenya",
+    "event_name": "CWC Challenge League",
+    "poster_id": "Denmark-Kenya-31082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Zimbabwe",
+    "team_b": "Sri Lanka",
+    "event_name": "One Day International",
+    "poster_id": "Zimbabwe-Sri-Lanka-31082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Bangladesh",
+    "team_b": "India",
+    "event_name": "T20 International",
+    "poster_id": "Bangladesh-India-29082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "TNA | IMPACT ",
+    "team_b": "",
+    "event_name": "TNA | IMPACT ",
+    "poster_id": "TNA-IMPACT-15082025.png",
+    "match_type": "single_event"
+  },
+  {
+    "team_a": "Tennis: ATP Toronto & WTA Montreal ð¾",
+    "team_b": "",
+    "event_name": "ð¾ Tennis: ATP Toronto & WTA Montreal ",
+    "poster_id": "Tennis-ATP-Toronto-&-WTA-Montreal-ð¾-04082025.png",
+    "match_type": "single_event"
+  },
+  {
+    "team_a": "TRAU  FC ",
+    "team_b": "Indian navy ",
+    "event_name": "Durand Cup",
+    "poster_id": "TRAU-FC-Indian-navy-12082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Chelsea",
+    "team_b": "Crystal Palace",
+    "event_name": "Premier League",
+    "poster_id": "Chelsea-Crystal-Palace-17082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Nottingham Forest",
+    "team_b": "Brentford",
+    "event_name": "Premier League",
+    "poster_id": "Nottingham-Forest-Brentford-17082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Jamshedpur FC ",
+    "team_b": "Diamond  Harbour FC ",
+    "event_name": "Durand Cup",
+    "poster_id": "Jamshedpur-FC-Diamond-Harbour-FC-17082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Manchester Originals Women",
+    "team_b": "Northern Superchargers Women",
+    "event_name": "The Hundred Women",
+    "poster_id": "Manchester-Originals-Women-Northern-Superchargers-Women-17082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Manchester Originals",
+    "team_b": "Northern Superchargers",
+    "event_name": "The Hundred",
+    "poster_id": "Manchester-Originals-Northern-Superchargers-17082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Birmingham Phoenix",
+    "team_b": "London Spirit",
+    "event_name": "The Hundred",
+    "poster_id": "Birmingham-Phoenix-London-Spirit-17082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Angers",
+    "team_b": "Paris FC",
+    "event_name": "Ligue 1",
+    "poster_id": "Angers-Paris-FC-17082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Ipswich Town",
+    "team_b": "Southampton",
+    "event_name": "Championship",
+    "poster_id": "Ipswich-Town-Southampton-17082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Celta Vigo",
+    "team_b": "Getafe",
+    "event_name": "LaLiga",
+    "poster_id": "Celta-Vigo-Getafe-17082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Milan",
+    "team_b": "Bari",
+    "event_name": "Coppa Italia",
+    "poster_id": "Milan-Bari-17082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Blau-Weiss Lohne",
+    "team_b": "SpVgg Greuther FÃ¼rth",
+    "event_name": "DFB Pokal",
+    "poster_id": "Blau-Weiss-Lohne-SpVgg-Greuther-FÃ¼rth-17082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "RSV Eintracht 1949 e.V.",
+    "team_b": "1. FC Kaiserslautern",
+    "event_name": "DFB Pokal",
+    "poster_id": "RSV-Eintracht-1949-e.V.-1.-FC-Kaiserslautern-17082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Stade Brestois",
+    "team_b": "Lille",
+    "event_name": "Ligue 1",
+    "poster_id": "Stade-Brestois-Lille-17082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "SV Atlas Delmenhorst",
+    "team_b": "Borussia M'gladbach",
+    "event_name": "DFB Pokal",
+    "poster_id": "SV-Atlas-Delmenhorst-Borussia-M'gladbach-17082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "SSV Jahn Regensburg",
+    "team_b": "1. FC KÃ¶ln",
+    "event_name": "DFB Pokal",
+    "poster_id": "SSV-Jahn-Regensburg-1.-FC-KÃ¶ln-17082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Espanyol",
+    "team_b": "AtlÃ©tico Madrid",
+    "event_name": "LaLiga",
+    "poster_id": "Espanyol-AtlÃ©tico-Madrid-17082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "1. FC Lokomotive Leipzig",
+    "team_b": "FC Schalke 04",
+    "event_name": "DFB Pokal",
+    "poster_id": "1.-FC-Lokomotive-Leipzig-FC-Schalke-04-17082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "River Plate",
+    "team_b": "Godoy Cruz",
+    "event_name": "Liga Profesional de FÃºtbol",
+    "poster_id": "River-Plate-Godoy-Cruz-17082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Internacional",
+    "team_b": "Flamengo",
+    "event_name": "BrasileirÃ£o Betano",
+    "poster_id": "Internacional-Flamengo-17082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "ZFC Meuselwitz",
+    "team_b": "Karlsruher SC",
+    "event_name": "DFB Pokal",
+    "poster_id": "ZFC-Meuselwitz-Karlsruher-SC-17082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Manchester United",
+    "team_b": "Arsenal",
+    "event_name": "Premier League",
+    "poster_id": "Manchester-United-Arsenal-17082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Nantes",
+    "team_b": "Paris Saint-Germain",
+    "event_name": "Ligue 1",
+    "poster_id": "Nantes-Paris-Saint-Germain-17082025.png",
+    "match_type": "team_vs_team"
+  }
+]
