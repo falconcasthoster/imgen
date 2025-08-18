@@ -217,13 +217,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Birmingham Phoenix",
-    "team_b": "London Spirit",
-    "event_name": "The Hundred",
-    "poster_id": "Birmingham-Phoenix-London-Spirit-17082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Angers",
     "team_b": "Paris FC",
     "event_name": "Ligue 1",
@@ -249,20 +242,6 @@
     "team_b": "Sevilla",
     "event_name": "LaLiga",
     "poster_id": "Athletic-Club-Sevilla-17082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Botafogo",
-    "team_b": "Palmeiras",
-    "event_name": "BrasileirÃ£o Betano",
-    "poster_id": "Botafogo-Palmeiras-17082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Nantes",
-    "team_b": "Paris Saint-Germain",
-    "event_name": "Ligue 1",
-    "poster_id": "Nantes-Paris-Saint-Germain-17082025.png",
     "match_type": "team_vs_team"
   },
   {
