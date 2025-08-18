@@ -210,59 +210,143 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Manchester Originals",
-    "team_b": "Northern Superchargers",
+    "team_a": "Algeria",
+    "team_b": "Niger",
+    "event_name": "African Nations Championship",
+    "poster_id": "Algeria-Niger-18082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "South Africa",
+    "team_b": "Uganda",
+    "event_name": "African Nations Championship",
+    "poster_id": "South-Africa-Uganda-18082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Al-Nassr",
+    "team_b": "Al-Ittihad",
+    "event_name": "Saudi Super Cup",
+    "poster_id": "Al-Nassr-Al-Ittihad-19082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "PreuÃen MÃ¼nster",
+    "team_b": "Hertha BSC",
+    "event_name": "DFB Pokal",
+    "poster_id": "PreuÃen-MÃ¼nster-Hertha-BSC-18082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Southern Brave Women",
+    "team_b": "Oval Invincibles Women",
+    "event_name": "The Hundred Women",
+    "poster_id": "Southern-Brave-Women-Oval-Invincibles-Women-18082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Southern Brave",
+    "team_b": "Oval Invincibles",
     "event_name": "The Hundred",
-    "poster_id": "Manchester-Originals-Northern-Superchargers-17082025.png",
+    "poster_id": "Southern-Brave-Oval-Invincibles-18082025.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Angers",
-    "team_b": "Paris FC",
-    "event_name": "Ligue 1",
-    "poster_id": "Angers-Paris-FC-17082025.png",
+    "team_a": "Rasul Magomedov",
+    "team_b": "Guilherme Viana",
+    "event_name": "PFL",
+    "poster_id": "Rasul-Magomedov-Guilherme-Viana-21082025.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Celta Vigo",
-    "team_b": "Getafe",
-    "event_name": "LaLiga",
-    "poster_id": "Celta-Vigo-Getafe-17082025.png",
+    "team_a": "Josh Hokit",
+    "team_b": "Guilherme Uriel",
+    "event_name": "Dana White's Contender Series",
+    "poster_id": "Josh-Hokit-Guilherme-Uriel-20082025.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Manchester United",
-    "team_b": "Arsenal",
+    "team_a": "Rongzhu",
+    "team_b": "Austin Hubbard",
+    "event_name": "UFC",
+    "poster_id": "Rongzhu-Austin-Hubbard-23082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Alexei Pergande",
+    "team_b": "Ethan Goss",
+    "event_name": "PFL",
+    "poster_id": "Alexei-Pergande-Ethan-Goss-22082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Sergey Bilostenniy",
+    "team_b": "Karl Williams",
+    "event_name": "PFL",
+    "poster_id": "Sergey-Bilostenniy-Karl-Williams-21082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Impa Kasanganay",
+    "team_b": "Andrew Sanchez",
+    "event_name": "PFL",
+    "poster_id": "Impa-Kasanganay-Andrew-Sanchez-21082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Josh Silveira",
+    "team_b": "Murad Ramazanov",
+    "event_name": "PFL",
+    "poster_id": "Josh-Silveira-Murad-Ramazanov-21082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Diyar Nurgozhay",
+    "team_b": "Uran Satybaldiev",
+    "event_name": "UFC",
+    "poster_id": "Diyar-Nurgozhay-Uran-Satybaldiev-23082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Long Xiao",
+    "team_b": "Su Young You",
+    "event_name": "UFC",
+    "poster_id": "Long-Xiao-Su-Young-You-23082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Hayisaer Maheshate",
+    "team_b": "Gauge Young",
+    "event_name": "UFC",
+    "poster_id": "Hayisaer-Maheshate-Gauge-Young-23082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Leeds United",
+    "team_b": "Everton",
     "event_name": "Premier League",
-    "poster_id": "Manchester-United-Arsenal-17082025.png",
+    "poster_id": "Leeds-United-Everton-18082025.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Athletic Club",
-    "team_b": "Sevilla",
+    "team_a": "Elche",
+    "team_b": "Real Betis",
     "event_name": "LaLiga",
-    "poster_id": "Athletic-Club-Sevilla-17082025.png",
+    "poster_id": "Elche-Real-Betis-18082025.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "River Plate",
-    "team_b": "Godoy Cruz",
-    "event_name": "Liga Profesional de FÃºtbol",
-    "poster_id": "River-Plate-Godoy-Cruz-17082025.png",
+    "team_a": "Rot-Weiss Essen",
+    "team_b": "Borussia Dortmund",
+    "event_name": "DFB Pokal",
+    "poster_id": "Rot-Weiss-Essen-Borussia-Dortmund-18082025.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Espanyol",
-    "team_b": "AtlÃ©tico Madrid",
-    "event_name": "LaLiga",
-    "poster_id": "Espanyol-AtlÃ©tico-Madrid-17082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Santos",
-    "team_b": "Vasco da Gama",
-    "event_name": "BrasileirÃ£o Betano",
-    "poster_id": "Santos-Vasco-da-Gama-17082025.png",
+    "team_a": "Gil Vicente",
+    "team_b": "FC Porto",
+    "event_name": "Liga Portugal Betclic",
+    "poster_id": "Gil-Vicente-FC-Porto-18082025.png",
     "match_type": "team_vs_team"
   }
 ]
