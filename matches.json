@@ -3,7 +3,7 @@
     "team_a": "Monday Night RAW ð¥",
     "team_b": "",
     "event_name": "Monday Night RAW ð¥",
-    "poster_id": "Monday-Night-RAW-ð¥-12082025.png",
+    "poster_id": "Monday-Night-RAW-ð¥-19082025.png",
     "match_type": "single_event"
   },
   {
@@ -17,7 +17,7 @@
     "team_a": "SmackDownð¥",
     "team_b": "",
     "event_name": "SmackDownð¥",
-    "poster_id": "SmackDownð¥-16082025.png",
+    "poster_id": "SmackDownð¥-23082025.png",
     "match_type": "single_event"
   },
   {
@@ -31,7 +31,7 @@
     "team_a": "WWE NXT",
     "team_b": "",
     "event_name": "WWW NXT",
-    "poster_id": "WWE-NXT-13082025.png",
+    "poster_id": "WWE-NXT-20082025.png",
     "match_type": "single_event"
   },
   {
@@ -312,13 +312,6 @@
     "team_b": "Su Young You",
     "event_name": "UFC",
     "poster_id": "Long-Xiao-Su-Young-You-23082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Hayisaer Maheshate",
-    "team_b": "Gauge Young",
-    "event_name": "UFC",
-    "poster_id": "Hayisaer-Maheshate-Gauge-Young-23082025.png",
     "match_type": "team_vs_team"
   },
   {
