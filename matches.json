@@ -70,13 +70,6 @@
     "match_type": "single_event"
   },
   {
-    "team_a": "Australia",
-    "team_b": "South Africa",
-    "event_name": "One Day International",
-    "poster_id": "Australia-South-Africa-19082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Kuwait",
     "team_b": "Qatar",
     "event_name": "CWC Challenge League",
@@ -245,13 +238,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Southern Brave",
-    "team_b": "Oval Invincibles",
-    "event_name": "The Hundred",
-    "poster_id": "Southern-Brave-Oval-Invincibles-18082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Rasul Magomedov",
     "team_b": "Guilherme Viana",
     "event_name": "PFL",
@@ -315,13 +301,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Leeds United",
-    "team_b": "Everton",
-    "event_name": "Premier League",
-    "poster_id": "Leeds-United-Everton-18082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Elche",
     "team_b": "Real Betis",
     "event_name": "LaLiga",
@@ -340,6 +319,55 @@
     "team_b": "FC Porto",
     "event_name": "Liga Portugal Betclic",
     "poster_id": "Gil-Vicente-FC-Porto-18082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Trent Rockets Women",
+    "team_b": "Manchester Originals Women",
+    "event_name": "The Hundred Women",
+    "poster_id": "Trent-Rockets-Women-Manchester-Originals-Women-19082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Welsh Fire Women",
+    "team_b": "Southern Brave Women",
+    "event_name": "The Hundred Women",
+    "poster_id": "Welsh-Fire-Women-Southern-Brave-Women-20082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Trent Rockets",
+    "team_b": "Manchester Originals",
+    "event_name": "The Hundred",
+    "poster_id": "Trent-Rockets-Manchester-Originals-19082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "St Kitts and Nevis Patriots",
+    "team_b": "Saint Lucia Kings",
+    "event_name": "Caribbean Premier League",
+    "poster_id": "St-Kitts-and-Nevis-Patriots-Saint-Lucia-Kings-19082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Australia",
+    "team_b": "South Africa",
+    "event_name": "One Day International",
+    "poster_id": "Australia-South-Africa-19082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Northern Territory Strike ",
+    "team_b": "Bangladesh A",
+    "event_name": "Top End Cricket ",
+    "poster_id": "Northern-Territory-Strike-Bangladesh-A-19082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Nepal ",
+    "team_b": "HHA ",
+    "event_name": "Top End Cricket ",
+    "poster_id": "Nepal-HHA-19082025.png",
     "match_type": "team_vs_team"
   }
 ]
