@@ -196,20 +196,6 @@
     "match_type": "single_event"
   },
   {
-    "team_a": "TRAU  FC ",
-    "team_b": "Indian navy ",
-    "event_name": "Durand Cup",
-    "poster_id": "TRAU-FC-Indian-navy-12082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Al-Nassr",
-    "team_b": "Al-Ittihad",
-    "event_name": "Saudi Super Cup",
-    "poster_id": "Al-Nassr-Al-Ittihad-19082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Rasul Magomedov",
     "team_b": "Guilherme Viana",
     "event_name": "PFL",
