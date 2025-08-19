@@ -203,38 +203,10 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Algeria",
-    "team_b": "Niger",
-    "event_name": "African Nations Championship",
-    "poster_id": "Algeria-Niger-18082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "South Africa",
-    "team_b": "Uganda",
-    "event_name": "African Nations Championship",
-    "poster_id": "South-Africa-Uganda-18082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Al-Nassr",
     "team_b": "Al-Ittihad",
     "event_name": "Saudi Super Cup",
     "poster_id": "Al-Nassr-Al-Ittihad-19082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "PreuÃen MÃ¼nster",
-    "team_b": "Hertha BSC",
-    "event_name": "DFB Pokal",
-    "poster_id": "PreuÃen-MÃ¼nster-Hertha-BSC-18082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Southern Brave Women",
-    "team_b": "Oval Invincibles Women",
-    "event_name": "The Hundred Women",
-    "poster_id": "Southern-Brave-Women-Oval-Invincibles-Women-18082025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -301,45 +273,10 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Elche",
-    "team_b": "Real Betis",
-    "event_name": "LaLiga",
-    "poster_id": "Elche-Real-Betis-18082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Rot-Weiss Essen",
-    "team_b": "Borussia Dortmund",
-    "event_name": "DFB Pokal",
-    "poster_id": "Rot-Weiss-Essen-Borussia-Dortmund-18082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Gil Vicente",
-    "team_b": "FC Porto",
-    "event_name": "Liga Portugal Betclic",
-    "poster_id": "Gil-Vicente-FC-Porto-18082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Trent Rockets Women",
-    "team_b": "Manchester Originals Women",
-    "event_name": "The Hundred Women",
-    "poster_id": "Trent-Rockets-Women-Manchester-Originals-Women-19082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Welsh Fire Women",
     "team_b": "Southern Brave Women",
     "event_name": "The Hundred Women",
     "poster_id": "Welsh-Fire-Women-Southern-Brave-Women-20082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Trent Rockets",
-    "team_b": "Manchester Originals",
-    "event_name": "The Hundred",
-    "poster_id": "Trent-Rockets-Manchester-Originals-19082025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -364,10 +301,24 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Nepal ",
-    "team_b": "HHA ",
-    "event_name": "Top End Cricket ",
-    "poster_id": "Nepal-HHA-19082025.png",
+    "team_a": "Trent Rockets",
+    "team_b": "Manchester Originals",
+    "event_name": "The Hundred",
+    "poster_id": "Trent-Rockets-Manchester-Originals-19082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Trent Rockets Women",
+    "team_b": "Manchester Originals Women",
+    "event_name": "The Hundred Women",
+    "poster_id": "Trent-Rockets-Women-Manchester-Originals-Women-19082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Shillong Lajong FC ",
+    "team_b": "NorthEast United FC ",
+    "event_name": "Durando Cup ",
+    "poster_id": "Shillong-Lajong-FC-NorthEast-United-FC-19082025.png",
     "match_type": "team_vs_team"
   }
 ]
