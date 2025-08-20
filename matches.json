@@ -252,38 +252,10 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Trent Rockets",
-    "team_b": "Manchester Originals",
-    "event_name": "The Hundred",
-    "poster_id": "Trent-Rockets-Manchester-Originals-19082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Shillong Lajong FC ",
     "team_b": "NorthEast United FC ",
     "event_name": "Durando Cup ",
     "poster_id": "Shillong-Lajong-FC-NorthEast-United-FC-19082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Rangers",
-    "team_b": "Club Brugge KV",
-    "event_name": "UEFA Champions League",
-    "poster_id": "Rangers-Club-Brugge-KV-19082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Nigeria",
-    "team_b": "Congo Republic",
-    "event_name": "African Nations Championship",
-    "poster_id": "Nigeria-Congo-Republic-19082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Sudan",
-    "team_b": "Senegal",
-    "event_name": "African Nations Championship",
-    "poster_id": "Sudan-Senegal-19082025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -294,10 +266,31 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Nepal ",
-    "team_b": "Melbourne Renegades Academy",
-    "event_name": "Top End Cricket ",
-    "poster_id": "Nepal-Melbourne-Renegades-Academy-20082025.png",
+    "team_a": "London Spirit Women",
+    "team_b": "Northern Superchargers Women",
+    "event_name": "The Hundred Women",
+    "poster_id": "London-Spirit-Women-Northern-Superchargers-Women-20082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Antigua & Barbuda Falcons",
+    "team_b": "Trinbago Knight Riders",
+    "event_name": "Caribbean Premier League",
+    "poster_id": "Antigua-&-Barbuda-Falcons-Trinbago-Knight-Riders-20082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "London Spirit",
+    "team_b": "Northern Superchargers",
+    "event_name": "The Hundred",
+    "poster_id": "London-Spirit-Northern-Superchargers-20082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Welsh Fire",
+    "team_b": "Southern Brave",
+    "event_name": "The Hundred",
+    "poster_id": "Welsh-Fire-Southern-Brave-20082025.png",
     "match_type": "team_vs_team"
   }
 ]
