@@ -292,5 +292,12 @@
     "event_name": "The Hundred",
     "poster_id": "Welsh-Fire-Southern-Brave-20082025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Al-Qadsiah",
+    "team_b": "Al-Ahli",
+    "event_name": "Saudi Super Cup",
+    "poster_id": "Al-Qadsiah-Al-Ahli-20082025.png",
+    "match_type": "team_vs_team"
   }
 ]
