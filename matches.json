@@ -84,13 +84,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Bangladesh",
-    "team_b": "India",
-    "event_name": "One Day International",
-    "poster_id": "Bangladesh-India-20082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Australia",
     "team_b": "South Africa",
     "event_name": "One Day International",
@@ -203,13 +196,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Josh Hokit",
-    "team_b": "Guilherme Uriel",
-    "event_name": "Dana White's Contender Series",
-    "poster_id": "Josh-Hokit-Guilherme-Uriel-20082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Rongzhu",
     "team_b": "Austin Hubbard",
     "event_name": "UFC",
@@ -266,24 +252,10 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "St Kitts and Nevis Patriots",
-    "team_b": "Saint Lucia Kings",
-    "event_name": "Caribbean Premier League",
-    "poster_id": "St-Kitts-and-Nevis-Patriots-Saint-Lucia-Kings-19082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Trent Rockets",
     "team_b": "Manchester Originals",
     "event_name": "The Hundred",
     "poster_id": "Trent-Rockets-Manchester-Originals-19082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Trent Rockets Women",
-    "team_b": "Manchester Originals Women",
-    "event_name": "The Hundred Women",
-    "poster_id": "Trent-Rockets-Women-Manchester-Originals-Women-19082025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -322,10 +294,10 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Fluminense",
-    "team_b": "AmÃ©rica de Cali",
-    "event_name": "CONMEBOL Sudamericana",
-    "poster_id": "Fluminense-AmÃ©rica-de-Cali-20082025.png",
+    "team_a": "Nepal ",
+    "team_b": "Melbourne Renegades Academy",
+    "event_name": "Top End Cricket ",
+    "poster_id": "Nepal-Melbourne-Renegades-Academy-20082025.png",
     "match_type": "team_vs_team"
   }
 ]
