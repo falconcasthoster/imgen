@@ -259,13 +259,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Real Madrid",
-    "team_b": "Osasuna",
-    "event_name": "LaLiga",
-    "poster_id": "Real-Madrid-Osasuna-19082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "London Spirit Women",
     "team_b": "Northern Superchargers Women",
     "event_name": "The Hundred Women",
@@ -294,10 +287,38 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Al-Qadsiah",
-    "team_b": "Al-Ahli",
-    "event_name": "Saudi Super Cup",
-    "poster_id": "Al-Qadsiah-Al-Ahli-20082025.png",
+    "team_a": "Inter Miami CF",
+    "team_b": "Tigres UANL",
+    "event_name": "Leagues Cup",
+    "poster_id": "Inter-Miami-CF-Tigres-UANL-21082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "FenerbahÃ§e",
+    "team_b": "Benfica",
+    "event_name": "UEFA Champions League",
+    "poster_id": "FenerbahÃ§e-Benfica-20082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "BodÃ¸/Glimt",
+    "team_b": "SK Sturm Graz",
+    "event_name": "UEFA Champions League",
+    "poster_id": "BodÃ¸Glimt-SK-Sturm-Graz-20082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Celtic",
+    "team_b": "Kairat Almaty",
+    "event_name": "UEFA Champions League",
+    "poster_id": "Celtic-Kairat-Almaty-20082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Basel",
+    "team_b": "FC KÃ¸benhavn",
+    "event_name": "UEFA Champions League",
+    "poster_id": "Basel-FC-KÃ¸benhavn-20082025.png",
     "match_type": "team_vs_team"
   }
 ]
