@@ -168,45 +168,10 @@
     "match_type": "single_event"
   },
   {
-    "team_a": "Rasul Magomedov",
-    "team_b": "Guilherme Viana",
-    "event_name": "PFL",
-    "poster_id": "Rasul-Magomedov-Guilherme-Viana-21082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Rongzhu",
     "team_b": "Austin Hubbard",
     "event_name": "UFC",
     "poster_id": "Rongzhu-Austin-Hubbard-23082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Alexei Pergande",
-    "team_b": "Ethan Goss",
-    "event_name": "PFL",
-    "poster_id": "Alexei-Pergande-Ethan-Goss-22082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Sergey Bilostenniy",
-    "team_b": "Karl Williams",
-    "event_name": "PFL",
-    "poster_id": "Sergey-Bilostenniy-Karl-Williams-21082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Impa Kasanganay",
-    "team_b": "Andrew Sanchez",
-    "event_name": "PFL",
-    "poster_id": "Impa-Kasanganay-Andrew-Sanchez-21082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Josh Silveira",
-    "team_b": "Murad Ramazanov",
-    "event_name": "PFL",
-    "poster_id": "Josh-Silveira-Murad-Ramazanov-21082025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -249,13 +214,6 @@
     "team_b": "Barbados Royals",
     "event_name": "Caribbean Premier League",
     "poster_id": "St-Kitts-and-Nevis-Patriots-Barbados-Royals-21082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "River Plate",
-    "team_b": "Libertad",
-    "event_name": "CONMEBOL Libertadores",
-    "poster_id": "River-Plate-Libertad-22082025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -305,13 +263,6 @@
     "team_b": "Samsunspor",
     "event_name": "UEFA Europa League",
     "poster_id": "Panathinaikos-Samsunspor-21082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Palmeiras",
-    "team_b": "Universitario",
-    "event_name": "CONMEBOL Libertadores",
-    "poster_id": "Palmeiras-Universitario-22082025.png",
     "match_type": "team_vs_team"
   },
   {
