@@ -245,13 +245,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Welsh Fire Women",
-    "team_b": "Southern Brave Women",
-    "event_name": "The Hundred Women",
-    "poster_id": "Welsh-Fire-Women-Southern-Brave-Women-20082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Shillong Lajong FC ",
     "team_b": "NorthEast United FC ",
     "event_name": "Durando Cup ",
@@ -259,59 +252,31 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "London Spirit Women",
-    "team_b": "Northern Superchargers Women",
+    "team_a": "Bangladesh A",
+    "team_b": "Melbourne Stars Academy",
+    "event_name": "Top End Cricket ",
+    "poster_id": "Bangladesh-A-Melbourne-Stars-Academy-21082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Oval Invincibles Women",
+    "team_b": "Trent Rockets Women",
     "event_name": "The Hundred Women",
-    "poster_id": "London-Spirit-Women-Northern-Superchargers-Women-20082025.png",
+    "poster_id": "Oval-Invincibles-Women-Trent-Rockets-Women-21082025.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Antigua & Barbuda Falcons",
-    "team_b": "Trinbago Knight Riders",
+    "team_a": "Oval Invincibles",
+    "team_b": "Trent Rockets",
+    "event_name": "The Hundred",
+    "poster_id": "Oval-Invincibles-Trent-Rockets-21082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "St Kitts and Nevis Patriots",
+    "team_b": "Barbados Royals",
     "event_name": "Caribbean Premier League",
-    "poster_id": "Antigua-&-Barbuda-Falcons-Trinbago-Knight-Riders-20082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "London Spirit",
-    "team_b": "Northern Superchargers",
-    "event_name": "The Hundred",
-    "poster_id": "London-Spirit-Northern-Superchargers-20082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Welsh Fire",
-    "team_b": "Southern Brave",
-    "event_name": "The Hundred",
-    "poster_id": "Welsh-Fire-Southern-Brave-20082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Inter Miami CF",
-    "team_b": "Tigres UANL",
-    "event_name": "Leagues Cup",
-    "poster_id": "Inter-Miami-CF-Tigres-UANL-21082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "FenerbahÃ§e",
-    "team_b": "Benfica",
-    "event_name": "UEFA Champions League",
-    "poster_id": "FenerbahÃ§e-Benfica-20082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Celtic",
-    "team_b": "Kairat Almaty",
-    "event_name": "UEFA Champions League",
-    "poster_id": "Celtic-Kairat-Almaty-20082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Basel",
-    "team_b": "FC KÃ¸benhavn",
-    "event_name": "UEFA Champions League",
-    "poster_id": "Basel-FC-KÃ¸benhavn-20082025.png",
+    "poster_id": "St-Kitts-and-Nevis-Patriots-Barbados-Royals-21082025.png",
     "match_type": "team_vs_team"
   }
 ]
