@@ -70,20 +70,6 @@
     "match_type": "single_event"
   },
   {
-    "team_a": "Kuwait",
-    "team_b": "Qatar",
-    "event_name": "CWC Challenge League",
-    "poster_id": "Kuwait-Qatar-21082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Kenya",
-    "team_b": "Jersey",
-    "event_name": "CWC Challenge League",
-    "poster_id": "Kenya-Jersey-21082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Australia",
     "team_b": "South Africa",
     "event_name": "One Day International",
@@ -95,13 +81,6 @@
     "team_b": "Jersey",
     "event_name": "CWC Challenge League",
     "poster_id": "Kuwait-Jersey-23082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Kuwait",
-    "team_b": "Qatar",
-    "event_name": "CWC Challenge League",
-    "poster_id": "Kuwait-Qatar-21082025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -277,6 +256,27 @@
     "team_b": "Barbados Royals",
     "event_name": "Caribbean Premier League",
     "poster_id": "St-Kitts-and-Nevis-Patriots-Barbados-Royals-21082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "LDU",
+    "team_b": "Botafogo",
+    "event_name": "CONMEBOL Libertadores",
+    "poster_id": "LDU-Botafogo-21082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Palmeiras",
+    "team_b": "Universitario",
+    "event_name": "CONMEBOL Libertadores",
+    "poster_id": "Palmeiras-Universitario-22082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "River Plate",
+    "team_b": "Libertad",
+    "event_name": "CONMEBOL Libertadores",
+    "poster_id": "River-Plate-Libertad-22082025.png",
     "match_type": "team_vs_team"
   }
 ]
