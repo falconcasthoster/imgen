@@ -231,13 +231,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Bangladesh A",
-    "team_b": "Melbourne Stars Academy",
-    "event_name": "Top End Cricket ",
-    "poster_id": "Bangladesh-A-Melbourne-Stars-Academy-21082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Oval Invincibles Women",
     "team_b": "Trent Rockets Women",
     "event_name": "The Hundred Women",
@@ -259,10 +252,59 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "LDU",
-    "team_b": "Botafogo",
+    "team_a": "River Plate",
+    "team_b": "Libertad",
     "event_name": "CONMEBOL Libertadores",
-    "poster_id": "LDU-Botafogo-21082025.png",
+    "poster_id": "River-Plate-Libertad-22082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Shakhtar Donetsk",
+    "team_b": "Servette FC",
+    "event_name": "UEFA Conference League",
+    "poster_id": "Shakhtar-Donetsk-Servette-FC-21082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Polissya Zhytomyr",
+    "team_b": "Fiorentina",
+    "event_name": "UEFA Conference League",
+    "poster_id": "Polissya-Zhytomyr-Fiorentina-21082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Maccabi Tel Aviv",
+    "team_b": "Dynamo Kyiv",
+    "event_name": "UEFA Europa League",
+    "poster_id": "Maccabi-Tel-Aviv-Dynamo-Kyiv-21082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "KF ShkÃ«ndija",
+    "team_b": "Ludogorets",
+    "event_name": "UEFA Europa League",
+    "poster_id": "KF-ShkÃ«ndija-Ludogorets-21082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Å K Slovan Bratislava",
+    "team_b": "Young Boys",
+    "event_name": "UEFA Europa League",
+    "poster_id": "Å-K-Slovan-Bratislava-Young-Boys-21082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Neman Grodno",
+    "team_b": "Rayo Vallecano",
+    "event_name": "UEFA Conference League",
+    "poster_id": "Neman-Grodno-Rayo-Vallecano-21082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Panathinaikos",
+    "team_b": "Samsunspor",
+    "event_name": "UEFA Europa League",
+    "poster_id": "Panathinaikos-Samsunspor-21082025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -273,10 +315,10 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "River Plate",
-    "team_b": "Libertad",
+    "team_a": "LDU",
+    "team_b": "Botafogo",
     "event_name": "CONMEBOL Libertadores",
-    "poster_id": "River-Plate-Libertad-22082025.png",
+    "poster_id": "LDU-Botafogo-21082025.png",
     "match_type": "team_vs_team"
   }
 ]
