@@ -1,9 +1,9 @@
 [
   {
-    "team_a": "Monday Night RAW ð¥",
+    "team_a": "Monday Night RAW",
     "team_b": "",
-    "event_name": "Monday Night RAW ð¥",
-    "poster_id": "Monday-Night-RAW-ð¥-19082025.png",
+    "event_name": "Monday Night RAW",
+    "poster_id": "Monday-Night-RAW-26082025.png",
     "match_type": "single_event"
   },
   {
@@ -14,10 +14,10 @@
     "match_type": "single_event"
   },
   {
-    "team_a": "SmackDownð¥",
+    "team_a": "SmackDown",
     "team_b": "",
-    "event_name": "SmackDownð¥",
-    "poster_id": "SmackDownð¥-23082025.png",
+    "event_name": "SmackDown",
+    "poster_id": "SmackDown-23082025.png",
     "match_type": "single_event"
   },
   {
@@ -31,7 +31,7 @@
     "team_a": "WWE NXT",
     "team_b": "",
     "event_name": "WWW NXT",
-    "poster_id": "WWE-NXT-20082025.png",
+    "poster_id": "WWE-NXT-27082025.png",
     "match_type": "single_event"
   },
   {
