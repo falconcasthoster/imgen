@@ -264,5 +264,12 @@
     "event_name": "One Day International",
     "poster_id": "Australia-South-Africa-22082025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Pakistan A ",
+    "team_b": "Nepal ",
+    "event_name": "Top End Cricket ",
+    "poster_id": "Pakistan-A-Nepal-22082025.png",
+    "match_type": "team_vs_team"
   }
 ]
