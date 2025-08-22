@@ -287,20 +287,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Paris Saint-Germain",
-    "team_b": "Angers",
-    "event_name": "Ligue 1",
-    "poster_id": "Paris-Saint-Germain-Angers-22082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Palestino",
-    "team_b": "Colo Colo",
-    "event_name": "Liga de Primera",
-    "poster_id": "Palestino-Colo-Colo-22082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Olympique de Marseille",
     "team_b": "Paris FC",
     "event_name": "Ligue 1",
@@ -329,13 +315,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Real Betis",
-    "team_b": "Deportivo AlavÃ©s",
-    "event_name": "LaLiga",
-    "poster_id": "Real-Betis-Deportivo-AlavÃ©s-22082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Burnley",
     "team_b": "Sunderland",
     "event_name": "Premier League",
@@ -357,20 +336,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "FC Bayern MÃ¼nchen",
-    "team_b": "RB Leipzig",
-    "event_name": "Bundesliga",
-    "poster_id": "FC-Bayern-MÃ¼nchen-RB-Leipzig-22082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "West Ham United",
-    "team_b": "Chelsea",
-    "event_name": "Premier League",
-    "poster_id": "West-Ham-United-Chelsea-22082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Birmingham Phoenix",
     "team_b": "Welsh Fire",
     "event_name": "The Hundred",
@@ -389,6 +354,41 @@
     "team_b": "Welsh Fire Women",
     "event_name": "The Hundred Women",
     "poster_id": "Birmingham-Phoenix-Women-Welsh-Fire-Women-22082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Real Betis",
+    "team_b": "Deportivo AlavÃ©s",
+    "event_name": "LaLiga",
+    "poster_id": "Real-Betis-Deportivo-AlavÃ©s-22082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Paris Saint-Germain",
+    "team_b": "Angers",
+    "event_name": "Ligue 1",
+    "poster_id": "Paris-Saint-Germain-Angers-22082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "West Ham United",
+    "team_b": "Chelsea",
+    "event_name": "Premier League",
+    "poster_id": "West-Ham-United-Chelsea-22082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "FC Bayern MÃ¼nchen",
+    "team_b": "RB Leipzig",
+    "event_name": "Bundesliga",
+    "poster_id": "FC-Bayern-MÃ¼nchen-RB-Leipzig-22082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Derby County",
+    "team_b": "Bristol City",
+    "event_name": "Championship",
+    "poster_id": "Derby-County-Bristol-City-22082025.png",
     "match_type": "team_vs_team"
   }
 ]
