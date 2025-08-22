@@ -70,13 +70,6 @@
     "match_type": "single_event"
   },
   {
-    "team_a": "Australia",
-    "team_b": "South Africa",
-    "event_name": "One Day International",
-    "poster_id": "Australia-South-Africa-22082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Kuwait",
     "team_b": "Jersey",
     "event_name": "CWC Challenge League",
@@ -203,13 +196,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Oval Invincibles",
-    "team_b": "Trent Rockets",
-    "event_name": "The Hundred",
-    "poster_id": "Oval-Invincibles-Trent-Rockets-21082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "St Kitts and Nevis Patriots",
     "team_b": "Barbados Royals",
     "event_name": "Caribbean Premier League",
@@ -270,6 +256,13 @@
     "team_b": "Botafogo",
     "event_name": "CONMEBOL Libertadores",
     "poster_id": "LDU-Botafogo-21082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Australia",
+    "team_b": "South Africa",
+    "event_name": "One Day International",
+    "poster_id": "Australia-South-Africa-22082025.png",
     "match_type": "team_vs_team"
   }
 ]
