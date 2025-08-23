@@ -84,13 +84,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Bangladesh",
-    "team_b": "India",
-    "event_name": "T20 International",
-    "poster_id": "Bangladesh-India-23082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Zimbabwe",
     "team_b": "Sri Lanka",
     "event_name": "One Day International",
