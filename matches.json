@@ -70,13 +70,6 @@
     "match_type": "single_event"
   },
   {
-    "team_a": "Kuwait",
-    "team_b": "Jersey",
-    "event_name": "CWC Challenge League",
-    "poster_id": "Kuwait-Jersey-23082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Papua New Guinea",
     "team_b": "Kuwait",
     "event_name": "CWC Challenge League",
@@ -161,20 +154,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Australia",
-    "team_b": "South Africa",
-    "event_name": "One Day International",
-    "poster_id": "Australia-South-Africa-22082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Pakistan A ",
-    "team_b": "Nepal ",
-    "event_name": "Top End Cricket ",
-    "poster_id": "Pakistan-A-Nepal-22082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "AtlÃ©tico Madrid",
     "team_b": "Elche",
     "event_name": "LaLiga",
@@ -214,83 +193,6 @@
     "team_b": "Bologna",
     "event_name": "Serie A",
     "poster_id": "Roma-Bologna-23082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Birmingham Phoenix",
-    "team_b": "Welsh Fire",
-    "event_name": "The Hundred",
-    "poster_id": "Birmingham-Phoenix-Welsh-Fire-22082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Northern Superchargers Women",
-    "team_b": "Oval Invincibles Women",
-    "event_name": "The Hundred Women",
-    "poster_id": "Northern-Superchargers-Women-Oval-Invincibles-Women-23082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Birmingham Phoenix Women",
-    "team_b": "Welsh Fire Women",
-    "event_name": "The Hundred Women",
-    "poster_id": "Birmingham-Phoenix-Women-Welsh-Fire-Women-22082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Real Betis",
-    "team_b": "Deportivo AlavÃ©s",
-    "event_name": "LaLiga",
-    "poster_id": "Real-Betis-Deportivo-AlavÃ©s-22082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "West Ham United",
-    "team_b": "Chelsea",
-    "event_name": "Premier League",
-    "poster_id": "West-Ham-United-Chelsea-22082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "FC Bayern MÃ¼nchen",
-    "team_b": "RB Leipzig",
-    "event_name": "Bundesliga",
-    "poster_id": "FC-Bayern-MÃ¼nchen-RB-Leipzig-22082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Derby County",
-    "team_b": "Bristol City",
-    "event_name": "Championship",
-    "poster_id": "Derby-County-Bristol-City-22082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Bangladesh A",
-    "team_b": "Adelaide strikers academy ",
-    "event_name": "Top End Cricket ",
-    "poster_id": "Bangladesh-A-Adelaide-strikers-academy-23082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Manchester City",
-    "team_b": "Tottenham Hotspur",
-    "event_name": "Premier League",
-    "poster_id": "Manchester-City-Tottenham-Hotspur-23082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Charlton Athletic",
-    "team_b": "Leicester City",
-    "event_name": "Championship",
-    "poster_id": "Charlton-Athletic-Leicester-City-23082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Al-Nassr",
-    "team_b": "Al-Ahli",
-    "event_name": "Saudi Super Cup",
-    "poster_id": "Al-Nassr-Al-Ahli-23082025.png",
     "match_type": "team_vs_team"
   },
   {
