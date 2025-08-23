@@ -87,7 +87,7 @@
     "team_a": "Bangladesh",
     "team_b": "India",
     "event_name": "T20 International",
-    "poster_id": "Bangladesh-India-26082025.png",
+    "poster_id": "Bangladesh-India-23082025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -299,5 +299,12 @@
     "event_name": "Serie A",
     "poster_id": "Genoa-Lecce-23082025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "T 1",
+    "team_b": "",
+    "event_name": "Football",
+    "poster_id": "T-1-23082025.png",
+    "match_type": "single_event"
   }
 ]
