@@ -285,19 +285,5 @@
     "event_name": "Serie A",
     "poster_id": "Sassuolo-Napoli-23082025.png",
     "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "FC St. Pauli",
-    "team_b": "Borussia Dortmund",
-    "event_name": "Bundesliga",
-    "poster_id": "FC-St.-Pauli-Borussia-Dortmund-23082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Genoa",
-    "team_b": "Lecce",
-    "event_name": "Serie A",
-    "poster_id": "Genoa-Lecce-23082025.png",
-    "match_type": "team_vs_team"
   }
 ]
