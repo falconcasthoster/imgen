@@ -182,13 +182,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Mallorca",
-    "team_b": "Celta Vigo",
-    "event_name": "LaLiga",
-    "poster_id": "Mallorca-Celta-Vigo-23082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "FC St. Pauli",
     "team_b": "Borussia Dortmund",
     "event_name": "Bundesliga",
@@ -221,90 +214,6 @@
     "team_b": "Bologna",
     "event_name": "Serie A",
     "poster_id": "Roma-Bologna-23082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Manchester City",
-    "team_b": "Tottenham Hotspur",
-    "event_name": "Premier League",
-    "poster_id": "Manchester-City-Tottenham-Hotspur-23082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Eintracht Frankfurt",
-    "team_b": "SV Werder Bremen",
-    "event_name": "Bundesliga",
-    "poster_id": "Eintracht-Frankfurt-SV-Werder-Bremen-23082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Al-Nassr",
-    "team_b": "Al-Ahli",
-    "event_name": "Saudi Super Cup",
-    "poster_id": "Al-Nassr-Al-Ahli-23082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "SC Freiburg",
-    "team_b": "FC Augsburg",
-    "event_name": "Bundesliga",
-    "poster_id": "SC-Freiburg-FC-Augsburg-23082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Bayer 04 Leverkusen",
-    "team_b": "TSG Hoffenheim",
-    "event_name": "Bundesliga",
-    "poster_id": "Bayer-04-Leverkusen-TSG-Hoffenheim-23082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Olympique de Marseille",
-    "team_b": "Paris FC",
-    "event_name": "Ligue 1",
-    "poster_id": "Olympique-de-Marseille-Paris-FC-23082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "FC KÃ¸benhavn",
-    "team_b": "Odense Boldklub",
-    "event_name": "Danish Superliga",
-    "poster_id": "FC-KÃ¸benhavn-Odense-Boldklub-23082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Sheffield United",
-    "team_b": "Millwall",
-    "event_name": "Championship",
-    "poster_id": "Sheffield-United-Millwall-23082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Brentford",
-    "team_b": "Aston Villa",
-    "event_name": "Premier League",
-    "poster_id": "Brentford-Aston-Villa-23082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Burnley",
-    "team_b": "Sunderland",
-    "event_name": "Premier League",
-    "poster_id": "Burnley-Sunderland-23082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "KRC Genk",
-    "team_b": "RC Sporting Charleroi",
-    "event_name": "Pro League",
-    "poster_id": "KRC-Genk-RC-Sporting-Charleroi-23082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Bournemouth",
-    "team_b": "Wolverhampton",
-    "event_name": "Premier League",
-    "poster_id": "Bournemouth-Wolverhampton-23082025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -361,6 +270,104 @@
     "team_b": "Adelaide strikers academy ",
     "event_name": "Top End Cricket ",
     "poster_id": "Bangladesh-A-Adelaide-strikers-academy-23082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Manchester City",
+    "team_b": "Tottenham Hotspur",
+    "event_name": "Premier League",
+    "poster_id": "Manchester-City-Tottenham-Hotspur-23082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Charlton Athletic",
+    "team_b": "Leicester City",
+    "event_name": "Championship",
+    "poster_id": "Charlton-Athletic-Leicester-City-23082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Al-Nassr",
+    "team_b": "Al-Ahli",
+    "event_name": "Saudi Super Cup",
+    "poster_id": "Al-Nassr-Al-Ahli-23082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "1. FC Union Berlin",
+    "team_b": "VfB Stuttgart",
+    "event_name": "Bundesliga",
+    "poster_id": "1.-FC-Union-Berlin-VfB-Stuttgart-23082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Eintracht Frankfurt",
+    "team_b": "SV Werder Bremen",
+    "event_name": "Bundesliga",
+    "poster_id": "Eintracht-Frankfurt-SV-Werder-Bremen-23082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Bayer 04 Leverkusen",
+    "team_b": "TSG Hoffenheim",
+    "event_name": "Bundesliga",
+    "poster_id": "Bayer-04-Leverkusen-TSG-Hoffenheim-23082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "1. FC Heidenheim",
+    "team_b": "VfL Wolfsburg",
+    "event_name": "Bundesliga",
+    "poster_id": "1.-FC-Heidenheim-VfL-Wolfsburg-23082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "SC Freiburg",
+    "team_b": "FC Augsburg",
+    "event_name": "Bundesliga",
+    "poster_id": "SC-Freiburg-FC-Augsburg-23082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Burnley",
+    "team_b": "Sunderland",
+    "event_name": "Premier League",
+    "poster_id": "Burnley-Sunderland-23082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Bournemouth",
+    "team_b": "Wolverhampton",
+    "event_name": "Premier League",
+    "poster_id": "Bournemouth-Wolverhampton-23082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Brentford",
+    "team_b": "Aston Villa",
+    "event_name": "Premier League",
+    "poster_id": "Brentford-Aston-Villa-23082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Sheffield United",
+    "team_b": "Millwall",
+    "event_name": "Championship",
+    "poster_id": "Sheffield-United-Millwall-23082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Uganda",
+    "team_b": "Senegal",
+    "event_name": "African Nations Championship",
+    "poster_id": "Uganda-Senegal-23082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Mallorca",
+    "team_b": "Celta Vigo",
+    "event_name": "LaLiga",
+    "poster_id": "Mallorca-Celta-Vigo-23082025.png",
     "match_type": "team_vs_team"
   }
 ]
