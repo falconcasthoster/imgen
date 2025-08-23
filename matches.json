@@ -24,7 +24,7 @@
     "team_a": "MotoGP ðï¸",
     "team_b": "",
     "event_name": "MotoGP ðï¸",
-    "poster_id": "MotoGP-ðï¸-15082025.png",
+    "poster_id": "MotoGP-ðï¸-23082025.png",
     "match_type": "single_event"
   },
   {
@@ -74,13 +74,6 @@
     "team_b": "Jersey",
     "event_name": "CWC Challenge League",
     "poster_id": "Kuwait-Jersey-23082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Bangladesh",
-    "team_b": "India",
-    "event_name": "One Day International",
-    "poster_id": "Bangladesh-India-23082025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -364,13 +357,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Paris Saint-Germain",
-    "team_b": "Angers",
-    "event_name": "Ligue 1",
-    "poster_id": "Paris-Saint-Germain-Angers-22082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "West Ham United",
     "team_b": "Chelsea",
     "event_name": "Premier League",
@@ -389,6 +375,13 @@
     "team_b": "Bristol City",
     "event_name": "Championship",
     "poster_id": "Derby-County-Bristol-City-22082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Bangladesh A",
+    "team_b": "Adelaide strikers academy ",
+    "event_name": "Top End Cricket ",
+    "poster_id": "Bangladesh-A-Adelaide-strikers-academy-23082025.png",
     "match_type": "team_vs_team"
   }
 ]
