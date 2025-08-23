@@ -7,10 +7,10 @@
     "match_type": "single_event"
   },
   {
-    "team_a": "Formula 1 ðï¸",
+    "team_a": "Formula 1",
     "team_b": "",
-    "event_name": "Formula 1 ðï¸",
-    "poster_id": "Formula-1-ðï¸-26082025.png",
+    "event_name": "Formula 1",
+    "poster_id": "Formula-1-26082025.png",
     "match_type": "single_event"
   },
   {
@@ -18,13 +18,6 @@
     "team_b": "",
     "event_name": "SmackDown",
     "poster_id": "SmackDown-23082025.png",
-    "match_type": "single_event"
-  },
-  {
-    "team_a": "MotoGP ðï¸",
-    "team_b": "",
-    "event_name": "MotoGP ðï¸",
-    "poster_id": "MotoGP-ðï¸-23082025.png",
     "match_type": "single_event"
   },
   {
