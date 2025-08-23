@@ -154,27 +154,6 @@
     "match_type": "single_event"
   },
   {
-    "team_a": "Rongzhu",
-    "team_b": "Austin Hubbard",
-    "event_name": "UFC",
-    "poster_id": "Rongzhu-Austin-Hubbard-23082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Diyar Nurgozhay",
-    "team_b": "Uran Satybaldiev",
-    "event_name": "UFC",
-    "poster_id": "Diyar-Nurgozhay-Uran-Satybaldiev-23082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Long Xiao",
-    "team_b": "Su Young You",
-    "event_name": "UFC",
-    "poster_id": "Long-Xiao-Su-Young-You-23082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Shillong Lajong FC ",
     "team_b": "NorthEast United FC ",
     "event_name": "Durando Cup ",
