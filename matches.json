@@ -154,13 +154,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Villarreal",
-    "team_b": "Girona FC",
-    "event_name": "LaLiga",
-    "poster_id": "Villarreal-Girona-FC-24082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Atalanta",
     "team_b": "Pisa",
     "event_name": "Serie A",
