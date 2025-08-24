@@ -70,13 +70,6 @@
     "match_type": "single_event"
   },
   {
-    "team_a": "Papua New Guinea",
-    "team_b": "Kuwait",
-    "event_name": "CWC Challenge League",
-    "poster_id": "Papua-New-Guinea-Kuwait-24082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Zimbabwe",
     "team_b": "Sri Lanka",
     "event_name": "One Day International",
