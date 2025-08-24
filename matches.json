@@ -133,76 +133,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Crystal Palace",
-    "team_b": "Nottingham Forest",
-    "event_name": "Premier League",
-    "poster_id": "Crystal-Palace-Nottingham-Forest-24082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Lorient",
-    "team_b": "Stade Rennais",
-    "event_name": "Ligue 1",
-    "poster_id": "Lorient-Stade-Rennais-24082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Everton",
-    "team_b": "Brighton & Hove Albion",
-    "event_name": "Premier League",
-    "poster_id": "Everton-Brighton-&-Hove-Albion-24082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "1. FSV Mainz 05",
-    "team_b": "1. FC KÃ¶ln",
-    "event_name": "Bundesliga",
-    "poster_id": "1.-FSV-Mainz-05-1.-FC-KÃ¶ln-24082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Osasuna",
-    "team_b": "Valencia",
-    "event_name": "LaLiga",
-    "poster_id": "Osasuna-Valencia-24082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Borussia M'gladbach",
-    "team_b": "Hamburger SV",
-    "event_name": "Bundesliga",
-    "poster_id": "Borussia-M'gladbach-Hamburger-SV-24082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "RC Strasbourg",
-    "team_b": "Nantes",
-    "event_name": "Ligue 1",
-    "poster_id": "RC-Strasbourg-Nantes-24082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Le Havre",
-    "team_b": "RC Lens",
-    "event_name": "Ligue 1",
-    "poster_id": "Le-Havre-RC-Lens-24082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Fulham",
-    "team_b": "Manchester United",
-    "event_name": "Premier League",
-    "poster_id": "Fulham-Manchester-United-24082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Toulouse",
-    "team_b": "Stade Brestois",
-    "event_name": "Ligue 1",
-    "poster_id": "Toulouse-Stade-Brestois-24082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Como",
     "team_b": "Lazio",
     "event_name": "Serie A",
@@ -301,24 +231,10 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Welsh Fire Women",
-    "team_b": "Trent Rockets Women",
-    "event_name": "The Hundred Women",
-    "poster_id": "Welsh-Fire-Women-Trent-Rockets-Women-24082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Manchester Originals",
     "team_b": "Birmingham Phoenix",
     "event_name": "The Hundred",
     "poster_id": "Manchester-Originals-Birmingham-Phoenix-24082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Manchester Originals Women",
-    "team_b": "Birmingham Phoenix Women",
-    "event_name": "The Hundred Women",
-    "poster_id": "Manchester-Originals-Women-Birmingham-Phoenix-Women-24082025.png",
     "match_type": "team_vs_team"
   },
   {
