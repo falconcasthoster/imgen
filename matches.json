@@ -236,5 +236,103 @@
     "event_name": "South Africa in Australia ",
     "poster_id": "Australia-South-Africa-24082025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Oval Invincibles",
+    "team_b": "London Spirit",
+    "event_name": "The Hundred",
+    "poster_id": "Oval-Invincibles-London-Spirit-25082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Oval Invincibles Women",
+    "team_b": "London Spirit Women",
+    "event_name": "The Hundred Women",
+    "poster_id": "Oval-Invincibles-Women-London-Spirit-Women-25082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Athletic Club",
+    "team_b": "Rayo Vallecano",
+    "event_name": "LaLiga",
+    "poster_id": "Athletic-Club-Rayo-Vallecano-25082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Newcastle United",
+    "team_b": "Liverpool",
+    "event_name": "Premier League",
+    "poster_id": "Newcastle-United-Liverpool-25082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Inter",
+    "team_b": "Torino",
+    "event_name": "Serie A",
+    "poster_id": "Inter-Torino-25082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Palmeiras",
+    "team_b": "Sport Recife",
+    "event_name": "BrasileirÃ£o Betano",
+    "poster_id": "Palmeiras-Sport-Recife-25082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Sevilla",
+    "team_b": "Getafe",
+    "event_name": "LaLiga",
+    "poster_id": "Sevilla-Getafe-25082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Flamengo",
+    "team_b": "VitÃ³ria",
+    "event_name": "BrasileirÃ£o Betano",
+    "poster_id": "Flamengo-VitÃ³ria-26082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Morocco",
+    "team_b": "Senegal",
+    "event_name": "African Nations Championship",
+    "poster_id": "Morocco-Senegal-26082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Wolverhampton",
+    "team_b": "West Ham United",
+    "event_name": "EFL Cup",
+    "poster_id": "Wolverhampton-West-Ham-United-26082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Eintracht Braunschweig",
+    "team_b": "VfB Stuttgart",
+    "event_name": "DFB Pokal",
+    "poster_id": "Eintracht-Braunschweig-VfB-Stuttgart-26082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "SK Sturm Graz",
+    "team_b": "BodÃ¸/Glimt",
+    "event_name": "UEFA Champions League",
+    "poster_id": "SK-Sturm-Graz-BodÃ¸Glimt-26082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Sheffield Wednesday",
+    "team_b": "Leeds United",
+    "event_name": "EFL Cup",
+    "poster_id": "Sheffield-Wednesday-Leeds-United-26082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Manchester United",
+    "team_b": "PSV Eindhoven",
+    "event_name": "UEFA Women's Champions League",
+    "poster_id": "Manchester-United-PSV-Eindhoven-27082025.png",
+    "match_type": "team_vs_team"
   }
 ]
