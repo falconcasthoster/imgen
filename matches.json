@@ -208,5 +208,12 @@
     "event_name": "UEFA Women's Champions League",
     "poster_id": "Manchester-United-PSV-Eindhoven-27082025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Wolverhampton",
+    "team_b": "West Ham United",
+    "event_name": "EFL Cup",
+    "poster_id": "Wolverhampton-West-Ham-United-26082025.png",
+    "match_type": "team_vs_team"
   }
 ]
