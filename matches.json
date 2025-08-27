@@ -77,13 +77,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Qatar",
-    "team_b": "Denmark",
-    "event_name": "CWC Challenge League",
-    "poster_id": "Qatar-Denmark-27082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Jersey",
     "team_b": "Qatar",
     "event_name": "CWC Challenge League",
@@ -140,38 +133,10 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Eintracht Braunschweig",
-    "team_b": "VfB Stuttgart",
-    "event_name": "DFB Pokal",
-    "poster_id": "Eintracht-Braunschweig-VfB-Stuttgart-26082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "SK Sturm Graz",
-    "team_b": "BodÃ¸/Glimt",
-    "event_name": "UEFA Champions League",
-    "poster_id": "SK-Sturm-Graz-BodÃ¸Glimt-26082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Sheffield Wednesday",
     "team_b": "Leeds United",
     "event_name": "EFL Cup",
     "poster_id": "Sheffield-Wednesday-Leeds-United-26082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Manchester United",
-    "team_b": "PSV Eindhoven",
-    "event_name": "UEFA Women's Champions League",
-    "poster_id": "Manchester-United-PSV-Eindhoven-27082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Bournemouth",
-    "team_b": "Brentford",
-    "event_name": "EFL Cup",
-    "poster_id": "Bournemouth-Brentford-26082025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -189,17 +154,10 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Saint Lucia Kings",
-    "team_b": "Guyana Amazon Warriors",
-    "event_name": "Caribbean Premier League",
-    "poster_id": "Saint-Lucia-Kings-Guyana-Amazon-Warriors-26082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Boost Region",
-    "team_b": "Band-e-Amir Region",
-    "event_name": "Afghanistan Regional One Day Tournament",
-    "poster_id": "Boost-Region-Band-e-Amir-Region-27082025.png",
+    "team_a": "Wolverhampton",
+    "team_b": "West Ham United",
+    "event_name": "EFL Cup",
+    "poster_id": "Wolverhampton-West-Ham-United-26082025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -210,10 +168,402 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Wolverhampton",
-    "team_b": "West Ham United",
+    "team_a": "AS Roma",
+    "team_b": "Aktobe",
+    "event_name": "UEFA Women's Champions League",
+    "poster_id": "AS-Roma-Aktobe-27082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "SK Brann Kvinner",
+    "team_b": "Inter",
+    "event_name": "UEFA Women's Champions League",
+    "poster_id": "SK-Brann-Kvinner-Inter-27082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "AEK Larnaca",
+    "team_b": "SK Brann",
+    "event_name": "UEFA Europa League",
+    "poster_id": "AEK-Larnaca-SK-Brann-27082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "QarabaÄ",
+    "team_b": "FerencvÃ¡ros TC",
+    "event_name": "UEFA Champions League",
+    "poster_id": "QarabaÄ-FerencvÃ¡ros-TC-27082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "QarabaÄ",
+    "team_b": "FerencvÃ¡ros TC",
+    "event_name": "UEFA Champions League",
+    "poster_id": "QarabaÄ-FerencvÃ¡ros-TC-27082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Fulham",
+    "team_b": "Bristol City",
     "event_name": "EFL Cup",
-    "poster_id": "Wolverhampton-West-Ham-United-26082025.png",
+    "poster_id": "Fulham-Bristol-City-27082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Everton",
+    "team_b": "Mansfield Town",
+    "event_name": "EFL Cup",
+    "poster_id": "Everton-Mansfield-Town-27082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Benfica",
+    "team_b": "FenerbahÃ§e",
+    "event_name": "UEFA Champions League",
+    "poster_id": "Benfica-FenerbahÃ§e-27082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Oxford United",
+    "team_b": "Brighton & Hove Albion",
+    "event_name": "EFL Cup",
+    "poster_id": "Oxford-United-Brighton-&-Hove-Albion-27082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "SV Wehen Wiesbaden",
+    "team_b": "FC Bayern MÃ¼nchen",
+    "event_name": "DFB Pokal",
+    "poster_id": "SV-Wehen-Wiesbaden-FC-Bayern-MÃ¼nchen-27082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Club Brugge KV",
+    "team_b": "Rangers",
+    "event_name": "UEFA Champions League",
+    "poster_id": "Club-Brugge-KV-Rangers-27082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "FC KÃ¸benhavn",
+    "team_b": "Basel",
+    "event_name": "UEFA Champions League",
+    "poster_id": "FC-KÃ¸benhavn-Basel-27082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Celta Vigo",
+    "team_b": "Real Betis",
+    "event_name": "LaLiga",
+    "poster_id": "Celta-Vigo-Real-Betis-27082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Grimsby Town",
+    "team_b": "Manchester United",
+    "event_name": "EFL Cup",
+    "poster_id": "Grimsby-Town-Manchester-United-27082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Vasco da Gama",
+    "team_b": "Botafogo",
+    "event_name": "Copa Betano do Brasil",
+    "poster_id": "Vasco-da-Gama-Botafogo-28082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "LA Galaxy",
+    "team_b": "Seattle Sounders FC",
+    "event_name": "Leagues Cup",
+    "poster_id": "LA-Galaxy-Seattle-Sounders-FC-28082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Inter Miami CF",
+    "team_b": "Orlando City SC",
+    "event_name": "Leagues Cup",
+    "poster_id": "Inter-Miami-CF-Orlando-City-SC-28082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "SK Sigma Olomouc",
+    "team_b": "MalmÃ¶ FF",
+    "event_name": "UEFA Europa League",
+    "poster_id": "SK-Sigma-Olomouc-MalmÃ¶-FF-28082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Fredrikstad FK",
+    "team_b": "Crystal Palace",
+    "event_name": "UEFA Conference League",
+    "poster_id": "Fredrikstad-FK-Crystal-Palace-28082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "FC Noah",
+    "team_b": "NK Olimpija Ljubljana",
+    "event_name": "UEFA Conference League",
+    "poster_id": "FC-Noah-NK-Olimpija-Ljubljana-28082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Omonia Nicosia",
+    "team_b": "Wolfsberger AC",
+    "event_name": "UEFA Conference League",
+    "poster_id": "Omonia-Nicosia-Wolfsberger-AC-28082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "RFS",
+    "team_b": "Ä¦amrun Spartans FC",
+    "event_name": "UEFA Conference League",
+    "poster_id": "RFS-Ä¦amrun-Spartans-FC-28082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "BeÅiktaÅ",
+    "team_b": "FC Lausanne-Sport",
+    "event_name": "UEFA Conference League",
+    "poster_id": "BeÅiktaÅ-FC-Lausanne-Sport-28082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "SK Rapid Wien",
+    "team_b": "ETO FC GyÅr",
+    "event_name": "UEFA Conference League",
+    "poster_id": "SK-Rapid-Wien-ETO-FC-GyÅr-28082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Ludogorets",
+    "team_b": "KF ShkÃ«ndija",
+    "event_name": "UEFA Europa League",
+    "poster_id": "Ludogorets-KF-ShkÃ«ndija-28082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Universitatea Craiova",
+    "team_b": "BaÅakÅehir FK",
+    "event_name": "UEFA Conference League",
+    "poster_id": "Universitatea-Craiova-BaÅakÅehir-FK-28082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "AZ Alkmaar",
+    "team_b": "Levski Sofia",
+    "event_name": "UEFA Conference League",
+    "poster_id": "AZ-Alkmaar-Levski-Sofia-28082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "CFR 1907 Cluj",
+    "team_b": "BK HÃ¤cken",
+    "event_name": "UEFA Conference League",
+    "poster_id": "CFR-1907-Cluj-BK-HÃ¤cken-28082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "PAOK",
+    "team_b": "HNK Rijeka",
+    "event_name": "UEFA Europa League",
+    "poster_id": "PAOK-HNK-Rijeka-28082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "BrÃ¸ndby IF",
+    "team_b": "RC Strasbourg",
+    "event_name": "UEFA Conference League",
+    "poster_id": "BrÃ¸ndby-IF-RC-Strasbourg-28082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "KRC Genk",
+    "team_b": "Lech PoznaÅ",
+    "event_name": "UEFA Europa League",
+    "poster_id": "KRC-Genk-Lech-PoznaÅ-28082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Arda Kardzhali",
+    "team_b": "RakÃ³w CzÄstochowa",
+    "event_name": "UEFA Conference League",
+    "poster_id": "Arda-Kardzhali-RakÃ³w-CzÄstochowa-28082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Fiorentina",
+    "team_b": "Polissya Zhytomyr",
+    "event_name": "UEFA Conference League",
+    "poster_id": "Fiorentina-Polissya-Zhytomyr-28082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Young Boys",
+    "team_b": "Å K Slovan Bratislava",
+    "event_name": "UEFA Europa League",
+    "poster_id": "Young-Boys-Å-K-Slovan-Bratislava-28082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "BanÃ­k Ostrava",
+    "team_b": "NK Celje",
+    "event_name": "UEFA Conference League",
+    "poster_id": "BanÃ­k-Ostrava-NK-Celje-28082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "AEK Athens",
+    "team_b": "RSC Anderlecht",
+    "event_name": "UEFA Conference League",
+    "poster_id": "AEK-Athens-RSC-Anderlecht-28082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Rayo Vallecano",
+    "team_b": "Neman Grodno",
+    "event_name": "UEFA Conference League",
+    "poster_id": "Rayo-Vallecano-Neman-Grodno-28082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Dynamo Kyiv",
+    "team_b": "Maccabi Tel Aviv",
+    "event_name": "UEFA Europa League",
+    "poster_id": "Dynamo-Kyiv-Maccabi-Tel-Aviv-28082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "FC Utrecht",
+    "team_b": "HÅ K Zrinjski Mostar",
+    "event_name": "UEFA Europa League",
+    "poster_id": "FC-Utrecht-HÅ-K-Zrinjski-Mostar-28082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Differdange FC 03",
+    "team_b": "FC Drita",
+    "event_name": "UEFA Conference League",
+    "poster_id": "Differdange-FC-03-FC-Drita-28082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Linfield FC",
+    "team_b": "Shelbourne",
+    "event_name": "UEFA Conference League",
+    "poster_id": "Linfield-FC-Shelbourne-28082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "FCSB",
+    "team_b": "Aberdeen",
+    "event_name": "UEFA Europa League",
+    "poster_id": "FCSB-Aberdeen-28082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Sporting Braga",
+    "team_b": "Lincoln Red Imps",
+    "event_name": "UEFA Europa League",
+    "poster_id": "Sporting-Braga-Lincoln-Red-Imps-28082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Dinamo City",
+    "team_b": "Jagiellonia BiaÅystok",
+    "event_name": "UEFA Conference League",
+    "poster_id": "Dinamo-City-Jagiellonia-BiaÅystok-28082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Al-Ettifaq",
+    "team_b": "Al-Kholood",
+    "event_name": "Saudi Pro League",
+    "poster_id": "Al-Ettifaq-Al-Kholood-28082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Legia Warszawa",
+    "team_b": "Hibernian",
+    "event_name": "UEFA Conference League",
+    "poster_id": "Legia-Warszawa-Hibernian-28082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Servette FC",
+    "team_b": "Shakhtar Donetsk",
+    "event_name": "UEFA Conference League",
+    "poster_id": "Servette-FC-Shakhtar-Donetsk-28082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "1. FSV Mainz 05",
+    "team_b": "Rosenborg BK",
+    "event_name": "UEFA Conference League",
+    "poster_id": "1.-FSV-Mainz-05-Rosenborg-BK-28082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Shamrock Rovers",
+    "team_b": "Santa Clara",
+    "event_name": "UEFA Conference League",
+    "poster_id": "Shamrock-Rovers-Santa-Clara-28082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "SS Virtus",
+    "team_b": "Breidablik KÃ³pavogur",
+    "event_name": "UEFA Conference League",
+    "poster_id": "SS-Virtus-Breidablik-KÃ³pavogur-28082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Trent Rockets Women",
+    "team_b": "Birmingham Phoenix Women",
+    "event_name": "The Hundred Women",
+    "poster_id": "Trent-Rockets-Women-Birmingham-Phoenix-Women-27082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Qatar",
+    "team_b": "Denmark",
+    "event_name": "CWC Challenge League",
+    "poster_id": "Qatar-Denmark-27082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Denmark",
+    "team_b": "Kuwait",
+    "event_name": "CWC Challenge League",
+    "poster_id": "Denmark-Kuwait-28082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Trinbago Knight Riders",
+    "team_b": "Antigua & Barbuda Falcons",
+    "event_name": "Caribbean Premier League",
+    "poster_id": "Trinbago-Knight-Riders-Antigua-&-Barbuda-Falcons-27082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Italy Women",
+    "team_b": "Ireland Women",
+    "event_name": "ICC Women's World Twenty20 Qualifier",
+    "poster_id": "Italy-Women-Ireland-Women-27082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Papua New Guinea",
+    "team_b": "Jersey",
+    "event_name": "CWC Challenge League",
+    "poster_id": "Papua-New-Guinea-Jersey-28082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Trent Rockets",
+    "team_b": "Birmingham Phoenix",
+    "event_name": "The Hundred",
+    "poster_id": "Trent-Rockets-Birmingham-Phoenix-27082025.png",
     "match_type": "team_vs_team"
   }
 ]
