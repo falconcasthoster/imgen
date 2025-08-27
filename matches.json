@@ -168,13 +168,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "AS Roma",
-    "team_b": "Aktobe",
-    "event_name": "UEFA Women's Champions League",
-    "poster_id": "AS-Roma-Aktobe-27082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "SK Brann Kvinner",
     "team_b": "Inter",
     "event_name": "UEFA Women's Champions League",
