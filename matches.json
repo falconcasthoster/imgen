@@ -126,59 +126,10 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Morocco",
-    "team_b": "Senegal",
-    "event_name": "African Nations Championship",
-    "poster_id": "Morocco-Senegal-26082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Sheffield Wednesday",
-    "team_b": "Leeds United",
-    "event_name": "EFL Cup",
-    "poster_id": "Sheffield-Wednesday-Leeds-United-26082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Northern Superchargers Women",
-    "team_b": "Manchester Originals Women",
-    "event_name": "The Hundred Women",
-    "poster_id": "Northern-Superchargers-Women-Manchester-Originals-Women-26082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Northern Superchargers",
-    "team_b": "Manchester Originals",
-    "event_name": "The Hundred",
-    "poster_id": "Northern-Superchargers-Manchester-Originals-26082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Wolverhampton",
     "team_b": "West Ham United",
     "event_name": "EFL Cup",
     "poster_id": "Wolverhampton-West-Ham-United-26082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Manchester United",
-    "team_b": "PSV Eindhoven",
-    "event_name": "UEFA Women's Champions League",
-    "poster_id": "Manchester-United-PSV-Eindhoven-27082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "SK Brann Kvinner",
-    "team_b": "Inter",
-    "event_name": "UEFA Women's Champions League",
-    "poster_id": "SK-Brann-Kvinner-Inter-27082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "AEK Larnaca",
-    "team_b": "SK Brann",
-    "event_name": "UEFA Europa League",
-    "poster_id": "AEK-Larnaca-SK-Brann-27082025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -494,13 +445,6 @@
     "team_b": "Breidablik KÃ³pavogur",
     "event_name": "UEFA Conference League",
     "poster_id": "SS-Virtus-Breidablik-KÃ³pavogur-28082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Trent Rockets Women",
-    "team_b": "Birmingham Phoenix Women",
-    "event_name": "The Hundred Women",
-    "poster_id": "Trent-Rockets-Women-Birmingham-Phoenix-Women-27082025.png",
     "match_type": "team_vs_team"
   },
   {
