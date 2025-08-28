@@ -425,5 +425,12 @@
     "event_name": "The Hundred",
     "poster_id": "Southern-Brave-Welsh-Fire-28082025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Team A ",
+    "team_b": "Team B",
+    "event_name": "UCL Draw ",
+    "poster_id": "Team-A-Team-B-28082025.png",
+    "match_type": "team_vs_team"
   }
 ]
