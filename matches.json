@@ -168,31 +168,10 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Club Brugge KV",
-    "team_b": "Rangers",
-    "event_name": "UEFA Champions League",
-    "poster_id": "Club-Brugge-KV-Rangers-27082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "FC KÃ¸benhavn",
-    "team_b": "Basel",
-    "event_name": "UEFA Champions League",
-    "poster_id": "FC-KÃ¸benhavn-Basel-27082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Celta Vigo",
     "team_b": "Real Betis",
     "event_name": "LaLiga",
     "poster_id": "Celta-Vigo-Real-Betis-27082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Grimsby Town",
-    "team_b": "Manchester United",
-    "event_name": "EFL Cup",
-    "poster_id": "Grimsby-Town-Manchester-United-27082025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -427,24 +406,24 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Denmark",
-    "team_b": "Kuwait",
-    "event_name": "CWC Challenge League",
-    "poster_id": "Denmark-Kuwait-28082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Papua New Guinea",
-    "team_b": "Jersey",
-    "event_name": "CWC Challenge League",
-    "poster_id": "Papua-New-Guinea-Jersey-28082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Trent Rockets",
     "team_b": "Birmingham Phoenix",
     "event_name": "The Hundred",
     "poster_id": "Trent-Rockets-Birmingham-Phoenix-27082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Southern Brave Women",
+    "team_b": "Welsh Fire Women",
+    "event_name": "The Hundred Women",
+    "poster_id": "Southern-Brave-Women-Welsh-Fire-Women-28082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Southern Brave",
+    "team_b": "Welsh Fire",
+    "event_name": "The Hundred",
+    "poster_id": "Southern-Brave-Welsh-Fire-28082025.png",
     "match_type": "team_vs_team"
   }
 ]
