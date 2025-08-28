@@ -231,20 +231,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "BanÃ­k Ostrava",
-    "team_b": "NK Celje",
-    "event_name": "UEFA Conference League",
-    "poster_id": "BanÃ­k-Ostrava-NK-Celje-28082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "AEK Athens",
-    "team_b": "RSC Anderlecht",
-    "event_name": "UEFA Conference League",
-    "poster_id": "AEK-Athens-RSC-Anderlecht-28082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Rayo Vallecano",
     "team_b": "Neman Grodno",
     "event_name": "UEFA Conference League",
@@ -252,66 +238,10 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Dynamo Kyiv",
-    "team_b": "Maccabi Tel Aviv",
-    "event_name": "UEFA Europa League",
-    "poster_id": "Dynamo-Kyiv-Maccabi-Tel-Aviv-28082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "FC Utrecht",
-    "team_b": "HÅ K Zrinjski Mostar",
-    "event_name": "UEFA Europa League",
-    "poster_id": "FC-Utrecht-HÅ-K-Zrinjski-Mostar-28082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Differdange FC 03",
-    "team_b": "FC Drita",
-    "event_name": "UEFA Conference League",
-    "poster_id": "Differdange-FC-03-FC-Drita-28082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Linfield FC",
-    "team_b": "Shelbourne",
-    "event_name": "UEFA Conference League",
-    "poster_id": "Linfield-FC-Shelbourne-28082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "FCSB",
-    "team_b": "Aberdeen",
-    "event_name": "UEFA Europa League",
-    "poster_id": "FCSB-Aberdeen-28082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Sporting Braga",
-    "team_b": "Lincoln Red Imps",
-    "event_name": "UEFA Europa League",
-    "poster_id": "Sporting-Braga-Lincoln-Red-Imps-28082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Dinamo City",
-    "team_b": "Jagiellonia BiaÅystok",
-    "event_name": "UEFA Conference League",
-    "poster_id": "Dinamo-City-Jagiellonia-BiaÅystok-28082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Al-Ettifaq",
     "team_b": "Al-Kholood",
     "event_name": "Saudi Pro League",
     "poster_id": "Al-Ettifaq-Al-Kholood-28082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Legia Warszawa",
-    "team_b": "Hibernian",
-    "event_name": "UEFA Conference League",
-    "poster_id": "Legia-Warszawa-Hibernian-28082025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -326,20 +256,6 @@
     "team_b": "Rosenborg BK",
     "event_name": "UEFA Conference League",
     "poster_id": "1.-FSV-Mainz-05-Rosenborg-BK-28082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Shamrock Rovers",
-    "team_b": "Santa Clara",
-    "event_name": "UEFA Conference League",
-    "poster_id": "Shamrock-Rovers-Santa-Clara-28082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "SS Virtus",
-    "team_b": "Breidablik KÃ³pavogur",
-    "event_name": "UEFA Conference League",
-    "poster_id": "SS-Virtus-Breidablik-KÃ³pavogur-28082025.png",
     "match_type": "team_vs_team"
   },
   {
