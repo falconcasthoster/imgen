@@ -175,55 +175,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "SK Sigma Olomouc",
-    "team_b": "MalmÃ¶ FF",
-    "event_name": "UEFA Europa League",
-    "poster_id": "SK-Sigma-Olomouc-MalmÃ¶-FF-28082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Fredrikstad FK",
-    "team_b": "Crystal Palace",
-    "event_name": "UEFA Conference League",
-    "poster_id": "Fredrikstad-FK-Crystal-Palace-28082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "FC Noah",
-    "team_b": "NK Olimpija Ljubljana",
-    "event_name": "UEFA Conference League",
-    "poster_id": "FC-Noah-NK-Olimpija-Ljubljana-28082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Omonia Nicosia",
-    "team_b": "Wolfsberger AC",
-    "event_name": "UEFA Conference League",
-    "poster_id": "Omonia-Nicosia-Wolfsberger-AC-28082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "RFS",
-    "team_b": "Ä¦amrun Spartans FC",
-    "event_name": "UEFA Conference League",
-    "poster_id": "RFS-Ä¦amrun-Spartans-FC-28082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "BeÅiktaÅ",
-    "team_b": "FC Lausanne-Sport",
-    "event_name": "UEFA Conference League",
-    "poster_id": "BeÅiktaÅ-FC-Lausanne-Sport-28082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "SK Rapid Wien",
-    "team_b": "ETO FC GyÅr",
-    "event_name": "UEFA Conference League",
-    "poster_id": "SK-Rapid-Wien-ETO-FC-GyÅr-28082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Ludogorets",
     "team_b": "KF ShkÃ«ndija",
     "event_name": "UEFA Europa League",
@@ -231,24 +182,10 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Universitatea Craiova",
-    "team_b": "BaÅakÅehir FK",
-    "event_name": "UEFA Conference League",
-    "poster_id": "Universitatea-Craiova-BaÅakÅehir-FK-28082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "AZ Alkmaar",
     "team_b": "Levski Sofia",
     "event_name": "UEFA Conference League",
     "poster_id": "AZ-Alkmaar-Levski-Sofia-28082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "CFR 1907 Cluj",
-    "team_b": "BK HÃ¤cken",
-    "event_name": "UEFA Conference League",
-    "poster_id": "CFR-1907-Cluj-BK-HÃ¤cken-28082025.png",
     "match_type": "team_vs_team"
   },
   {
