@@ -196,27 +196,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Vasco da Gama",
-    "team_b": "Botafogo",
-    "event_name": "Copa Betano do Brasil",
-    "poster_id": "Vasco-da-Gama-Botafogo-28082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "LA Galaxy",
-    "team_b": "Seattle Sounders FC",
-    "event_name": "Leagues Cup",
-    "poster_id": "LA-Galaxy-Seattle-Sounders-FC-28082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Inter Miami CF",
-    "team_b": "Orlando City SC",
-    "event_name": "Leagues Cup",
-    "poster_id": "Inter-Miami-CF-Orlando-City-SC-28082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "SK Sigma Olomouc",
     "team_b": "MalmÃ¶ FF",
     "event_name": "UEFA Europa League",
@@ -452,13 +431,6 @@
     "team_b": "Kuwait",
     "event_name": "CWC Challenge League",
     "poster_id": "Denmark-Kuwait-28082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Trinbago Knight Riders",
-    "team_b": "Antigua & Barbuda Falcons",
-    "event_name": "Caribbean Premier League",
-    "poster_id": "Trinbago-Knight-Riders-Antigua-&-Barbuda-Falcons-27082025.png",
     "match_type": "team_vs_team"
   },
   {
