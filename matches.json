@@ -119,13 +119,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Sudan",
-    "team_b": "Senegal",
-    "event_name": "African Nations Championship",
-    "poster_id": "Sudan-Senegal-29082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Al-Hilal",
     "team_b": "Al-Riyadh",
     "event_name": "Saudi Pro League",
@@ -179,13 +172,6 @@
     "team_b": "Milan",
     "event_name": "Serie A",
     "poster_id": "Lecce-Milan-29082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Leicester City",
-    "team_b": "Birmingham City",
-    "event_name": "Championship",
-    "poster_id": "Leicester-City-Birmingham-City-29082025.png",
     "match_type": "team_vs_team"
   },
   {
