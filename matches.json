@@ -70,13 +70,6 @@
     "match_type": "single_event"
   },
   {
-    "team_a": "Zimbabwe",
-    "team_b": "Sri Lanka",
-    "event_name": "One Day International",
-    "poster_id": "Zimbabwe-Sri-Lanka-29082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Jersey",
     "team_b": "Qatar",
     "event_name": "CWC Challenge League",
@@ -88,20 +81,6 @@
     "team_b": "Kenya",
     "event_name": "CWC Challenge League",
     "poster_id": "Denmark-Kenya-31082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Zimbabwe",
-    "team_b": "Sri Lanka",
-    "event_name": "One Day International",
-    "poster_id": "Zimbabwe-Sri-Lanka-31082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Bangladesh",
-    "team_b": "India",
-    "event_name": "T20 International",
-    "poster_id": "Bangladesh-India-29082025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -123,6 +102,20 @@
     "team_b": "NorthEast United FC ",
     "event_name": "Durando Cup ",
     "poster_id": "Shillong-Lajong-FC-NorthEast-United-FC-19082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Zimbabwe",
+    "team_b": "Sri Lanka",
+    "event_name": "One Day International",
+    "poster_id": "Zimbabwe-Sri-Lanka-29082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Afghanistan",
+    "team_b": "Pakistan",
+    "event_name": "T20I Tri-Series in UAE",
+    "poster_id": "Afghanistan-Pakistan-29082025.png",
     "match_type": "team_vs_team"
   }
 ]
