@@ -117,5 +117,96 @@
     "event_name": "T20I Tri-Series in UAE",
     "poster_id": "Afghanistan-Pakistan-29082025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Sudan",
+    "team_b": "Senegal",
+    "event_name": "African Nations Championship",
+    "poster_id": "Sudan-Senegal-29082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Al-Hilal",
+    "team_b": "Al-Riyadh",
+    "event_name": "Saudi Pro League",
+    "poster_id": "Al-Hilal-Al-Riyadh-29082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Cremonese",
+    "team_b": "Sassuolo",
+    "event_name": "Serie A",
+    "poster_id": "Cremonese-Sassuolo-29082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Elche",
+    "team_b": "Levante UD",
+    "event_name": "LaLiga",
+    "poster_id": "Elche-Levante-UD-29082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Al-Shabab",
+    "team_b": "Al-Khaleej",
+    "event_name": "Saudi Pro League",
+    "poster_id": "Al-Shabab-Al-Khaleej-29082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Al-Taawoun",
+    "team_b": "Al-Nassr",
+    "event_name": "Saudi Pro League",
+    "poster_id": "Al-Taawoun-Al-Nassr-29082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Hamburger SV",
+    "team_b": "FC St. Pauli",
+    "event_name": "Bundesliga",
+    "poster_id": "Hamburger-SV-FC-St.-Pauli-29082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "RC Lens",
+    "team_b": "Stade Brestois",
+    "event_name": "Ligue 1",
+    "poster_id": "RC-Lens-Stade-Brestois-29082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Lecce",
+    "team_b": "Milan",
+    "event_name": "Serie A",
+    "poster_id": "Lecce-Milan-29082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Leicester City",
+    "team_b": "Birmingham City",
+    "event_name": "Championship",
+    "poster_id": "Leicester-City-Birmingham-City-29082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Valencia",
+    "team_b": "Getafe",
+    "event_name": "LaLiga",
+    "poster_id": "Valencia-Getafe-29082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Chelsea",
+    "team_b": "Fulham",
+    "event_name": "Premier League",
+    "poster_id": "Chelsea-Fulham-30082025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "FC Bayern MÃ¼nchen",
+    "team_b": "VfL Wolfsburg",
+    "event_name": "DFB-Supercup Frauen",
+    "poster_id": "FC-Bayern-MÃ¼nchen-VfL-Wolfsburg-30082025.png",
+    "match_type": "team_vs_team"
   }
 ]
