@@ -140,13 +140,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Al-Shabab",
-    "team_b": "Al-Khaleej",
-    "event_name": "Saudi Pro League",
-    "poster_id": "Al-Shabab-Al-Khaleej-29082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Al-Taawoun",
     "team_b": "Al-Nassr",
     "event_name": "Saudi Pro League",
