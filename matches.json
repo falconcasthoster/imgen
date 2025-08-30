@@ -231,13 +231,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "CearÃ¡",
-    "team_b": "Juventude",
-    "event_name": "BrasileirÃ£o Betano",
-    "poster_id": "CearÃ¡-Juventude-30082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Real Madrid",
     "team_b": "Mallorca",
     "event_name": "LaLiga",
@@ -256,13 +249,6 @@
     "team_b": "Chicago Fire",
     "event_name": "MLS",
     "poster_id": "Inter-Miami-CF-Chicago-Fire-30082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Botafogo",
-    "team_b": "Red Bull Bragantino",
-    "event_name": "BrasileirÃ£o Betano",
-    "poster_id": "Botafogo-Red-Bull-Bragantino-30082025.png",
     "match_type": "team_vs_team"
   },
   {
