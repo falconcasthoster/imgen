@@ -299,5 +299,33 @@
     "event_name": "T20I Tri-Series in UAE",
     "poster_id": "United-Arab-Emirates-Pakistan-30082025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Zimbabwe",
+    "team_b": "Sri Lanka",
+    "event_name": "T20 International",
+    "poster_id": "Zimbabwe-Sri-Lanka-03092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "England",
+    "team_b": "South Africa",
+    "event_name": "One Day International",
+    "poster_id": "England-South-Africa-02092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Afghanistan",
+    "team_b": "Pakistan",
+    "event_name": "T20I Tri-Series in UAE",
+    "poster_id": "Afghanistan-Pakistan-02092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Bangladesh",
+    "team_b": "Netherlands",
+    "event_name": "T20 International",
+    "poster_id": "Bangladesh-Netherlands-03092025.png",
+    "match_type": "team_vs_team"
   }
 ]
