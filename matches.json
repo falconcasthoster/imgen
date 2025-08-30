@@ -231,24 +231,10 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Nantes",
-    "team_b": "Auxerre",
-    "event_name": "Ligue 1",
-    "poster_id": "Nantes-Auxerre-30082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Girona FC",
     "team_b": "Sevilla",
     "event_name": "LaLiga",
     "poster_id": "Girona-FC-Sevilla-30082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Al-Qadsiah",
-    "team_b": "Al-Najma SC",
-    "event_name": "Saudi Pro League",
-    "poster_id": "Al-Qadsiah-Al-Najma-SC-30082025.png",
     "match_type": "team_vs_team"
   },
   {
