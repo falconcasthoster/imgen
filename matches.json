@@ -292,5 +292,12 @@
     "event_name": "T20 International",
     "poster_id": "Bangladesh-Netherlands-30082025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "United Arab Emirates",
+    "team_b": "Pakistan",
+    "event_name": "T20I Tri-Series in UAE",
+    "poster_id": "United-Arab-Emirates-Pakistan-30082025.png",
+    "match_type": "team_vs_team"
   }
 ]
