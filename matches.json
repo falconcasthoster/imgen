@@ -245,13 +245,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Inter Miami CF",
-    "team_b": "Chicago Fire",
-    "event_name": "MLS",
-    "poster_id": "Inter-Miami-CF-Chicago-Fire-30082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Bangladesh",
     "team_b": "Netherlands",
     "event_name": "T20 International",
