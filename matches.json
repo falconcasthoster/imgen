@@ -196,13 +196,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Madagascar",
-    "team_b": "Morocco",
-    "event_name": "African Nations Championship",
-    "poster_id": "Madagascar-Morocco-30082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Leeds United",
     "team_b": "Newcastle United",
     "event_name": "Premier League",
@@ -263,27 +256,6 @@
     "team_b": "Al-Ittihad",
     "event_name": "Saudi Pro League",
     "poster_id": "Al-Okhdood-Al-Ittihad-30082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Napoli",
-    "team_b": "Cagliari",
-    "event_name": "Serie A",
-    "poster_id": "Napoli-Cagliari-30082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Pisa",
-    "team_b": "Roma",
-    "event_name": "Serie A",
-    "poster_id": "Pisa-Roma-30082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Napoli",
-    "team_b": "Cagliari",
-    "event_name": "Serie A",
-    "poster_id": "Napoli-Cagliari-30082025.png",
     "match_type": "team_vs_team"
   },
   {
