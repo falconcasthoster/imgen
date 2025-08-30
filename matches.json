@@ -189,24 +189,10 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Lorient",
-    "team_b": "Lille",
-    "event_name": "Ligue 1",
-    "poster_id": "Lorient-Lille-30082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Leeds United",
     "team_b": "Newcastle United",
     "event_name": "Premier League",
     "poster_id": "Leeds-United-Newcastle-United-30082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "FC Augsburg",
-    "team_b": "FC Bayern MÃ¼nchen",
-    "event_name": "Bundesliga",
-    "poster_id": "FC-Augsburg-FC-Bayern-MÃ¼nchen-30082025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -280,24 +266,10 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Trent Rockets",
-    "team_b": "Northern Superchargers",
-    "event_name": "The Hundred",
-    "poster_id": "Trent-Rockets-Northern-Superchargers-30082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Bangladesh",
     "team_b": "Netherlands",
     "event_name": "T20 International",
     "poster_id": "Bangladesh-Netherlands-30082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "United Arab Emirates",
-    "team_b": "Pakistan",
-    "event_name": "T20I Tri-Series in UAE",
-    "poster_id": "United-Arab-Emirates-Pakistan-30082025.png",
     "match_type": "team_vs_team"
   },
   {
