@@ -231,13 +231,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "1. FC KÃ¶ln",
-    "team_b": "SC Freiburg",
-    "event_name": "Bundesliga",
-    "poster_id": "1.-FC-KÃ¶ln-SC-Freiburg-31082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Aston Villa",
     "team_b": "Crystal Palace",
     "event_name": "Premier League",
