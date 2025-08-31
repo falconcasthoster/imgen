@@ -126,13 +126,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Angers",
-    "team_b": "Stade Rennais",
-    "event_name": "Ligue 1",
-    "poster_id": "Angers-Stade-Rennais-31082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Nottingham Forest",
     "team_b": "West Ham United",
     "event_name": "Premier League",
@@ -151,13 +144,6 @@
     "team_b": "Metz",
     "event_name": "Ligue 1",
     "poster_id": "Paris-FC-Metz-31082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Le Havre",
-    "team_b": "Nice",
-    "event_name": "Ligue 1",
-    "poster_id": "Le-Havre-Nice-31082025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -235,20 +221,6 @@
     "team_b": "Udinese",
     "event_name": "Serie A",
     "poster_id": "Inter-Udinese-31082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Flamengo",
-    "team_b": "GrÃªmio",
-    "event_name": "BrasileirÃ£o Betano",
-    "poster_id": "Flamengo-GrÃªmio-31082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Santos",
-    "team_b": "Fluminense",
-    "event_name": "BrasileirÃ£o Betano",
-    "poster_id": "Santos-Fluminense-31082025.png",
     "match_type": "team_vs_team"
   },
   {
