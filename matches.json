@@ -70,20 +70,6 @@
     "match_type": "single_event"
   },
   {
-    "team_a": "Jersey",
-    "team_b": "Qatar",
-    "event_name": "CWC Challenge League",
-    "poster_id": "Jersey-Qatar-31082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Denmark",
-    "team_b": "Kenya",
-    "event_name": "CWC Challenge League",
-    "poster_id": "Denmark-Kenya-31082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "TNA | IMPACT ",
     "team_b": "",
     "event_name": "TNA | IMPACT ",
