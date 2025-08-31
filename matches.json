@@ -7,13 +7,6 @@
     "match_type": "single_event"
   },
   {
-    "team_a": "Formula 1",
-    "team_b": "",
-    "event_name": "Formula 1",
-    "poster_id": "Formula-1-31082025.png",
-    "match_type": "single_event"
-  },
-  {
     "team_a": "SmackDown",
     "team_b": "",
     "event_name": "SmackDown",
@@ -207,13 +200,6 @@
     "team_b": "Hellas Verona",
     "event_name": "Serie A",
     "poster_id": "Lazio-Hellas-Verona-31082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Olympique Lyonnais",
-    "team_b": "Olympique de Marseille",
-    "event_name": "Ligue 1",
-    "poster_id": "Olympique-Lyonnais-Olympique-de-Marseille-31082025.png",
     "match_type": "team_vs_team"
   },
   {
