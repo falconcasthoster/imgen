@@ -210,13 +210,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Rayo Vallecano",
-    "team_b": "Barcelona",
-    "event_name": "LaLiga",
-    "poster_id": "Rayo-Vallecano-Barcelona-31082025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Afghanistan",
     "team_b": "United Arab Emirates",
     "event_name": "T20I Tri-Series in UAE",
