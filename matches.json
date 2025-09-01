@@ -215,5 +215,152 @@
     "event_name": "LaLiga",
     "poster_id": "Rayo-Vallecano-Barcelona-31082025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Bangladesh",
+    "team_b": "Netherlands",
+    "event_name": "T20 International",
+    "poster_id": "Bangladesh-Netherlands-01092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Afghanistan",
+    "team_b": "United Arab Emirates",
+    "event_name": "T20I Tri-Series in UAE",
+    "poster_id": "Afghanistan-United-Arab-Emirates-01092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Zimbabwe Women",
+    "team_b": "Sierra Leone Women",
+    "event_name": "ICC Women's World Twenty20 Qualifier",
+    "poster_id": "Zimbabwe-Women-Sierra-Leone-Women-01092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Bulgaria",
+    "team_b": "Spain",
+    "event_name": "World Cup Qual. UEFA",
+    "poster_id": "Bulgaria-Spain-04092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Slovakia",
+    "team_b": "Germany",
+    "event_name": "World Cup Qual. UEFA",
+    "poster_id": "Slovakia-Germany-04092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Liechtenstein",
+    "team_b": "Belgium",
+    "event_name": "World Cup Qual. UEFA",
+    "poster_id": "Liechtenstein-Belgium-04092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Netherlands",
+    "team_b": "Poland",
+    "event_name": "World Cup Qual. UEFA",
+    "poster_id": "Netherlands-Poland-04092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Brazil",
+    "team_b": "Chile",
+    "event_name": "World Cup Qual. CONMEBOL",
+    "poster_id": "Brazil-Chile-05092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Uruguay",
+    "team_b": "Peru",
+    "event_name": "World Cup Qual. CONMEBOL",
+    "poster_id": "Uruguay-Peru-04092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Colombia",
+    "team_b": "Bolivia",
+    "event_name": "World Cup Qual. CONMEBOL",
+    "poster_id": "Colombia-Bolivia-04092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Paraguay",
+    "team_b": "Ecuador",
+    "event_name": "World Cup Qual. CONMEBOL",
+    "poster_id": "Paraguay-Ecuador-04092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Denmark",
+    "team_b": "Scotland",
+    "event_name": "World Cup Qual. UEFA",
+    "poster_id": "Denmark-Scotland-05092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Slovenia",
+    "team_b": "Sweden",
+    "event_name": "World Cup Qual. UEFA",
+    "poster_id": "Slovenia-Sweden-05092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Italy",
+    "team_b": "Estonia",
+    "event_name": "World Cup Qual. UEFA",
+    "poster_id": "Italy-Estonia-05092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Ukraine",
+    "team_b": "France",
+    "event_name": "World Cup Qual. UEFA",
+    "poster_id": "Ukraine-France-05092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Greece",
+    "team_b": "Belarus",
+    "event_name": "World Cup Qual. UEFA",
+    "poster_id": "Greece-Belarus-05092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Iceland",
+    "team_b": "Azerbaijan",
+    "event_name": "World Cup Qual. UEFA",
+    "poster_id": "Iceland-Azerbaijan-05092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Switzerland",
+    "team_b": "Kosovo",
+    "event_name": "World Cup Qual. UEFA",
+    "poster_id": "Switzerland-Kosovo-05092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Morocco",
+    "team_b": "Niger",
+    "event_name": "World Cup Qual. CAF ",
+    "poster_id": "Morocco-Niger-05092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Egypt",
+    "team_b": "Ethiopia",
+    "event_name": "World Cup Qual. CAF ",
+    "poster_id": "Egypt-Ethiopia-05092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Senegal",
+    "team_b": "Sudan",
+    "event_name": "World Cup Qual. CAF ",
+    "poster_id": "Senegal-Sudan-05092025.png",
+    "match_type": "team_vs_team"
   }
 ]
