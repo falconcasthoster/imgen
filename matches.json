@@ -217,13 +217,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Bangladesh",
-    "team_b": "Netherlands",
-    "event_name": "T20 International",
-    "poster_id": "Bangladesh-Netherlands-01092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Afghanistan",
     "team_b": "United Arab Emirates",
     "event_name": "T20I Tri-Series in UAE",
@@ -361,6 +354,20 @@
     "team_b": "Sudan",
     "event_name": "World Cup Qual. CAF ",
     "poster_id": "Senegal-Sudan-05092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Trinbago Knight Riders",
+    "team_b": "St Kitts and Nevis Patriots",
+    "event_name": "Caribbean Premier League",
+    "poster_id": "Trinbago-Knight-Riders-St-Kitts-and-Nevis-Patriots-01092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Bangladesh",
+    "team_b": "Netherlands",
+    "event_name": "T20 International",
+    "poster_id": "Bangladesh-Netherlands-01092025.png",
     "match_type": "team_vs_team"
   }
 ]
