@@ -84,13 +84,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "England",
-    "team_b": "South Africa",
-    "event_name": "One Day International",
-    "poster_id": "England-South-Africa-02092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Afghanistan",
     "team_b": "Pakistan",
     "event_name": "T20I Tri-Series in UAE",
