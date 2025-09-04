@@ -222,5 +222,12 @@
     "event_name": "One Day International",
     "poster_id": "England-South-Africa-04092025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Georgia",
+    "team_b": "TÃ¼rkiye",
+    "event_name": "World Cup Qual. UEFA",
+    "poster_id": "Georgia-TÃ¼rkiye-04092025.png",
+    "match_type": "team_vs_team"
   }
 ]
