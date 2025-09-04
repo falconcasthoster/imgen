@@ -3,14 +3,21 @@
     "team_a": "Monday Night RAW",
     "team_b": "",
     "event_name": "Monday Night RAW",
-    "poster_id": "Monday-Night-RAW-01092025.png",
+    "poster_id": "Monday-Night-RAW-08092025.png",
+    "match_type": "single_event"
+  },
+  {
+    "team_a": "Formula 1",
+    "team_b": "",
+    "event_name": "Formula 1",
+    "poster_id": "Formula-1-05092025.png",
     "match_type": "single_event"
   },
   {
     "team_a": "SmackDown",
     "team_b": "",
     "event_name": "SmackDown",
-    "poster_id": "SmackDown-30082025.png",
+    "poster_id": "SmackDown-06092025.png",
     "match_type": "single_event"
   },
   {
@@ -24,7 +31,7 @@
     "team_a": "WWE NXT",
     "team_b": "",
     "event_name": "WWW NXT",
-    "poster_id": "WWE-NXT-03092025.png",
+    "poster_id": "WWE-NXT-10092025.png",
     "match_type": "single_event"
   },
   {
