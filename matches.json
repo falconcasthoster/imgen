@@ -229,5 +229,12 @@
     "event_name": "World Cup Qual. UEFA",
     "poster_id": "Georgia-TÃ¼rkiye-04092025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Argentina",
+    "team_b": "Venezuela",
+    "event_name": "World Cup Qual. CONMEBOL",
+    "poster_id": "Argentina-Venezuela-04092025.png",
+    "match_type": "team_vs_team"
   }
 ]
