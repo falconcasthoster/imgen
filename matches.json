@@ -243,5 +243,26 @@
     "event_name": "T20 International",
     "poster_id": "Bangladesh-Netherlands-01092025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Zimbabwe Women",
+    "team_b": "Uganda Women",
+    "event_name": "ICC Women's World Twenty20 Qualifier",
+    "poster_id": "Zimbabwe-Women-Uganda-Women-04092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Pakistan",
+    "team_b": "United Arab Emirates",
+    "event_name": "T20I Tri-Series in UAE",
+    "poster_id": "Pakistan-United-Arab-Emirates-04092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "England",
+    "team_b": "South Africa",
+    "event_name": "One Day International",
+    "poster_id": "England-South-Africa-04092025.png",
+    "match_type": "team_vs_team"
   }
 ]
