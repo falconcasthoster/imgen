@@ -84,27 +84,6 @@
     "match_type": "single_event"
   },
   {
-    "team_a": "Zimbabwe",
-    "team_b": "Sri Lanka",
-    "event_name": "T20 International",
-    "poster_id": "Zimbabwe-Sri-Lanka-03092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Afghanistan",
-    "team_b": "Pakistan",
-    "event_name": "T20I Tri-Series in UAE",
-    "poster_id": "Afghanistan-Pakistan-02092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Afghanistan",
-    "team_b": "United Arab Emirates",
-    "event_name": "T20I Tri-Series in UAE",
-    "poster_id": "Afghanistan-United-Arab-Emirates-01092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Bulgaria",
     "team_b": "Spain",
     "event_name": "World Cup Qual. UEFA",
@@ -228,27 +207,6 @@
     "team_b": "Sudan",
     "event_name": "World Cup Qual. CAF ",
     "poster_id": "Senegal-Sudan-05092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Trinbago Knight Riders",
-    "team_b": "St Kitts and Nevis Patriots",
-    "event_name": "Caribbean Premier League",
-    "poster_id": "Trinbago-Knight-Riders-St-Kitts-and-Nevis-Patriots-01092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Bangladesh",
-    "team_b": "Netherlands",
-    "event_name": "T20 International",
-    "poster_id": "Bangladesh-Netherlands-01092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Zimbabwe Women",
-    "team_b": "Uganda Women",
-    "event_name": "ICC Women's World Twenty20 Qualifier",
-    "poster_id": "Zimbabwe-Women-Uganda-Women-04092025.png",
     "match_type": "team_vs_team"
   },
   {
