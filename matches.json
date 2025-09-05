@@ -236,5 +236,47 @@
     "event_name": "World Cup Qual. CONMEBOL",
     "poster_id": "Argentina-Venezuela-04092025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Zimbabwe Women",
+    "team_b": "Namibia Women",
+    "event_name": "ICC Women's World Twenty20 Qualifier",
+    "poster_id": "Zimbabwe-Women-Namibia-Women-06092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "England",
+    "team_b": "South Africa",
+    "event_name": "One Day International",
+    "poster_id": "England-South-Africa-07092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Zimbabwe",
+    "team_b": "Sri Lanka",
+    "event_name": "T20 International",
+    "poster_id": "Zimbabwe-Sri-Lanka-07092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Estonia Women",
+    "team_b": "Czechia Women",
+    "event_name": "Twenty20 International Women",
+    "poster_id": "Estonia-Women-Czechia-Women-06092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Kenya Women",
+    "team_b": "Rwanda Women",
+    "event_name": "ICC Women's World Twenty20 Qualifier",
+    "poster_id": "Kenya-Women-Rwanda-Women-06092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Zimbabwe",
+    "team_b": "Sri Lanka",
+    "event_name": "T20 International",
+    "poster_id": "Zimbabwe-Sri-Lanka-06092025.png",
+    "match_type": "team_vs_team"
   }
 ]
