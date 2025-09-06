@@ -166,5 +166,40 @@
     "event_name": "World Cup Qual. UEFA",
     "poster_id": "North-Macedonia-Liechtenstein-07092025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Poland",
+    "team_b": "Finland",
+    "event_name": "World Cup Qual. UEFA",
+    "poster_id": "Poland-Finland-07092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "TÃ¼rkiye",
+    "team_b": "Spain",
+    "event_name": "World Cup Qual. UEFA",
+    "poster_id": "TÃ¼rkiye-Spain-07092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Luxembourg",
+    "team_b": "Slovakia",
+    "event_name": "World Cup Qual. UEFA",
+    "poster_id": "Luxembourg-Slovakia-07092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Belgium",
+    "team_b": "Kazakhstan",
+    "event_name": "World Cup Qual. UEFA",
+    "poster_id": "Belgium-Kazakhstan-07092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Germany",
+    "team_b": "Northern Ireland",
+    "event_name": "World Cup Qual. UEFA",
+    "poster_id": "Germany-Northern-Ireland-07092025.png",
+    "match_type": "team_vs_team"
   }
 ]
