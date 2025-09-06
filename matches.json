@@ -201,5 +201,12 @@
     "event_name": "World Cup Qual. UEFA",
     "poster_id": "Germany-Northern-Ireland-07092025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Bangladesh",
+    "team_b": "Nepal",
+    "event_name": " Football friendly ",
+    "poster_id": "Bangladesh-Nepal-06092025.png",
+    "match_type": "team_vs_team"
   }
 ]
