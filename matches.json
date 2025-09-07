@@ -187,5 +187,40 @@
     "event_name": "T20I Tri-Series in UAE",
     "poster_id": "Pakistan-Afghanistan-07092025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Israel",
+    "team_b": "Italy",
+    "event_name": "World Cup Qual. UEFA",
+    "poster_id": "Israel-Italy-08092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Croatia",
+    "team_b": "Montenegro",
+    "event_name": "World Cup Qual. UEFA",
+    "poster_id": "Croatia-Montenegro-08092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Greece",
+    "team_b": "Denmark",
+    "event_name": "World Cup Qual. UEFA",
+    "poster_id": "Greece-Denmark-08092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Switzerland",
+    "team_b": "Slovenia",
+    "event_name": "World Cup Qual. UEFA",
+    "poster_id": "Switzerland-Slovenia-08092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Kosovo",
+    "team_b": "Sweden",
+    "event_name": "World Cup Qual. UEFA",
+    "poster_id": "Kosovo-Sweden-08092025.png",
+    "match_type": "team_vs_team"
   }
 ]
