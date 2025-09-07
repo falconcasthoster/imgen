@@ -92,20 +92,6 @@
   },
   {
     "team_a": "England",
-    "team_b": "South Africa",
-    "event_name": "One Day International",
-    "poster_id": "England-South-Africa-07092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Zimbabwe",
-    "team_b": "Sri Lanka",
-    "event_name": "T20 International",
-    "poster_id": "Zimbabwe-Sri-Lanka-07092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "England",
     "team_b": "Andorra",
     "event_name": "World Cup Qual. UEFA",
     "poster_id": "England-Andorra-06092025.png",
@@ -186,6 +172,20 @@
     "team_b": "Cyprus",
     "event_name": "World Cup Qual. UEFA",
     "poster_id": "Austria-Cyprus-06092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "England",
+    "team_b": "South Africa",
+    "event_name": "One Day International",
+    "poster_id": "England-South-Africa-07092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Zimbabwe",
+    "team_b": "Sri Lanka",
+    "event_name": "T20 International",
+    "poster_id": "Zimbabwe-Sri-Lanka-07092025.png",
     "match_type": "team_vs_team"
   }
 ]
