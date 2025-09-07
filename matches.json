@@ -187,5 +187,12 @@
     "event_name": "T20 International",
     "poster_id": "Zimbabwe-Sri-Lanka-07092025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Pakistan",
+    "team_b": "Afghanistan",
+    "event_name": "T20I Tri-Series in UAE",
+    "poster_id": "Pakistan-Afghanistan-07092025.png",
+    "match_type": "team_vs_team"
   }
 ]
