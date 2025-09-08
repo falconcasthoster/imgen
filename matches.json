@@ -264,5 +264,96 @@
     "event_name": "Copa Betano do Brasil",
     "poster_id": "Fluminense-Bahia-10092025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Dorados de Chihuahua",
+    "team_b": "El Calor de Cancun",
+    "event_name": "Mexico LNBP",
+    "poster_id": "Dorados-de-Chihuahua-El-Calor-de-Cancun-10092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Freseros de Irapuato",
+    "team_b": "Halcones de Xalapa",
+    "event_name": "Mexico LNBP",
+    "poster_id": "Freseros-de-Irapuato-Halcones-de-Xalapa-10092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Plateros de Fresnillo",
+    "team_b": "Panteras de Aguascalientes",
+    "event_name": "Mexico LNBP",
+    "poster_id": "Plateros-de-Fresnillo-Panteras-de-Aguascalientes-10092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Santos del PotosÃ­",
+    "team_b": "Correcaminos UAT Victoria",
+    "event_name": "Mexico LNBP",
+    "poster_id": "Santos-del-PotosÃ­-Correcaminos-UAT-Victoria-10092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "KalPa Kuopio",
+    "team_b": "Team Kuortane",
+    "event_name": "Auroraliiga",
+    "poster_id": "KalPa-Kuopio-Team-Kuortane-14092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Krefeld Pinguine",
+    "team_b": "EC Kassel Huskies",
+    "event_name": "Club Friendly Games",
+    "poster_id": "Krefeld-Pinguine-EC-Kassel-Huskies-14092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Okanagan HC Europe U20",
+    "team_b": "Eishockey Akademie Steiermark U20",
+    "event_name": "ICE Young Stars League ",
+    "poster_id": "Okanagan-HC-Europe-U20-Eishockey-Akademie-Steiermark-U20-14092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "HC Davos",
+    "team_b": "HC Ajoie",
+    "event_name": "National League A",
+    "poster_id": "HC-Davos-HC-Ajoie-14092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "ProCamp",
+    "team_b": "Regnum4Games",
+    "event_name": "DACH CS Masters",
+    "poster_id": "ProCamp-Regnum4Games-18092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Natus Vincere",
+    "team_b": "9INE",
+    "event_name": "StarLadder StarSeries",
+    "poster_id": "Natus-Vincere-9INE-18092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Kelvin Gastelum",
+    "team_b": "Dustin Stoltzfus",
+    "event_name": "UFC",
+    "poster_id": "Kelvin-Gastelum-Dustin-Stoltzfus-14092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Zachary Reese",
+    "team_b": "Sedriques Dumas",
+    "event_name": "UFC",
+    "poster_id": "Zachary-Reese-Sedriques-Dumas-13092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Rob Font",
+    "team_b": "Raul Rosas Jr.",
+    "event_name": "UFC",
+    "poster_id": "Rob-Font-Raul-Rosas-Jr.-14092025.png",
+    "match_type": "team_vs_team"
   }
 ]
