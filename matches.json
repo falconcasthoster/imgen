@@ -10,7 +10,7 @@
     "team_a": "Formula 1",
     "team_b": "",
     "event_name": "Formula 1",
-    "poster_id": "Formula-1-07092025.png",
+    "poster_id": "Formula-1-19092025.png",
     "match_type": "single_event"
   },
   {
@@ -84,90 +84,6 @@
     "match_type": "single_event"
   },
   {
-    "team_a": "Uruguay",
-    "team_b": "Peru",
-    "event_name": "World Cup Qual. CONMEBOL",
-    "poster_id": "Uruguay-Peru-04092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "England",
-    "team_b": "Andorra",
-    "event_name": "World Cup Qual. UEFA",
-    "poster_id": "England-Andorra-06092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Armenia",
-    "team_b": "Portugal",
-    "event_name": "World Cup Qual. UEFA",
-    "poster_id": "Armenia-Portugal-06092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Lithuania",
-    "team_b": "Netherlands",
-    "event_name": "World Cup Qual. UEFA",
-    "poster_id": "Lithuania-Netherlands-07092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "North Macedonia",
-    "team_b": "Liechtenstein",
-    "event_name": "World Cup Qual. UEFA",
-    "poster_id": "North-Macedonia-Liechtenstein-07092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Poland",
-    "team_b": "Finland",
-    "event_name": "World Cup Qual. UEFA",
-    "poster_id": "Poland-Finland-07092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "TÃ¼rkiye",
-    "team_b": "Spain",
-    "event_name": "World Cup Qual. UEFA",
-    "poster_id": "TÃ¼rkiye-Spain-07092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Luxembourg",
-    "team_b": "Slovakia",
-    "event_name": "World Cup Qual. UEFA",
-    "poster_id": "Luxembourg-Slovakia-07092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Belgium",
-    "team_b": "Kazakhstan",
-    "event_name": "World Cup Qual. UEFA",
-    "poster_id": "Belgium-Kazakhstan-07092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Germany",
-    "team_b": "Northern Ireland",
-    "event_name": "World Cup Qual. UEFA",
-    "poster_id": "Germany-Northern-Ireland-07092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Ireland",
-    "team_b": "Hungary",
-    "event_name": "World Cup Qual. UEFA",
-    "poster_id": "Ireland-Hungary-06092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Austria",
-    "team_b": "Cyprus",
-    "event_name": "World Cup Qual. UEFA",
-    "poster_id": "Austria-Cyprus-06092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Israel",
     "team_b": "Italy",
     "event_name": "World Cup Qual. UEFA",
@@ -200,6 +116,153 @@
     "team_b": "Sweden",
     "event_name": "World Cup Qual. UEFA",
     "poster_id": "Kosovo-Sweden-08092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Afghanistan",
+    "team_b": "Hong Kong C.",
+    "event_name": "Asia Cup",
+    "poster_id": "Afghanistan-Hong-Kong-C.-09092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "India",
+    "team_b": "United Arab Emirates",
+    "event_name": "Asia Cup",
+    "poster_id": "India-United-Arab-Emirates-10092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "England",
+    "team_b": "South Africa",
+    "event_name": "T20 International",
+    "poster_id": "England-South-Africa-10092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Guyana Amazon Warriors",
+    "team_b": "Antigua & Barbuda Falcons",
+    "event_name": "Caribbean Premier League",
+    "poster_id": "Guyana-Amazon-Warriors-Antigua-&-Barbuda-Falcons-10092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Trinbago Knight Riders Women",
+    "team_b": "Barbados Royals Women",
+    "event_name": "Women's Caribbean Premier League",
+    "poster_id": "Trinbago-Knight-Riders-Women-Barbados-Royals-Women-10092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Bangladesh",
+    "team_b": "Hong Kong C.",
+    "event_name": "Asia Cup",
+    "poster_id": "Bangladesh-Hong-Kong-C.-11092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Burkina Faso",
+    "team_b": "Egypt",
+    "event_name": "World Cup Qual. CAF ",
+    "poster_id": "Burkina-Faso-Egypt-09092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Armenia",
+    "team_b": "Ireland",
+    "event_name": "World Cup Qual. UEFA",
+    "poster_id": "Armenia-Ireland-09092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "France",
+    "team_b": "Iceland",
+    "event_name": "World Cup Qual. UEFA",
+    "poster_id": "France-Iceland-09092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Norway",
+    "team_b": "Moldova",
+    "event_name": "World Cup Qual. UEFA",
+    "poster_id": "Norway-Moldova-09092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Albania",
+    "team_b": "Latvia",
+    "event_name": "World Cup Qual. UEFA",
+    "poster_id": "Albania-Latvia-09092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Serbia",
+    "team_b": "England",
+    "event_name": "World Cup Qual. UEFA",
+    "poster_id": "Serbia-England-09092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Cyprus",
+    "team_b": "Romania",
+    "event_name": "World Cup Qual. UEFA",
+    "poster_id": "Cyprus-Romania-09092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Hungary",
+    "team_b": "Portugal",
+    "event_name": "World Cup Qual. UEFA",
+    "poster_id": "Hungary-Portugal-09092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Bosnia & Herzegovina",
+    "team_b": "Austria",
+    "event_name": "World Cup Qual. UEFA",
+    "poster_id": "Bosnia-&-Herzegovina-Austria-09092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Ecuador",
+    "team_b": "Argentina",
+    "event_name": "World Cup Qual. CONMEBOL",
+    "poster_id": "Ecuador-Argentina-09092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Bolivia",
+    "team_b": "Brazil",
+    "event_name": "World Cup Qual. CONMEBOL",
+    "poster_id": "Bolivia-Brazil-09092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Chile",
+    "team_b": "Uruguay",
+    "event_name": "World Cup Qual. CONMEBOL",
+    "poster_id": "Chile-Uruguay-09092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Venezuela",
+    "team_b": "Colombia",
+    "event_name": "World Cup Qual. CONMEBOL",
+    "poster_id": "Venezuela-Colombia-09092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Peru",
+    "team_b": "Paraguay",
+    "event_name": "World Cup Qual. CONMEBOL",
+    "poster_id": "Peru-Paraguay-09092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Fluminense",
+    "team_b": "Bahia",
+    "event_name": "Copa Betano do Brasil",
+    "poster_id": "Fluminense-Bahia-10092025.png",
     "match_type": "team_vs_team"
   }
 ]
