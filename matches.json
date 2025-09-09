@@ -348,19 +348,5 @@
     "event_name": "UFC",
     "poster_id": "Rob-Font-Raul-Rosas-Jr.-14092025.png",
     "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "India",
-    "team_b": "United Arab Emirates",
-    "event_name": "Asia Cup",
-    "poster_id": "India-United-Arab-Emirates-10092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "England",
-    "team_b": "South Africa",
-    "event_name": "T20 International",
-    "poster_id": "England-South-Africa-10092025.png",
-    "match_type": "team_vs_team"
   }
 ]
