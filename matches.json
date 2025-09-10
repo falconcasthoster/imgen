@@ -84,41 +84,6 @@
     "match_type": "single_event"
   },
   {
-    "team_a": "Israel",
-    "team_b": "Italy",
-    "event_name": "World Cup Qual. UEFA",
-    "poster_id": "Israel-Italy-08092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Croatia",
-    "team_b": "Montenegro",
-    "event_name": "World Cup Qual. UEFA",
-    "poster_id": "Croatia-Montenegro-08092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Greece",
-    "team_b": "Denmark",
-    "event_name": "World Cup Qual. UEFA",
-    "poster_id": "Greece-Denmark-08092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Switzerland",
-    "team_b": "Slovenia",
-    "event_name": "World Cup Qual. UEFA",
-    "poster_id": "Switzerland-Slovenia-08092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Kosovo",
-    "team_b": "Sweden",
-    "event_name": "World Cup Qual. UEFA",
-    "poster_id": "Kosovo-Sweden-08092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "India",
     "team_b": "United Arab Emirates",
     "event_name": "Asia Cup",
@@ -154,136 +119,10 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Burkina Faso",
-    "team_b": "Egypt",
-    "event_name": "World Cup Qual. CAF ",
-    "poster_id": "Burkina-Faso-Egypt-09092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Armenia",
-    "team_b": "Ireland",
-    "event_name": "World Cup Qual. UEFA",
-    "poster_id": "Armenia-Ireland-09092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "France",
-    "team_b": "Iceland",
-    "event_name": "World Cup Qual. UEFA",
-    "poster_id": "France-Iceland-09092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Norway",
-    "team_b": "Moldova",
-    "event_name": "World Cup Qual. UEFA",
-    "poster_id": "Norway-Moldova-09092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Albania",
-    "team_b": "Latvia",
-    "event_name": "World Cup Qual. UEFA",
-    "poster_id": "Albania-Latvia-09092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Serbia",
-    "team_b": "England",
-    "event_name": "World Cup Qual. UEFA",
-    "poster_id": "Serbia-England-09092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Cyprus",
-    "team_b": "Romania",
-    "event_name": "World Cup Qual. UEFA",
-    "poster_id": "Cyprus-Romania-09092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Hungary",
-    "team_b": "Portugal",
-    "event_name": "World Cup Qual. UEFA",
-    "poster_id": "Hungary-Portugal-09092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Bosnia & Herzegovina",
-    "team_b": "Austria",
-    "event_name": "World Cup Qual. UEFA",
-    "poster_id": "Bosnia-&-Herzegovina-Austria-09092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Ecuador",
-    "team_b": "Argentina",
-    "event_name": "World Cup Qual. CONMEBOL",
-    "poster_id": "Ecuador-Argentina-09092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Bolivia",
-    "team_b": "Brazil",
-    "event_name": "World Cup Qual. CONMEBOL",
-    "poster_id": "Bolivia-Brazil-09092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Chile",
-    "team_b": "Uruguay",
-    "event_name": "World Cup Qual. CONMEBOL",
-    "poster_id": "Chile-Uruguay-09092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Venezuela",
-    "team_b": "Colombia",
-    "event_name": "World Cup Qual. CONMEBOL",
-    "poster_id": "Venezuela-Colombia-09092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Peru",
-    "team_b": "Paraguay",
-    "event_name": "World Cup Qual. CONMEBOL",
-    "poster_id": "Peru-Paraguay-09092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Fluminense",
     "team_b": "Bahia",
     "event_name": "Copa Betano do Brasil",
     "poster_id": "Fluminense-Bahia-10092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Dorados de Chihuahua",
-    "team_b": "El Calor de Cancun",
-    "event_name": "Mexico LNBP",
-    "poster_id": "Dorados-de-Chihuahua-El-Calor-de-Cancun-10092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Freseros de Irapuato",
-    "team_b": "Halcones de Xalapa",
-    "event_name": "Mexico LNBP",
-    "poster_id": "Freseros-de-Irapuato-Halcones-de-Xalapa-10092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Plateros de Fresnillo",
-    "team_b": "Panteras de Aguascalientes",
-    "event_name": "Mexico LNBP",
-    "poster_id": "Plateros-de-Fresnillo-Panteras-de-Aguascalientes-10092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Santos del PotosÃ­",
-    "team_b": "Correcaminos UAT Victoria",
-    "event_name": "Mexico LNBP",
-    "poster_id": "Santos-del-PotosÃ­-Correcaminos-UAT-Victoria-10092025.png",
     "match_type": "team_vs_team"
   },
   {
