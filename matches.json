@@ -147,20 +147,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Kelvin Gastelum",
-    "team_b": "Dustin Stoltzfus",
-    "event_name": "UFC",
-    "poster_id": "Kelvin-Gastelum-Dustin-Stoltzfus-14092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Zachary Reese",
-    "team_b": "Sedriques Dumas",
-    "event_name": "UFC",
-    "poster_id": "Zachary-Reese-Sedriques-Dumas-13092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Rob Font",
     "team_b": "Raul Rosas Jr.",
     "event_name": "UFC",
