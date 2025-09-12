@@ -420,13 +420,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Pakistan",
-    "team_b": "Oman",
-    "event_name": "Asia Cup",
-    "poster_id": "Pakistan-Oman-12092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "England",
     "team_b": "South Africa",
     "event_name": "T20 International",
