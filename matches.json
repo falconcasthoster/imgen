@@ -84,20 +84,6 @@
     "match_type": "single_event"
   },
   {
-    "team_a": "Guyana Amazon Warriors",
-    "team_b": "Antigua & Barbuda Falcons",
-    "event_name": "Caribbean Premier League",
-    "poster_id": "Guyana-Amazon-Warriors-Antigua-&-Barbuda-Falcons-10092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Fluminense",
-    "team_b": "Bahia",
-    "event_name": "Copa Betano do Brasil",
-    "poster_id": "Fluminense-Bahia-10092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "KalPa Kuopio",
     "team_b": "Team Kuortane",
     "event_name": "Auroraliiga",
@@ -147,10 +133,24 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "England",
-    "team_b": "South Africa",
-    "event_name": "T20 International",
-    "poster_id": "England-South-Africa-10092025.png",
+    "team_a": "Botafogo",
+    "team_b": "Vasco da Gama",
+    "event_name": "Copa Betano do Brasil",
+    "poster_id": "Botafogo-Vasco-da-Gama-12092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Al-Ettifaq",
+    "team_b": "Al-Ahli",
+    "event_name": "Saudi Pro League",
+    "poster_id": "Al-Ettifaq-Al-Ahli-12092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Al-Shabab",
+    "team_b": "Al-Hazem",
+    "event_name": "Saudi Pro League",
+    "poster_id": "Al-Shabab-Al-Hazem-12092025.png",
     "match_type": "team_vs_team"
   }
 ]
