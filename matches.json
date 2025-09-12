@@ -161,13 +161,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Sevilla",
-    "team_b": "Elche",
-    "event_name": "LaLiga",
-    "poster_id": "Sevilla-Elche-12092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Ipswich Town",
     "team_b": "Sheffield United",
     "event_name": "Championship",
@@ -424,13 +417,6 @@
     "team_b": "South Africa",
     "event_name": "T20 International",
     "poster_id": "England-South-Africa-12092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Barbados Royals",
-    "team_b": "Trinbago Knight Riders",
-    "event_name": "Caribbean Premier League",
-    "poster_id": "Barbados-Royals-Trinbago-Knight-Riders-12092025.png",
     "match_type": "team_vs_team"
   }
 ]
