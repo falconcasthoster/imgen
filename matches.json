@@ -1,5 +1,12 @@
 [
   {
+    "team_a": "Monday Night RAW",
+    "team_b": "",
+    "event_name": "Monday Night RAW",
+    "poster_id": "Monday-Night-RAW-16092025.png",
+    "match_type": "single_event"
+  },
+  {
     "team_a": "Formula 1",
     "team_b": "",
     "event_name": "Formula 1",
@@ -10,14 +17,21 @@
     "team_a": "SmackDown",
     "team_b": "",
     "event_name": "SmackDown",
-    "poster_id": "SmackDown-13092025.png",
+    "poster_id": "SmackDown-20092025.png",
+    "match_type": "single_event"
+  },
+  {
+    "team_a": "MotoGP",
+    "team_b": "",
+    "event_name": "MotoGP",
+    "poster_id": "MotoGP-14092025.png",
     "match_type": "single_event"
   },
   {
     "team_a": "WWE NXT",
     "team_b": "",
     "event_name": "WWW NXT",
-    "poster_id": "WWE-NXT-10092025.png",
+    "poster_id": "WWE-NXT-17092025.png",
     "match_type": "single_event"
   },
   {
@@ -54,27 +68,6 @@
     "event_name": "ð¾ Tennis: ATP Toronto & WTA Montreal ",
     "poster_id": "Tennis-ATP-Toronto-&-WTA-Montreal-ð¾-04082025.png",
     "match_type": "single_event"
-  },
-  {
-    "team_a": "Arsenal",
-    "team_b": "Nottingham Forest",
-    "event_name": "Premier League",
-    "poster_id": "Arsenal-Nottingham-Forest-13092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Oxford United",
-    "team_b": "Leicester City",
-    "event_name": "Championship",
-    "poster_id": "Oxford-United-Leicester-City-13092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Getafe",
-    "team_b": "Real Oviedo",
-    "event_name": "LaLiga",
-    "poster_id": "Getafe-Real-Oviedo-13092025.png",
-    "match_type": "team_vs_team"
   },
   {
     "team_a": "Lelo Saracens Tbilisi",
@@ -186,13 +179,6 @@
     "team_b": "Nantes",
     "event_name": "Ligue 1",
     "poster_id": "Nice-Nantes-13092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Real Sociedad",
-    "team_b": "Real Madrid",
-    "event_name": "LaLiga",
-    "poster_id": "Real-Sociedad-Real-Madrid-13092025.png",
     "match_type": "team_vs_team"
   },
   {
