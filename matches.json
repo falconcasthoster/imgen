@@ -140,31 +140,10 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Al-Shabab",
-    "team_b": "Al-Hazem",
-    "event_name": "Saudi Pro League",
-    "poster_id": "Al-Shabab-Al-Hazem-12092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Bayer 04 Leverkusen",
-    "team_b": "Eintracht Frankfurt",
-    "event_name": "Bundesliga",
-    "poster_id": "Bayer-04-Leverkusen-Eintracht-Frankfurt-12092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Ipswich Town",
     "team_b": "Sheffield United",
     "event_name": "Championship",
     "poster_id": "Ipswich-Town-Sheffield-United-12092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Benfica",
-    "team_b": "Santa Clara",
-    "event_name": "Liga Portugal Betclic",
-    "poster_id": "Benfica-Santa-Clara-12092025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -396,20 +375,6 @@
     "team_b": "Valencia",
     "event_name": "LaLiga",
     "poster_id": "Barcelona-Valencia-14092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "England",
-    "team_b": "South Africa",
-    "event_name": "T20 International",
-    "poster_id": "England-South-Africa-12092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Bangladesh",
-    "team_b": "Sri Lanka",
-    "event_name": "Asia Cup",
-    "poster_id": "Bangladesh-Sri-Lanka-13092025.png",
     "match_type": "team_vs_team"
   },
   {
