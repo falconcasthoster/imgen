@@ -21,13 +21,6 @@
     "match_type": "single_event"
   },
   {
-    "team_a": "MotoGP",
-    "team_b": "",
-    "event_name": "MotoGP",
-    "poster_id": "MotoGP-07092025.png",
-    "match_type": "single_event"
-  },
-  {
     "team_a": "WWE NXT",
     "team_b": "",
     "event_name": "WWW NXT",
@@ -84,69 +77,6 @@
     "match_type": "single_event"
   },
   {
-    "team_a": "KalPa Kuopio",
-    "team_b": "Team Kuortane",
-    "event_name": "Auroraliiga",
-    "poster_id": "KalPa-Kuopio-Team-Kuortane-14092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Krefeld Pinguine",
-    "team_b": "EC Kassel Huskies",
-    "event_name": "Club Friendly Games",
-    "poster_id": "Krefeld-Pinguine-EC-Kassel-Huskies-14092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Okanagan HC Europe U20",
-    "team_b": "Eishockey Akademie Steiermark U20",
-    "event_name": "ICE Young Stars League ",
-    "poster_id": "Okanagan-HC-Europe-U20-Eishockey-Akademie-Steiermark-U20-14092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "HC Davos",
-    "team_b": "HC Ajoie",
-    "event_name": "National League A",
-    "poster_id": "HC-Davos-HC-Ajoie-14092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "ProCamp",
-    "team_b": "Regnum4Games",
-    "event_name": "DACH CS Masters",
-    "poster_id": "ProCamp-Regnum4Games-18092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Natus Vincere",
-    "team_b": "9INE",
-    "event_name": "StarLadder StarSeries",
-    "poster_id": "Natus-Vincere-9INE-18092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Rob Font",
-    "team_b": "Raul Rosas Jr.",
-    "event_name": "UFC",
-    "poster_id": "Rob-Font-Raul-Rosas-Jr.-14092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Al-Ettifaq",
-    "team_b": "Al-Ahli",
-    "event_name": "Saudi Pro League",
-    "poster_id": "Al-Ettifaq-Al-Ahli-12092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Ipswich Town",
-    "team_b": "Sheffield United",
-    "event_name": "Championship",
-    "poster_id": "Ipswich-Town-Sheffield-United-12092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Arsenal",
     "team_b": "Nottingham Forest",
     "event_name": "Premier League",
@@ -168,150 +98,101 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Athletic Club",
-    "team_b": "Deportivo AlavÃ©s",
-    "event_name": "LaLiga",
-    "poster_id": "Athletic-Club-Deportivo-AlavÃ©s-13092025.png",
+    "team_a": "Lelo Saracens Tbilisi",
+    "team_b": "Kazbegi",
+    "event_name": "Georgian Big 10",
+    "poster_id": "Lelo-Saracens-Tbilisi-Kazbegi-15092025.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "FC Bayern MÃ¼nchen",
-    "team_b": "Hamburger SV",
-    "event_name": "Bundesliga",
-    "poster_id": "FC-Bayern-MÃ¼nchen-Hamburger-SV-13092025.png",
+    "team_a": "Wang Z.",
+    "team_b": "Han Y.",
+    "event_name": "Hong Kong Open, WS",
+    "poster_id": "Wang-Z.-Han-Y.-14092025.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "West Ham United",
-    "team_b": "Tottenham Hotspur",
-    "event_name": "Premier League",
-    "poster_id": "West-Ham-United-Tottenham-Hotspur-13092025.png",
+    "team_a": "Thomas Gantt",
+    "team_b": "Adam Livingston",
+    "event_name": "Dana White's Contender Series",
+    "poster_id": "Thomas-Gantt-Adam-Livingston-17092025.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Al-Hilal",
-    "team_b": "Al-Qadsiah",
-    "event_name": "Saudi Pro League",
-    "poster_id": "Al-Hilal-Al-Qadsiah-13092025.png",
+    "team_a": "Las Vegas Raiders",
+    "team_b": "Los Angeles Chargers",
+    "event_name": "NFL",
+    "poster_id": "Las-Vegas-Raiders-Los-Angeles-Chargers-16092025.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Brentford",
-    "team_b": "Chelsea",
-    "event_name": "Premier League",
-    "poster_id": "Brentford-Chelsea-13092025.png",
+    "team_a": "Belgium",
+    "team_b": "Algeria",
+    "event_name": "World Championship",
+    "poster_id": "Belgium-Algeria-18092025.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "AtlÃ©tico Madrid",
-    "team_b": "Villarreal",
-    "event_name": "LaLiga",
-    "poster_id": "AtlÃ©tico-Madrid-Villarreal-13092025.png",
+    "team_a": "AlingsÃ¥s HK",
+    "team_b": "HK MalmÃ¶",
+    "event_name": "Handbollsligan",
+    "poster_id": "AlingsÃ¥s-HK-HK-MalmÃ¶-17092025.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Palmeiras",
-    "team_b": "Internacional",
-    "event_name": "BrasileirÃ£o Betano",
-    "poster_id": "Palmeiras-Internacional-13092025.png",
+    "team_a": "Peekaboo",
+    "team_b": "shinigami",
+    "event_name": "ESL Impact League",
+    "poster_id": "Peekaboo-shinigami-17092025.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Charlotte FC",
-    "team_b": "Inter Miami CF",
-    "event_name": "MLS",
-    "poster_id": "Charlotte-FC-Inter-Miami-CF-13092025.png",
+    "team_a": "GDT Bellinzona Snakes",
+    "team_b": "EHC Arosa",
+    "event_name": "Swiss League",
+    "poster_id": "GDT-Bellinzona-Snakes-EHC-Arosa-16092025.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Roma",
-    "team_b": "Torino",
-    "event_name": "Serie A",
-    "poster_id": "Roma-Torino-14092025.png",
+    "team_a": "Lewczuk M.",
+    "team_b": "Machelski M.",
+    "event_name": "TT Elite Series",
+    "poster_id": "Lewczuk-M.-Machelski-M.-14092025.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Celta Vigo",
-    "team_b": "Girona FC",
-    "event_name": "LaLiga",
-    "poster_id": "Celta-Vigo-Girona-FC-14092025.png",
+    "team_a": "Lorenzo Bortolazzi",
+    "team_b": "NicolÃ² Guicciardi",
+    "event_name": "TC San Felice - Torneo Sociale Men",
+    "poster_id": "Lorenzo-Bortolazzi-NicolÃ²-Guicciardi-17092025.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Lille",
-    "team_b": "Toulouse",
-    "event_name": "Ligue 1",
-    "poster_id": "Lille-Toulouse-14092025.png",
+    "team_a": "Hong Kong Bulls",
+    "team_b": "Changsha Jinjian Rice Industry",
+    "event_name": "NBL",
+    "poster_id": "Hong-Kong-Bulls-Changsha-Jinjian-Rice-Industry-17092025.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Atalanta",
-    "team_b": "Lecce",
-    "event_name": "Serie A",
-    "poster_id": "Atalanta-Lecce-14092025.png",
+    "team_a": "Washington Nationals",
+    "team_b": "Atlanta Braves",
+    "event_name": "MLB",
+    "poster_id": "Washington-Nationals-Atlanta-Braves-17092025.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Burnley",
-    "team_b": "Liverpool",
-    "event_name": "Premier League",
-    "poster_id": "Burnley-Liverpool-14092025.png",
+    "team_a": "BFC Preussen Berlin",
+    "team_b": "Hertha BSC II U23",
+    "event_name": "Regionalliga Nordost",
+    "poster_id": "BFC-Preussen-Berlin-Hertha-BSC-II-U23-17092025.png",
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Levante UD",
-    "team_b": "Real Betis",
-    "event_name": "LaLiga",
-    "poster_id": "Levante-UD-Real-Betis-14092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Stade Brestois",
-    "team_b": "Paris FC",
-    "event_name": "Ligue 1",
-    "poster_id": "Stade-Brestois-Paris-FC-14092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Paris Saint-Germain",
-    "team_b": "RC Lens",
-    "event_name": "Ligue 1",
-    "poster_id": "Paris-Saint-Germain-RC-Lens-14092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Manchester City",
-    "team_b": "Manchester United",
-    "event_name": "Premier League",
-    "poster_id": "Manchester-City-Manchester-United-14092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Al-Nassr",
-    "team_b": "Al-Kholood",
-    "event_name": "Saudi Pro League",
-    "poster_id": "Al-Nassr-Al-Kholood-14092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Milan",
-    "team_b": "Bologna",
-    "event_name": "Serie A",
-    "poster_id": "Milan-Bologna-14092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Barcelona",
-    "team_b": "Valencia",
-    "event_name": "LaLiga",
-    "poster_id": "Barcelona-Valencia-14092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "England Under-19",
-    "team_b": "Bangladesh Under-19",
-    "event_name": "One Day International U19",
-    "poster_id": "England-Under-19-Bangladesh-Under-19-14092025.png",
+    "team_a": "Sri Lanka",
+    "team_b": "Afghanistan",
+    "event_name": "Asia Cup",
+    "poster_id": "Sri-Lanka-Afghanistan-18092025.png",
     "match_type": "team_vs_team"
   }
 ]
