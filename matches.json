@@ -182,13 +182,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Arsenal",
-    "team_b": "Nottingham Forest",
-    "event_name": "Premier League",
-    "poster_id": "Arsenal-Nottingham-Forest-13092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Getafe",
     "team_b": "Real Oviedo",
     "event_name": "LaLiga",
