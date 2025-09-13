@@ -28,13 +28,6 @@
     "match_type": "single_event"
   },
   {
-    "team_a": "AEW",
-    "team_b": "",
-    "event_name": "AEW Dynamite: Cleveland",
-    "poster_id": "AEW-26082025.png",
-    "match_type": "single_event"
-  },
-  {
     "team_a": "WWE | Saturday Night's main event",
     "team_b": "",
     "event_name": "WWE | Summerslam ",
@@ -60,13 +53,6 @@
     "team_b": "",
     "event_name": "Boxing",
     "poster_id": "BoxingPacquiao-vs.-Barrios-19072025.png",
-    "match_type": "single_event"
-  },
-  {
-    "team_a": "TNA | IMPACT ",
-    "team_b": "",
-    "event_name": "TNA | IMPACT ",
-    "poster_id": "TNA-IMPACT-05092025.png",
     "match_type": "single_event"
   },
   {
