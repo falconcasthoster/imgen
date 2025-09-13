@@ -201,5 +201,54 @@
     "event_name": "Asia Cup",
     "poster_id": "Bangladesh-Sri-Lanka-13092025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Nice",
+    "team_b": "Nantes",
+    "event_name": "Ligue 1",
+    "poster_id": "Nice-Nantes-13092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Real Sociedad",
+    "team_b": "Real Madrid",
+    "event_name": "LaLiga",
+    "poster_id": "Real-Sociedad-Real-Madrid-13092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Juventus",
+    "team_b": "Inter",
+    "event_name": "Serie A",
+    "poster_id": "Juventus-Inter-13092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Athletic Club",
+    "team_b": "Deportivo AlavÃ©s",
+    "event_name": "LaLiga",
+    "poster_id": "Athletic-Club-Deportivo-AlavÃ©s-13092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "West Ham United",
+    "team_b": "Tottenham Hotspur",
+    "event_name": "Premier League",
+    "poster_id": "West-Ham-United-Tottenham-Hotspur-13092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "FC Bayern MÃ¼nchen",
+    "team_b": "Hamburger SV",
+    "event_name": "Bundesliga",
+    "poster_id": "FC-Bayern-MÃ¼nchen-Hamburger-SV-13092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Al-Hilal",
+    "team_b": "Al-Qadsiah",
+    "event_name": "Saudi Pro League",
+    "poster_id": "Al-Hilal-Al-Qadsiah-13092025.png",
+    "match_type": "team_vs_team"
   }
 ]
