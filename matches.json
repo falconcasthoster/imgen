@@ -126,13 +126,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Lewczuk M.",
-    "team_b": "Machelski M.",
-    "event_name": "TT Elite Series",
-    "poster_id": "Lewczuk-M.-Machelski-M.-14092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Lorenzo Bortolazzi",
     "team_b": "NicolÃ² Guicciardi",
     "event_name": "TC San Felice - Torneo Sociale Men",
@@ -235,13 +228,6 @@
     "team_b": "Internacional",
     "event_name": "BrasileirÃ£o Betano",
     "poster_id": "Palmeiras-Internacional-13092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Nacional PotosÃ­",
-    "team_b": "CD San Antonio",
-    "event_name": "DivisiÃ³n Profesional",
-    "poster_id": "Nacional-PotosÃ­-CD-San-Antonio-13092025.png",
     "match_type": "team_vs_team"
   },
   {
