@@ -411,5 +411,19 @@
     "event_name": "T20 International",
     "poster_id": "England-South-Africa-12092025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Bangladesh",
+    "team_b": "Sri Lanka",
+    "event_name": "Asia Cup",
+    "poster_id": "Bangladesh-Sri-Lanka-13092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "England Under-19",
+    "team_b": "Bangladesh Under-19",
+    "event_name": "One Day International U19",
+    "poster_id": "England-Under-19-Bangladesh-Under-19-14092025.png",
+    "match_type": "team_vs_team"
   }
 ]
