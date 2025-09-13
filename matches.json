@@ -203,13 +203,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "FC Bayern MÃ¼nchen",
-    "team_b": "Hamburger SV",
-    "event_name": "Bundesliga",
-    "poster_id": "FC-Bayern-MÃ¼nchen-Hamburger-SV-13092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Al-Hilal",
     "team_b": "Al-Qadsiah",
     "event_name": "Saudi Pro League",
