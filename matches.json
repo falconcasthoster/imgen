@@ -154,27 +154,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Paris Saint-Germain",
-    "team_b": "RC Lens",
-    "event_name": "Ligue 1",
-    "poster_id": "Paris-Saint-Germain-RC-Lens-14092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Stade Brestois",
-    "team_b": "Paris FC",
-    "event_name": "Ligue 1",
-    "poster_id": "Stade-Brestois-Paris-FC-14092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Manchester City",
-    "team_b": "Manchester United",
-    "event_name": "Premier League",
-    "poster_id": "Manchester-City-Manchester-United-14092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Osasuna",
     "team_b": "Rayo Vallecano",
     "event_name": "LaLiga",
@@ -196,24 +175,10 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "India",
-    "team_b": "Pakistan",
-    "event_name": "Asia Cup",
-    "poster_id": "India-Pakistan-14092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Zimbabwe",
     "team_b": "Namibia",
     "event_name": "T20 International",
     "poster_id": "Zimbabwe-Namibia-15092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "England",
-    "team_b": "South Africa",
-    "event_name": "T20 International",
-    "poster_id": "England-South-Africa-14092025.png",
     "match_type": "team_vs_team"
   }
 ]
