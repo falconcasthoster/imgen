@@ -341,5 +341,12 @@
     "event_name": "T20 International",
     "poster_id": "Zimbabwe-Namibia-15092025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "England",
+    "team_b": "South Africa",
+    "event_name": "T20 International",
+    "poster_id": "England-South-Africa-14092025.png",
+    "match_type": "team_vs_team"
   }
 ]
