@@ -320,5 +320,26 @@
     "event_name": "LaLiga",
     "poster_id": "Barcelona-Valencia-14092025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "India Women",
+    "team_b": "Australia Women",
+    "event_name": "One Day International Women",
+    "poster_id": "India-Women-Australia-Women-14092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "India",
+    "team_b": "Pakistan",
+    "event_name": "Asia Cup",
+    "poster_id": "India-Pakistan-14092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Zimbabwe",
+    "team_b": "Namibia",
+    "event_name": "T20 International",
+    "poster_id": "Zimbabwe-Namibia-15092025.png",
+    "match_type": "team_vs_team"
   }
 ]
