@@ -231,13 +231,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Leicester City",
-    "team_b": "Liverpool FC",
-    "event_name": "Women's Super League",
-    "poster_id": "Leicester-City-Liverpool-FC-14092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Burnley",
     "team_b": "Liverpool",
     "event_name": "Premier League",
