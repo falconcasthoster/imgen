@@ -70,13 +70,6 @@
     "match_type": "single_event"
   },
   {
-    "team_a": "Lelo Saracens Tbilisi",
-    "team_b": "Kazbegi",
-    "event_name": "Georgian Big 10",
-    "poster_id": "Lelo-Saracens-Tbilisi-Kazbegi-15092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Thomas Gantt",
     "team_b": "Adam Livingston",
     "event_name": "Dana White's Contender Series",
