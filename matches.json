@@ -271,5 +271,12 @@
     "event_name": "MLS",
     "poster_id": "Inter-Miami-CF-Seattle-Sounders-FC-16092025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Al-Sharjah",
+    "team_b": "Al-Gharafa",
+    "event_name": "AFC Champions League Elite",
+    "poster_id": "Al-Sharjah-Al-Gharafa-15092025.png",
+    "match_type": "team_vs_team"
   }
 ]
