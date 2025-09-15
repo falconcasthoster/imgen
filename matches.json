@@ -180,5 +180,103 @@
     "event_name": "Asia Cup",
     "poster_id": "United-Arab-Emirates-Oman-15092025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Sri Lanka",
+    "team_b": "Hong Kong C.",
+    "event_name": "Asia Cup",
+    "poster_id": "Sri-Lanka-Hong-Kong-C.-15092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Al-Ahli",
+    "team_b": "Nasaf Qarshi",
+    "event_name": "AFC Champions League Elite",
+    "poster_id": "Al-Ahli-Nasaf-Qarshi-15092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Como",
+    "team_b": "Genoa",
+    "event_name": "Serie A",
+    "poster_id": "Como-Genoa-15092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Espanyol",
+    "team_b": "Mallorca",
+    "event_name": "LaLiga",
+    "poster_id": "Espanyol-Mallorca-15092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Mohun Bagan Super Giant",
+    "team_b": "Ahal FK",
+    "event_name": "AFC Champions League Two",
+    "poster_id": "Mohun-Bagan-Super-Giant-Ahal-FK-16092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Athletic Club",
+    "team_b": "Arsenal",
+    "event_name": "UEFA Champions League",
+    "poster_id": "Athletic-Club-Arsenal-16092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "PSV Eindhoven",
+    "team_b": "Royale Union Saint-Gilloise",
+    "event_name": "UEFA Champions League",
+    "poster_id": "PSV-Eindhoven-Royale-Union-Saint-Gilloise-16092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Al-Hilal",
+    "team_b": "Al Duhail",
+    "event_name": "AFC Champions League Elite",
+    "poster_id": "Al-Hilal-Al-Duhail-16092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Tottenham Hotspur",
+    "team_b": "Villarreal",
+    "event_name": "UEFA Champions League",
+    "poster_id": "Tottenham-Hotspur-Villarreal-16092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Crystal Palace",
+    "team_b": "Millwall",
+    "event_name": "EFL Cup",
+    "poster_id": "Crystal-Palace-Millwall-16092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Real Madrid",
+    "team_b": "Olympique de Marseille",
+    "event_name": "UEFA Champions League",
+    "poster_id": "Real-Madrid-Olympique-de-Marseille-16092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Juventus",
+    "team_b": "Borussia Dortmund",
+    "event_name": "UEFA Champions League",
+    "poster_id": "Juventus-Borussia-Dortmund-16092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Brentford",
+    "team_b": "Aston Villa",
+    "event_name": "EFL Cup",
+    "poster_id": "Brentford-Aston-Villa-16092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Inter Miami CF",
+    "team_b": "Seattle Sounders FC",
+    "event_name": "MLS",
+    "poster_id": "Inter-Miami-CF-Seattle-Sounders-FC-16092025.png",
+    "match_type": "team_vs_team"
   }
 ]
