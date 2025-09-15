@@ -173,5 +173,12 @@
     "event_name": "Serie A",
     "poster_id": "Milan-Bologna-14092025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "United Arab Emirates",
+    "team_b": "Oman",
+    "event_name": "Asia Cup",
+    "poster_id": "United-Arab-Emirates-Oman-15092025.png",
+    "match_type": "team_vs_team"
   }
 ]
