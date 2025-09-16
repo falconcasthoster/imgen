@@ -299,5 +299,19 @@
     "event_name": "Asia Cup",
     "poster_id": "Bangladesh-Afghanistan-16092025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "SK Slavia Praha",
+    "team_b": "BodÃ¸/Glimt",
+    "event_name": "UEFA Champions League",
+    "poster_id": "SK-Slavia-Praha-BodÃ¸Glimt-17092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "FenerbahÃ§e",
+    "team_b": "Alanyaspor",
+    "event_name": "Trendyol SÃ¼per Lig",
+    "poster_id": "FenerbahÃ§e-Alanyaspor-17092025.png",
+    "match_type": "team_vs_team"
   }
 ]
