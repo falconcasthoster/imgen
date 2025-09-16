@@ -140,13 +140,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Athletic Club",
-    "team_b": "Arsenal",
-    "event_name": "UEFA Champions League",
-    "poster_id": "Athletic-Club-Arsenal-16092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "PSV Eindhoven",
     "team_b": "Royale Union Saint-Gilloise",
     "event_name": "UEFA Champions League",
@@ -221,13 +214,6 @@
     "team_b": "Trinbago Knight Riders Women",
     "event_name": "Women's Caribbean Premier League",
     "poster_id": "Barbados-Royals-Women-Trinbago-Knight-Riders-Women-16092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Bangladesh",
-    "team_b": "Afghanistan",
-    "event_name": "Asia Cup",
-    "poster_id": "Bangladesh-Afghanistan-16092025.png",
     "match_type": "team_vs_team"
   },
   {
