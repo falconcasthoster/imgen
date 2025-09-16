@@ -236,5 +236,12 @@
     "event_name": "AFC Champions League Elite",
     "poster_id": "Al-Hilal-Al-Duhail-16092025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Benfica",
+    "team_b": "QarabaÄ",
+    "event_name": "UEFA Champions League",
+    "poster_id": "Benfica-QarabaÄ-16092025.png",
+    "match_type": "team_vs_team"
   }
 ]
