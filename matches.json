@@ -133,52 +133,10 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Al-Nassr",
-    "team_b": "Al-Kholood",
-    "event_name": "Saudi Pro League",
-    "poster_id": "Al-Nassr-Al-Kholood-14092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Barcelona",
     "team_b": "Valencia",
     "event_name": "LaLiga",
     "poster_id": "Barcelona-Valencia-14092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Milan",
-    "team_b": "Bologna",
-    "event_name": "Serie A",
-    "poster_id": "Milan-Bologna-14092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Sri Lanka",
-    "team_b": "Hong Kong C.",
-    "event_name": "Asia Cup",
-    "poster_id": "Sri-Lanka-Hong-Kong-C.-15092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Al-Ahli",
-    "team_b": "Nasaf Qarshi",
-    "event_name": "AFC Champions League Elite",
-    "poster_id": "Al-Ahli-Nasaf-Qarshi-15092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Espanyol",
-    "team_b": "Mallorca",
-    "event_name": "LaLiga",
-    "poster_id": "Espanyol-Mallorca-15092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Mohun Bagan Super Giant",
-    "team_b": "Ahal FK",
-    "event_name": "AFC Champions League Two",
-    "poster_id": "Mohun-Bagan-Super-Giant-Ahal-FK-16092025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -193,13 +151,6 @@
     "team_b": "Royale Union Saint-Gilloise",
     "event_name": "UEFA Champions League",
     "poster_id": "PSV-Eindhoven-Royale-Union-Saint-Gilloise-16092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Al-Hilal",
-    "team_b": "Al Duhail",
-    "event_name": "AFC Champions League Elite",
-    "poster_id": "Al-Hilal-Al-Duhail-16092025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -245,13 +196,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Como",
-    "team_b": "Genoa",
-    "event_name": "Serie A",
-    "poster_id": "Como-Genoa-15092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Pakistan",
     "team_b": "United Arab Emirates",
     "event_name": "Asia Cup",
@@ -270,13 +214,6 @@
     "team_b": "Namibia",
     "event_name": "T20 International",
     "poster_id": "Zimbabwe-Namibia-18092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Pakistan Women",
-    "team_b": "South Africa Women",
-    "event_name": "One Day International Women",
-    "poster_id": "Pakistan-Women-South-Africa-Women-16092025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -305,6 +242,13 @@
     "team_b": "Alanyaspor",
     "event_name": "Trendyol SÃ¼per Lig",
     "poster_id": "FenerbahÃ§e-Alanyaspor-17092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Al-Hilal",
+    "team_b": "Al Duhail",
+    "event_name": "AFC Champions League Elite",
+    "poster_id": "Al-Hilal-Al-Duhail-16092025.png",
     "match_type": "team_vs_team"
   }
 ]
