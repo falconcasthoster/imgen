@@ -98,13 +98,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "GDT Bellinzona Snakes",
-    "team_b": "EHC Arosa",
-    "event_name": "Swiss League",
-    "poster_id": "GDT-Bellinzona-Snakes-EHC-Arosa-16092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Lorenzo Bortolazzi",
     "team_b": "NicolÃ² Guicciardi",
     "event_name": "TC San Felice - Torneo Sociale Men",
@@ -259,13 +252,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Bangladesh",
-    "team_b": "Afghanistan",
-    "event_name": "Asia Cup",
-    "poster_id": "Bangladesh-Afghanistan-16092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Pakistan",
     "team_b": "United Arab Emirates",
     "event_name": "Asia Cup",
@@ -284,6 +270,41 @@
     "team_b": "Namibia",
     "event_name": "T20 International",
     "poster_id": "Zimbabwe-Namibia-18092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "India Women",
+    "team_b": "Australia Women",
+    "event_name": "One Day International Women",
+    "poster_id": "India-Women-Australia-Women-17092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Pakistan Women",
+    "team_b": "South Africa Women",
+    "event_name": "One Day International Women",
+    "poster_id": "Pakistan-Women-South-Africa-Women-16092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Bangladesh",
+    "team_b": "Afghanistan",
+    "event_name": "Asia Cup",
+    "poster_id": "Bangladesh-Afghanistan-16092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Zimbabwe",
+    "team_b": "Namibia",
+    "event_name": "T20 International",
+    "poster_id": "Zimbabwe-Namibia-16092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Barbados Royals Women",
+    "team_b": "Trinbago Knight Riders Women",
+    "event_name": "Women's Caribbean Premier League",
+    "poster_id": "Barbados-Royals-Women-Trinbago-Knight-Riders-Women-16092025.png",
     "match_type": "team_vs_team"
   }
 ]
