@@ -243,5 +243,12 @@
     "event_name": "Trendyol SÃ¼per Lig",
     "poster_id": "FenerbahÃ§e-Alanyaspor-17092025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Al-Nassr",
+    "team_b": "FC Istiklol",
+    "event_name": "AFC Champions League Two",
+    "poster_id": "Al-Nassr-FC-Istiklol-17092025.png",
+    "match_type": "team_vs_team"
   }
 ]
