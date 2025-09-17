@@ -236,5 +236,12 @@
     "event_name": "MLB",
     "poster_id": "Boston-Red-Sox-Athletics-18092025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "ATHLETICS | World Championships | Tokyo",
+    "team_b": "",
+    "event_name": "World Athletics Championships",
+    "poster_id": "ATHLETICS-World-Championships-Tokyo-18092025.png",
+    "match_type": "single_event"
   }
 ]
