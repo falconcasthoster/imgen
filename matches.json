@@ -222,5 +222,12 @@
     "event_name": "One Day International Women",
     "poster_id": "India-Women-Australia-Women-20092025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Detroit Tigers",
+    "team_b": "Cleveland Guardians",
+    "event_name": "MLB",
+    "poster_id": "Detroit-Tigers-Cleveland-Guardians-18092025.png",
+    "match_type": "team_vs_team"
   }
 ]
