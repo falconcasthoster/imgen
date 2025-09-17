@@ -278,5 +278,12 @@
     "event_name": "One Day International Women",
     "poster_id": "India-Women-Australia-Women-17092025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Ireland",
+    "team_b": "England",
+    "event_name": "T20 International",
+    "poster_id": "Ireland-England-17092025.png",
+    "match_type": "team_vs_team"
   }
 ]
