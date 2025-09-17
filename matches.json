@@ -31,7 +31,7 @@
     "team_a": "WWE NXT",
     "team_b": "",
     "event_name": "WWW NXT",
-    "poster_id": "WWE-NXT-17092025.png",
+    "poster_id": "WWE-NXT-24092025.png",
     "match_type": "single_event"
   },
   {
@@ -88,41 +88,6 @@
     "team_b": "Namibia",
     "event_name": "T20 International",
     "poster_id": "Zimbabwe-Namibia-18092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Liverpool",
-    "team_b": "AtlÃ©tico Madrid",
-    "event_name": "UEFA Champions League",
-    "poster_id": "Liverpool-AtlÃ©tico-Madrid-17092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Paris Saint-Germain",
-    "team_b": "Atalanta",
-    "event_name": "UEFA Champions League",
-    "poster_id": "Paris-Saint-Germain-Atalanta-17092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Swansea City",
-    "team_b": "Nottingham Forest",
-    "event_name": "EFL Cup",
-    "poster_id": "Swansea-City-Nottingham-Forest-17092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "FC Bayern MÃ¼nchen",
-    "team_b": "Chelsea",
-    "event_name": "UEFA Champions League",
-    "poster_id": "FC-Bayern-MÃ¼nchen-Chelsea-17092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "AFC Ajax",
-    "team_b": "Inter",
-    "event_name": "UEFA Champions League",
-    "poster_id": "AFC-Ajax-Inter-17092025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -200,41 +165,6 @@
     "team_b": "Australia Women",
     "event_name": "One Day International Women",
     "poster_id": "India-Women-Australia-Women-20092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Detroit Tigers",
-    "team_b": "Cleveland Guardians",
-    "event_name": "MLB",
-    "poster_id": "Detroit-Tigers-Cleveland-Guardians-18092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Tampa Bay Rays",
-    "team_b": "Toronto Blue Jays",
-    "event_name": "MLB",
-    "poster_id": "Tampa-Bay-Rays-Toronto-Blue-Jays-18092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "New York Mets",
-    "team_b": "San Diego Padres",
-    "event_name": "MLB",
-    "poster_id": "New-York-Mets-San-Diego-Padres-18092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Kansas City Royals",
-    "team_b": "Seattle Mariners",
-    "event_name": "MLB",
-    "poster_id": "Kansas-City-Royals-Seattle-Mariners-18092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Boston Red Sox",
-    "team_b": "Athletics",
-    "event_name": "MLB",
-    "poster_id": "Boston-Red-Sox-Athletics-18092025.png",
     "match_type": "team_vs_team"
   },
   {
