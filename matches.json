@@ -98,13 +98,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Hong Kong Bulls",
-    "team_b": "Changsha Jinjian Rice Industry",
-    "event_name": "NBL",
-    "poster_id": "Hong-Kong-Bulls-Changsha-Jinjian-Rice-Industry-17092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Washington Nationals",
     "team_b": "Atlanta Braves",
     "event_name": "MLB",
@@ -147,13 +140,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "SK Slavia Praha",
-    "team_b": "BodÃ¸/Glimt",
-    "event_name": "UEFA Champions League",
-    "poster_id": "SK-Slavia-Praha-BodÃ¸Glimt-17092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "FenerbahÃ§e",
     "team_b": "Alanyaspor",
     "event_name": "Trendyol SÃ¼per Lig",
@@ -172,13 +158,6 @@
     "team_b": "Pafos FC",
     "event_name": "UEFA Champions League",
     "poster_id": "Olympiacos-FC-Pafos-FC-17092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "FenerbahÃ§e",
-    "team_b": "Alanyaspor",
-    "event_name": "Trendyol SÃ¼per Lig",
-    "poster_id": "FenerbahÃ§e-Alanyaspor-17092025.png",
     "match_type": "team_vs_team"
   },
   {
