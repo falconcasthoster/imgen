@@ -229,5 +229,33 @@
     "event_name": "MLB",
     "poster_id": "Detroit-Tigers-Cleveland-Guardians-18092025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Tampa Bay Rays",
+    "team_b": "Toronto Blue Jays",
+    "event_name": "MLB",
+    "poster_id": "Tampa-Bay-Rays-Toronto-Blue-Jays-18092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "New York Mets",
+    "team_b": "San Diego Padres",
+    "event_name": "MLB",
+    "poster_id": "New-York-Mets-San-Diego-Padres-18092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Kansas City Royals",
+    "team_b": "Seattle Mariners",
+    "event_name": "MLB",
+    "poster_id": "Kansas-City-Royals-Seattle-Mariners-18092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Boston Red Sox",
+    "team_b": "Athletics",
+    "event_name": "MLB",
+    "poster_id": "Boston-Red-Sox-Athletics-18092025.png",
+    "match_type": "team_vs_team"
   }
 ]
