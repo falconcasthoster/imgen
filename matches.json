@@ -35,6 +35,13 @@
     "match_type": "single_event"
   },
   {
+    "team_a": "AEW",
+    "team_b": "",
+    "event_name": "AEW Dynamite: Cleveland",
+    "poster_id": "AEW-18092025.png",
+    "match_type": "single_event"
+  },
+  {
     "team_a": "WWE | Saturday Night's main event",
     "team_b": "",
     "event_name": "WWE | Summerslam ",
@@ -68,20 +75,6 @@
     "event_name": "ð¾ Tennis: ATP Toronto & WTA Montreal ",
     "poster_id": "Tennis-ATP-Toronto-&-WTA-Montreal-ð¾-04082025.png",
     "match_type": "single_event"
-  },
-  {
-    "team_a": "Belgium",
-    "team_b": "Algeria",
-    "event_name": "World Championship",
-    "poster_id": "Belgium-Algeria-18092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Washington Nationals",
-    "team_b": "Atlanta Braves",
-    "event_name": "MLB",
-    "poster_id": "Washington-Nationals-Atlanta-Braves-17092025.png",
-    "match_type": "team_vs_team"
   },
   {
     "team_a": "Sri Lanka",
@@ -133,13 +126,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Botafogo",
-    "team_b": "Mirassol",
-    "event_name": "BrasileirÃ£o Betano",
-    "poster_id": "Botafogo-Mirassol-17092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "River Plate",
     "team_b": "Palmeiras",
     "event_name": "CONMEBOL Libertadores",
@@ -186,13 +172,6 @@
     "team_b": "South Africa Women",
     "event_name": "One Day International Women",
     "poster_id": "Pakistan-Women-South-Africa-Women-19092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Al-Nassr",
-    "team_b": "FC Istiklol",
-    "event_name": "AFC Champions League Two",
-    "poster_id": "Al-Nassr-FC-Istiklol-17092025.png",
     "match_type": "team_vs_team"
   },
   {
