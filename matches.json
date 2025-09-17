@@ -77,20 +77,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Peekaboo",
-    "team_b": "shinigami",
-    "event_name": "ESL Impact League",
-    "poster_id": "Peekaboo-shinigami-17092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Lorenzo Bortolazzi",
-    "team_b": "NicolÃ² Guicciardi",
-    "event_name": "TC San Felice - Torneo Sociale Men",
-    "poster_id": "Lorenzo-Bortolazzi-NicolÃ²-Guicciardi-17092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Washington Nationals",
     "team_b": "Atlanta Braves",
     "event_name": "MLB",
@@ -105,31 +91,10 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Barcelona",
-    "team_b": "Valencia",
-    "event_name": "LaLiga",
-    "poster_id": "Barcelona-Valencia-14092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Pakistan",
-    "team_b": "United Arab Emirates",
-    "event_name": "Asia Cup",
-    "poster_id": "Pakistan-United-Arab-Emirates-17092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Zimbabwe",
     "team_b": "Namibia",
     "event_name": "T20 International",
     "poster_id": "Zimbabwe-Namibia-18092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Olympiacos FC",
-    "team_b": "Pafos FC",
-    "event_name": "UEFA Champions League",
-    "poster_id": "Olympiacos-FC-Pafos-FC-17092025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -221,27 +186,6 @@
     "team_b": "South Africa Women",
     "event_name": "One Day International Women",
     "poster_id": "Pakistan-Women-South-Africa-Women-19092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "India Women",
-    "team_b": "Australia Women",
-    "event_name": "One Day International Women",
-    "poster_id": "India-Women-Australia-Women-17092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "SK Slavia Praha",
-    "team_b": "BodÃ¸/Glimt",
-    "event_name": "UEFA Champions League",
-    "poster_id": "SK-Slavia-Praha-BodÃ¸Glimt-17092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "FenerbahÃ§e",
-    "team_b": "Alanyaspor",
-    "event_name": "Trendyol SÃ¼per Lig",
-    "poster_id": "FenerbahÃ§e-Alanyaspor-17092025.png",
     "match_type": "team_vs_team"
   },
   {
