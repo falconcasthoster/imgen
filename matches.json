@@ -84,13 +84,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "River Plate",
-    "team_b": "Palmeiras",
-    "event_name": "CONMEBOL Libertadores",
-    "poster_id": "River-Plate-Palmeiras-18092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "FC KÃ¸benhavn",
     "team_b": "Bayer 04 Leverkusen",
     "event_name": "UEFA Champions League",
@@ -151,13 +144,6 @@
     "team_b": "Australia Women",
     "event_name": "One Day International Women",
     "poster_id": "India-Women-Australia-Women-20092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Detroit Tigers",
-    "team_b": "Cleveland Guardians",
-    "event_name": "MLB",
-    "poster_id": "Detroit-Tigers-Cleveland-Guardians-18092025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -277,13 +263,6 @@
     "team_b": "West Indies",
     "event_name": "T20 International",
     "poster_id": "Nepal-West-Indies-28092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Al-Taawoun",
-    "team_b": "Al-Ettifaq",
-    "event_name": "Saudi Pro League",
-    "poster_id": "Al-Taawoun-Al-Ettifaq-18092025.png",
     "match_type": "team_vs_team"
   },
   {
