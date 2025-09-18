@@ -285,5 +285,33 @@
     "event_name": "Saudi Pro League",
     "poster_id": "Al-Taawoun-Al-Ettifaq-18092025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Colorado Rockies",
+    "team_b": "Miami Marlins",
+    "event_name": "MLB",
+    "poster_id": "Colorado-Rockies-Miami-Marlins-18092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Cincinnati Reds",
+    "team_b": "Chicago Cubs",
+    "event_name": "MLB",
+    "poster_id": "Cincinnati-Reds-Chicago-Cubs-18092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Baltimore Orioles",
+    "team_b": "New York Yankees",
+    "event_name": "MLB",
+    "poster_id": "Baltimore-Orioles-New-York-Yankees-18092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Milwaukee Brewers",
+    "team_b": "Los Angeles Angels",
+    "event_name": "MLB",
+    "poster_id": "Milwaukee-Brewers-Los-Angeles-Angels-18092025.png",
+    "match_type": "team_vs_team"
   }
 ]
