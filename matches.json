@@ -77,13 +77,6 @@
     "match_type": "single_event"
   },
   {
-    "team_a": "Sri Lanka",
-    "team_b": "Afghanistan",
-    "event_name": "Asia Cup",
-    "poster_id": "Sri-Lanka-Afghanistan-18092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "FC KÃ¸benhavn",
     "team_b": "Bayer 04 Leverkusen",
     "event_name": "UEFA Champions League",
