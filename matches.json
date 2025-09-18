@@ -278,5 +278,12 @@
     "event_name": "T20 International",
     "poster_id": "Nepal-West-Indies-28092025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Al-Taawoun",
+    "team_b": "Al-Ettifaq",
+    "event_name": "Saudi Pro League",
+    "poster_id": "Al-Taawoun-Al-Ettifaq-18092025.png",
+    "match_type": "team_vs_team"
   }
 ]
