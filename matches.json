@@ -301,13 +301,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Baltimore Orioles",
-    "team_b": "New York Yankees",
-    "event_name": "MLB",
-    "poster_id": "Baltimore-Orioles-New-York-Yankees-18092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Milwaukee Brewers",
     "team_b": "Los Angeles Angels",
     "event_name": "MLB",
