@@ -273,6 +273,13 @@
     "match_type": "team_vs_team"
   },
   {
+    "team_a": "Baltimore Orioles",
+    "team_b": "New York Yankees",
+    "event_name": "MLB",
+    "poster_id": "Baltimore-Orioles-New-York-Yankees-18092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
     "team_a": "Milwaukee Brewers",
     "team_b": "Los Angeles Angels",
     "event_name": "MLB",
@@ -280,38 +287,10 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Sugar Land Space Cowboys",
-    "team_b": "El Paso Chihuahuas",
-    "event_name": "Triple-A Pacific Coast League",
-    "poster_id": "Sugar-Land-Space-Cowboys-El-Paso-Chihuahuas-19092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Los Angeles Dodgers",
     "team_b": "San Francisco Giants",
     "event_name": "MLB",
     "poster_id": "Los-Angeles-Dodgers-San-Francisco-Giants-19092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Sacramento River Cats",
-    "team_b": "Round Rock Express",
-    "event_name": "Triple-A Pacific Coast League",
-    "poster_id": "Sacramento-River-Cats-Round-Rock-Express-19092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Las Vegas Aviators",
-    "team_b": "Salt Lake Bees",
-    "event_name": "Triple-A Pacific Coast League",
-    "poster_id": "Las-Vegas-Aviators-Salt-Lake-Bees-19092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Tacoma Rainiers",
-    "team_b": "Oklahoma City Dodgers",
-    "event_name": "Triple-A Pacific Coast League",
-    "poster_id": "Tacoma-Rainiers-Oklahoma-City-Dodgers-19092025.png",
     "match_type": "team_vs_team"
   },
   {
