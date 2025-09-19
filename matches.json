@@ -84,41 +84,6 @@
     "match_type": "single_event"
   },
   {
-    "team_a": "FC KÃ¸benhavn",
-    "team_b": "Bayer 04 Leverkusen",
-    "event_name": "UEFA Champions League",
-    "poster_id": "FC-KÃ¸benhavn-Bayer-04-Leverkusen-18092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Club Brugge KV",
-    "team_b": "AS Monaco",
-    "event_name": "UEFA Champions League",
-    "poster_id": "Club-Brugge-KV-AS-Monaco-18092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Manchester City",
-    "team_b": "Napoli",
-    "event_name": "UEFA Champions League",
-    "poster_id": "Manchester-City-Napoli-18092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Newcastle United",
-    "team_b": "Barcelona",
-    "event_name": "UEFA Champions League",
-    "poster_id": "Newcastle-United-Barcelona-18092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Sporting",
-    "team_b": "Kairat Almaty",
-    "event_name": "UEFA Champions League",
-    "poster_id": "Sporting-Kairat-Almaty-18092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Pakistan Women",
     "team_b": "South Africa Women",
     "event_name": "One Day International Women",
@@ -144,34 +109,6 @@
     "team_b": "Australia Women",
     "event_name": "One Day International Women",
     "poster_id": "India-Women-Australia-Women-20092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Tampa Bay Rays",
-    "team_b": "Toronto Blue Jays",
-    "event_name": "MLB",
-    "poster_id": "Tampa-Bay-Rays-Toronto-Blue-Jays-18092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "New York Mets",
-    "team_b": "San Diego Padres",
-    "event_name": "MLB",
-    "poster_id": "New-York-Mets-San-Diego-Padres-18092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Kansas City Royals",
-    "team_b": "Seattle Mariners",
-    "event_name": "MLB",
-    "poster_id": "Kansas-City-Royals-Seattle-Mariners-18092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Boston Red Sox",
-    "team_b": "Athletics",
-    "event_name": "MLB",
-    "poster_id": "Boston-Red-Sox-Athletics-18092025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -263,34 +200,6 @@
     "team_b": "West Indies",
     "event_name": "T20 International",
     "poster_id": "Nepal-West-Indies-28092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Colorado Rockies",
-    "team_b": "Miami Marlins",
-    "event_name": "MLB",
-    "poster_id": "Colorado-Rockies-Miami-Marlins-18092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Cincinnati Reds",
-    "team_b": "Chicago Cubs",
-    "event_name": "MLB",
-    "poster_id": "Cincinnati-Reds-Chicago-Cubs-18092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Baltimore Orioles",
-    "team_b": "New York Yankees",
-    "event_name": "MLB",
-    "poster_id": "Baltimore-Orioles-New-York-Yankees-18092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Milwaukee Brewers",
-    "team_b": "Los Angeles Angels",
-    "event_name": "MLB",
-    "poster_id": "Milwaukee-Brewers-Los-Angeles-Angels-18092025.png",
     "match_type": "team_vs_team"
   },
   {
