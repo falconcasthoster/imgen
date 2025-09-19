@@ -537,5 +537,47 @@
     "event_name": "European Championship",
     "poster_id": "Israel-France-20092025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "VfB Stuttgart",
+    "team_b": "FC St. Pauli",
+    "event_name": "Bundesliga",
+    "poster_id": "VfB-Stuttgart-FC-St.-Pauli-19092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Al-Ahli",
+    "team_b": "Al-Hilal",
+    "event_name": "Saudi Pro League",
+    "poster_id": "Al-Ahli-Al-Hilal-19092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Olympique Lyonnais",
+    "team_b": "Angers",
+    "event_name": "Ligue 1",
+    "poster_id": "Olympique-Lyonnais-Angers-19092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Real Betis",
+    "team_b": "Real Sociedad",
+    "event_name": "LaLiga",
+    "poster_id": "Real-Betis-Real-Sociedad-19092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Fiorentina U20",
+    "team_b": "Lecce U20",
+    "event_name": "Campionato Primavera 1",
+    "poster_id": "Fiorentina-U20-Lecce-U20-20092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Liverpool",
+    "team_b": "Everton",
+    "event_name": "Premier League",
+    "poster_id": "Liverpool-Everton-20092025.png",
+    "match_type": "team_vs_team"
   }
 ]
