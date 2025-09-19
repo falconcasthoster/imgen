@@ -168,90 +168,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Kia Tigers",
-    "team_b": "NC Dinos",
-    "event_name": "KBO",
-    "poster_id": "Kia-Tigers-NC-Dinos-20092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Chunichi Dragons",
-    "team_b": "Tokyo Yakult Swallows",
-    "event_name": "Pro Yakyu - NPB",
-    "poster_id": "Chunichi-Dragons-Tokyo-Yakult-Swallows-20092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Kt Wiz",
-    "team_b": "Hanwha Eagles",
-    "event_name": "KBO",
-    "poster_id": "Kt-Wiz-Hanwha-Eagles-20092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "LG Twins",
-    "team_b": "Samsung Lions",
-    "event_name": "KBO",
-    "poster_id": "LG-Twins-Samsung-Lions-20092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "SSG Landers",
-    "team_b": "Doosan Bears",
-    "event_name": "KBO",
-    "poster_id": "SSG-Landers-Doosan-Bears-20092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Lotte Giants",
-    "team_b": "Kiwoom Heroes",
-    "event_name": "KBO",
-    "poster_id": "Lotte-Giants-Kiwoom-Heroes-20092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Croatia",
-    "team_b": "Hungary",
-    "event_name": "European Championship",
-    "poster_id": "Croatia-Hungary-20092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Uni-President 7-Eleven Lions",
-    "team_b": "Rakuten Monkeys",
-    "event_name": "CPBL",
-    "poster_id": "Uni-President-7-Eleven-Lions-Rakuten-Monkeys-20092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Fubon Guardians",
-    "team_b": "TSG Hawks",
-    "event_name": "CPBL",
-    "poster_id": "Fubon-Guardians-TSG-Hawks-20092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Greece",
-    "team_b": "Lithuania",
-    "event_name": "European Championship",
-    "poster_id": "Greece-Lithuania-20092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Chinatrust Brothers",
-    "team_b": "Wei Chuan Dragons",
-    "event_name": "CPBL",
-    "poster_id": "Chinatrust-Brothers-Wei-Chuan-Dragons-20092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Israel",
-    "team_b": "France",
-    "event_name": "European Championship",
-    "poster_id": "Israel-France-20092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "VfB Stuttgart",
     "team_b": "FC St. Pauli",
     "event_name": "Bundesliga",
@@ -277,13 +193,6 @@
     "team_b": "Real Sociedad",
     "event_name": "LaLiga",
     "poster_id": "Real-Betis-Real-Sociedad-19092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Fiorentina U20",
-    "team_b": "Lecce U20",
-    "event_name": "Campionato Primavera 1",
-    "poster_id": "Fiorentina-U20-Lecce-U20-20092025.png",
     "match_type": "team_vs_team"
   },
   {
