@@ -168,83 +168,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Sioux Falls Canaries",
-    "team_b": "Kane County Cougars",
-    "event_name": "American Association",
-    "poster_id": "Sioux-Falls-Canaries-Kane-County-Cougars-19092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Norfolk Tides",
-    "team_b": "Jacksonville Jumbo Shrimp",
-    "event_name": "Triple-A International League",
-    "poster_id": "Norfolk-Tides-Jacksonville-Jumbo-Shrimp-19092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Schaumburg Boomers",
-    "team_b": "Quebec Capitales",
-    "event_name": "Frontier League",
-    "poster_id": "Schaumburg-Boomers-Quebec-Capitales-19092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Buffalo Bisons",
-    "team_b": "Scranton/Wilkes-Barre Railriders",
-    "event_name": "Triple-A International League",
-    "poster_id": "Buffalo-Bisons-ScrantonWilkes-Barre-Railriders-19092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Worcester Red Sox",
-    "team_b": "Rochester Red Wings",
-    "event_name": "Triple-A International League",
-    "poster_id": "Worcester-Red-Sox-Rochester-Red-Wings-19092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Cincinnati Reds",
-    "team_b": "Chicago Cubs",
-    "event_name": "MLB",
-    "poster_id": "Cincinnati-Reds-Chicago-Cubs-19092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Charlotte Knights",
-    "team_b": "Durham Bulls",
-    "event_name": "Triple-A International League",
-    "poster_id": "Charlotte-Knights-Durham-Bulls-19092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Detroit Tigers",
-    "team_b": "Atlanta Braves",
-    "event_name": "MLB",
-    "poster_id": "Detroit-Tigers-Atlanta-Braves-19092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Baltimore Orioles",
-    "team_b": "New York Yankees",
-    "event_name": "MLB",
-    "poster_id": "Baltimore-Orioles-New-York-Yankees-19092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Pittsburgh Pirates",
-    "team_b": "Athletics",
-    "event_name": "MLB",
-    "poster_id": "Pittsburgh-Pirates-Athletics-19092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Lehigh Valley Iron Pigs",
-    "team_b": "Syracuse Mets",
-    "event_name": "Triple-A International League",
-    "poster_id": "Lehigh-Valley-Iron-Pigs-Syracuse-Mets-19092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "New York Mets",
     "team_b": "Washington Nationals",
     "event_name": "MLB",
@@ -256,20 +179,6 @@
     "team_b": "Nashville Sounds",
     "event_name": "Triple-A International League",
     "poster_id": "Louisville-Bats-Nashville-Sounds-19092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Columbus Clippers",
-    "team_b": "Omaha Storm Chasers",
-    "event_name": "Triple-A International League",
-    "poster_id": "Columbus-Clippers-Omaha-Storm-Chasers-19092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Gwinnett Stripers",
-    "team_b": "Indianapolis Indians",
-    "event_name": "Triple-A International League",
-    "poster_id": "Gwinnett-Stripers-Indianapolis-Indians-19092025.png",
     "match_type": "team_vs_team"
   },
   {
