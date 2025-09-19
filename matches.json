@@ -203,34 +203,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Los Angeles Dodgers",
-    "team_b": "San Francisco Giants",
-    "event_name": "MLB",
-    "poster_id": "Los-Angeles-Dodgers-San-Francisco-Giants-19092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Chinatrust Brothers",
-    "team_b": "Uni-President 7-Eleven Lions",
-    "event_name": "CPBL",
-    "poster_id": "Chinatrust-Brothers-Uni-President-7-Eleven-Lions-19092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Wei Chuan Dragons",
-    "team_b": "TSG Hawks",
-    "event_name": "CPBL",
-    "poster_id": "Wei-Chuan-Dragons-TSG-Hawks-19092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Rakuten Monkeys",
-    "team_b": "Fubon Guardians",
-    "event_name": "CPBL",
-    "poster_id": "Rakuten-Monkeys-Fubon-Guardians-19092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Sioux Falls Canaries",
     "team_b": "Kane County Cougars",
     "event_name": "American Association",
