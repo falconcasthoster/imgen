@@ -210,41 +210,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Tohoku Rakuten Golden Eagles",
-    "team_b": "Saitama Seibu Lions",
-    "event_name": "Pro Yakyu - NPB",
-    "poster_id": "Tohoku-Rakuten-Golden-Eagles-Saitama-Seibu-Lions-19092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Yomiuri Giants",
-    "team_b": "Hiroshima Carp",
-    "event_name": "Pro Yakyu - NPB",
-    "poster_id": "Yomiuri-Giants-Hiroshima-Carp-19092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Kt Wiz",
-    "team_b": "Hanwha Eagles",
-    "event_name": "KBO",
-    "poster_id": "Kt-Wiz-Hanwha-Eagles-19092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Chunichi Dragons",
-    "team_b": "Tokyo Yakult Swallows",
-    "event_name": "Pro Yakyu - NPB",
-    "poster_id": "Chunichi-Dragons-Tokyo-Yakult-Swallows-19092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Hanshin Tigers",
-    "team_b": "Yokohama DeNA BayStars",
-    "event_name": "Pro Yakyu - NPB",
-    "poster_id": "Hanshin-Tigers-Yokohama-DeNA-BayStars-19092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Chinatrust Brothers",
     "team_b": "Uni-President 7-Eleven Lions",
     "event_name": "CPBL",
