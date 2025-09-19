@@ -112,13 +112,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "ATHLETICS | World Championships | Tokyo",
-    "team_b": "",
-    "event_name": "World Athletics Championships",
-    "poster_id": "ATHLETICS-World-Championships-Tokyo-19092025.png",
-    "match_type": "single_event"
-  },
-  {
     "team_a": "Pakistan Women",
     "team_b": "South Africa Women",
     "event_name": "One Day International Women",
