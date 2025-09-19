@@ -119,13 +119,6 @@
     "match_type": "single_event"
   },
   {
-    "team_a": "Wuhan Three Towns",
-    "team_b": "Henan FC Jiuzu Dukang",
-    "event_name": "Chinese Super League",
-    "poster_id": "Wuhan-Three-Towns-Henan-FC-Jiuzu-Dukang-19092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Pakistan Women",
     "team_b": "South Africa Women",
     "event_name": "One Day International Women",
