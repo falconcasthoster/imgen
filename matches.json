@@ -224,20 +224,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "NC Dinos",
-    "team_b": "Lotte Giants",
-    "event_name": "KBO",
-    "poster_id": "NC-Dinos-Lotte-Giants-19092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "SSG Landers",
-    "team_b": "Doosan Bears",
-    "event_name": "KBO",
-    "poster_id": "SSG-Landers-Doosan-Bears-19092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Rakuten Monkeys",
     "team_b": "Fubon Guardians",
     "event_name": "CPBL",
