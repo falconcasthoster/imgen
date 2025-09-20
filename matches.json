@@ -203,24 +203,10 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Liverpool",
-    "team_b": "Everton",
-    "event_name": "Premier League",
-    "poster_id": "Liverpool-Everton-20092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Leicester City",
     "team_b": "Coventry City",
     "event_name": "Championship",
     "poster_id": "Leicester-City-Coventry-City-20092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Girona FC",
-    "team_b": "Levante UD",
-    "event_name": "LaLiga",
-    "poster_id": "Girona-FC-Levante-UD-20092025.png",
     "match_type": "team_vs_team"
   },
   {
