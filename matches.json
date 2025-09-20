@@ -441,31 +441,10 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Indianapolis Greyhounds",
-    "team_b": "Mckendree Bearcats",
-    "event_name": "NCAA, Regular Season",
-    "poster_id": "Indianapolis-Greyhounds-Mckendree-Bearcats-20092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Florida Intl Golden Panthers",
     "team_b": "Delaware Blue Hens",
     "event_name": "NCAA, Regular Season",
     "poster_id": "Florida-Intl-Golden-Panthers-Delaware-Blue-Hens-20092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Kalamazoo Hornets",
-    "team_b": "Anderson\tRavens",
-    "event_name": "NCAA, Regular Season",
-    "poster_id": "Kalamazoo-Hornets-Anderson-Ravens-20092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Allen Yellow Jackets",
-    "team_b": "Clark Atlanta Panthers",
-    "event_name": "NCAA, Regular Season",
-    "poster_id": "Allen-Yellow-Jackets-Clark-Atlanta-Panthers-20092025.png",
     "match_type": "team_vs_team"
   },
   {
