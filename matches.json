@@ -201,5 +201,12 @@
     "event_name": "Premier League",
     "poster_id": "Liverpool-Everton-20092025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Sri Lanka",
+    "team_b": "Bangladesh",
+    "event_name": "Asia Cup",
+    "poster_id": "Sri-Lanka-Bangladesh-20092025.png",
+    "match_type": "team_vs_team"
   }
 ]
