@@ -546,13 +546,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Hamilton Tiger-Cats",
-    "team_b": "Edmonton Elks",
-    "event_name": "CFL",
-    "poster_id": "Hamilton-Tiger-Cats-Edmonton-Elks-20092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Air Force Falcons",
     "team_b": "Boise State Broncos",
     "event_name": "NCAA, Regular Season",
@@ -578,48 +571,6 @@
     "team_b": "Eastern Kentucky",
     "event_name": "NCAA, Regular Season",
     "poster_id": "West-Georgia-Wolves-Eastern-Kentucky-20092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Albany Great Danes",
-    "team_b": "Cornell Big Red",
-    "event_name": "NCAA, Regular Season",
-    "poster_id": "Albany-Great-Danes-Cornell-Big-Red-20092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Alabama A&M Bulldogs",
-    "team_b": "Lane Dragons",
-    "event_name": "NCAA, Regular Season",
-    "poster_id": "Alabama-A&M-Bulldogs-Lane-Dragons-20092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Albany Great Danes",
-    "team_b": "Cornell Big Red",
-    "event_name": "NCAA, Regular Season",
-    "poster_id": "Albany-Great-Danes-Cornell-Big-Red-20092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Angelo State Rams",
-    "team_b": "Western New Mexico Mustangs",
-    "event_name": "NCAA, Regular Season",
-    "poster_id": "Angelo-State-Rams-Western-New-Mexico-Mustangs-20092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Air Force Falcons",
-    "team_b": "Boise State Broncos",
-    "event_name": "NCAA, Regular Season",
-    "poster_id": "Air-Force-Falcons-Boise-State-Broncos-20092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Allegheny Gators",
-    "team_b": "Thiel Tomcats",
-    "event_name": "NCAA, Regular Season",
-    "poster_id": "Allegheny-Gators-Thiel-Tomcats-20092025.png",
     "match_type": "team_vs_team"
   },
   {
