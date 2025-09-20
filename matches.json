@@ -544,5 +544,12 @@
     "event_name": "NCAA, Regular Season",
     "poster_id": "Missouri-Western-Griffons-Central-Missouri-Mules-20092025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Wrestlepalooza",
+    "team_b": "",
+    "event_name": "WWE | Wrestlepalooza",
+    "poster_id": "Wrestlepalooza-20092025.png",
+    "match_type": "single_event"
   }
 ]
