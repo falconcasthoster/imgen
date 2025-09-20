@@ -168,20 +168,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "New York City FC",
-    "team_b": "Charlotte FC",
-    "event_name": "MLS",
-    "poster_id": "New-York-City-FC-Charlotte-FC-20092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Hellas Verona",
-    "team_b": "Juventus",
-    "event_name": "Serie A",
-    "poster_id": "Hellas-Verona-Juventus-20092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Villarreal",
     "team_b": "Osasuna",
     "event_name": "LaLiga",
