@@ -217,13 +217,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Formula 2",
-    "team_b": "",
-    "event_name": "Formula 2",
-    "poster_id": "Formula-2-20092025.png",
-    "match_type": "single_event"
-  },
-  {
     "team_a": "Blackpool",
     "team_b": "Barnsley",
     "event_name": "League One",
