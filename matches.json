@@ -189,13 +189,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "RB Leipzig",
-    "team_b": "1. FC KÃ¶ln",
-    "event_name": "Bundesliga",
-    "poster_id": "RB-Leipzig-1.-FC-KÃ¶ln-20092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Deportivo AlavÃ©s",
     "team_b": "Sevilla",
     "event_name": "LaLiga",
