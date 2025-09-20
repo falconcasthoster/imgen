@@ -168,6 +168,20 @@
     "match_type": "team_vs_team"
   },
   {
+    "team_a": "New York City FC",
+    "team_b": "Charlotte FC",
+    "event_name": "MLS",
+    "poster_id": "New-York-City-FC-Charlotte-FC-20092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Hellas Verona",
+    "team_b": "Juventus",
+    "event_name": "Serie A",
+    "poster_id": "Hellas-Verona-Juventus-20092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
     "team_a": "Villarreal",
     "team_b": "Osasuna",
     "event_name": "LaLiga",
@@ -368,209 +382,6 @@
     "team_b": "Bangladesh",
     "event_name": "Asia Cup",
     "poster_id": "Sri-Lanka-Bangladesh-20092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "California-Davis Aggies",
-    "team_b": "Southern Utah Thunderbirds",
-    "event_name": "NCAA, Regular Season",
-    "poster_id": "California-Davis-Aggies-Southern-Utah-Thunderbirds-21092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Hawaii Rainbow Warriors",
-    "team_b": "Fresno State Bulldogs",
-    "event_name": "NCAA, Regular Season",
-    "poster_id": "Hawaii-Rainbow-Warriors-Fresno-State-Bulldogs-21092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Colorado Buffaloes",
-    "team_b": "Wyoming Cowboys",
-    "event_name": "NCAA, Regular Season",
-    "poster_id": "Colorado-Buffaloes-Wyoming-Cowboys-21092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "San Diego State Aztecs",
-    "team_b": "California Golden Bears",
-    "event_name": "NCAA, Regular Season",
-    "poster_id": "San-Diego-State-Aztecs-California-Golden-Bears-21092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "USC Trojans",
-    "team_b": "Michigan State Spartans",
-    "event_name": "NCAA, Regular Season",
-    "poster_id": "USC-Trojans-Michigan-State-Spartans-21092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Weber State Wildcats",
-    "team_b": "Butler Bulldogs",
-    "event_name": "NCAA, Regular Season",
-    "poster_id": "Weber-State-Wildcats-Butler-Bulldogs-21092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "UTEP Miners",
-    "team_b": "Louisiana-Monroe Warhawks",
-    "event_name": "NCAA, Regular Season",
-    "poster_id": "UTEP-Miners-Louisiana-Monroe-Warhawks-21092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Sacramento State Hornets",
-    "team_b": "Central Arkansas Bears",
-    "event_name": "NCAA, Regular Season",
-    "poster_id": "Sacramento-State-Hornets-Central-Arkansas-Bears-21092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Colorado State Rams",
-    "team_b": "UTSA Roadrunners",
-    "event_name": "NCAA, Regular Season",
-    "poster_id": "Colorado-State-Rams-UTSA-Roadrunners-21092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Pacific Boxers",
-    "team_b": "Wisconsin Stevens Point Pointers",
-    "event_name": "NCAA, Regular Season",
-    "poster_id": "Pacific-Boxers-Wisconsin-Stevens-Point-Pointers-21092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Central Washington Wildcats",
-    "team_b": "West Texas A&M Buffaloes",
-    "event_name": "NCAA, Regular Season",
-    "poster_id": "Central-Washington-Wildcats-West-Texas-A&M-Buffaloes-21092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "UT Rio Grande Valley Vaqueros",
-    "team_b": "Texas Wesleyan Rams",
-    "event_name": "NCAA, Regular Season",
-    "poster_id": "UT-Rio-Grande-Valley-Vaqueros-Texas-Wesleyan-Rams-21092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Utah State Aggies",
-    "team_b": "Mcneese State Cowboys",
-    "event_name": "NCAA, Regular Season",
-    "poster_id": "Utah-State-Aggies-Mcneese-State-Cowboys-21092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Texas State Bobcats",
-    "team_b": "Nicholls State Colonels",
-    "event_name": "NCAA, Regular Season",
-    "poster_id": "Texas-State-Bobcats-Nicholls-State-Colonels-21092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Utah Tech Trailblazers",
-    "team_b": "Northern Iowa Panthers",
-    "event_name": "NCAA, Regular Season",
-    "poster_id": "Utah-Tech-Trailblazers-Northern-Iowa-Panthers-21092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Ouachita Baptist Tigers",
-    "team_b": "Arkansas Tech Wonder Boys",
-    "event_name": "NCAA, Regular Season",
-    "poster_id": "Ouachita-Baptist-Tigers-Arkansas-Tech-Wonder-Boys-21092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Texas A&M Kingsville Javelinas",
-    "team_b": "Texas-Permian Basin Falcons",
-    "event_name": "NCAA, Regular Season",
-    "poster_id": "Texas-A&M-Kingsville-Javelinas-Texas-Permian-Basin-Falcons-21092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Stephen F. Austin Lumberjacks",
-    "team_b": "Cal Poly Mustangs",
-    "event_name": "NCAA, Regular Season",
-    "poster_id": "Stephen-F.-Austin-Lumberjacks-Cal-Poly-Mustangs-21092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Southwestern Pirates",
-    "team_b": "Texas Lutheran Bulldogs",
-    "event_name": "NCAA, Regular Season",
-    "poster_id": "Southwestern-Pirates-Texas-Lutheran-Bulldogs-21092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Adams State Grizzlies",
-    "team_b": "Western Colorado Mountaineers",
-    "event_name": "NCAA, Regular Season",
-    "poster_id": "Adams-State-Grizzlies-Western-Colorado-Mountaineers-21092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Oklahoma Baptist Bison",
-    "team_b": "Northwestern Oklahoma State Rangers",
-    "event_name": "NCAA, Regular Season",
-    "poster_id": "Oklahoma-Baptist-Bison-Northwestern-Oklahoma-State-Rangers-21092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "LSU Tigers",
-    "team_b": "Southeastern Louisiana Lions",
-    "event_name": "NCAA, Regular Season",
-    "poster_id": "LSU-Tigers-Southeastern-Louisiana-Lions-20092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Abilene Christian Wildcats",
-    "team_b": "Austin Peay Governors",
-    "event_name": "NCAA, Regular Season",
-    "poster_id": "Abilene-Christian-Wildcats-Austin-Peay-Governors-21092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Central Oklahoma Bronchos",
-    "team_b": "Washburn Ichabods",
-    "event_name": "NCAA, Regular Season",
-    "poster_id": "Central-Oklahoma-Bronchos-Washburn-Ichabods-21092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Washington State Cougars",
-    "team_b": "Washington Huskies",
-    "event_name": "NCAA, Regular Season",
-    "poster_id": "Washington-State-Cougars-Washington-Huskies-20092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Vanderbilt Commodores",
-    "team_b": "Georgia State Panthers",
-    "event_name": "NCAA, Regular Season",
-    "poster_id": "Vanderbilt-Commodores-Georgia-State-Panthers-20092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Louisiana Tech Bulldogs",
-    "team_b": "Southern Mississippi Golden Eagles",
-    "event_name": "NCAA, Regular Season",
-    "poster_id": "Louisiana-Tech-Bulldogs-Southern-Mississippi-Golden-Eagles-20092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Virginia Cavaliers",
-    "team_b": "Stanford Cardinal",
-    "event_name": "NCAA, Regular Season",
-    "poster_id": "Virginia-Cavaliers-Stanford-Cardinal-20092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Miami Hurricanes",
-    "team_b": "Florida Gators",
-    "event_name": "NCAA, Regular Season",
-    "poster_id": "Miami-Hurricanes-Florida-Gators-20092025.png",
     "match_type": "team_vs_team"
   }
 ]
