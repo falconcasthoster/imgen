@@ -418,5 +418,306 @@
     "event_name": "Saudi Pro League",
     "poster_id": "Al-Nassr-Al-Riyadh-20092025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Bucknell Bison",
+    "team_b": "Lehigh Mountain Hawks",
+    "event_name": "NCAA, Regular Season",
+    "poster_id": "Bucknell-Bison-Lehigh-Mountain-Hawks-20092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Campbell Fighting Camels",
+    "team_b": "Bryant Bulldogs",
+    "event_name": "NCAA, Regular Season",
+    "poster_id": "Campbell-Fighting-Camels-Bryant-Bulldogs-20092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Idaho State Bengals",
+    "team_b": "Lincoln Oaklanders",
+    "event_name": "NCAA, Regular Season",
+    "poster_id": "Idaho-State-Bengals-Lincoln-Oaklanders-20092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Indianapolis Greyhounds",
+    "team_b": "Mckendree Bearcats",
+    "event_name": "NCAA, Regular Season",
+    "poster_id": "Indianapolis-Greyhounds-Mckendree-Bearcats-20092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Florida Intl Golden Panthers",
+    "team_b": "Delaware Blue Hens",
+    "event_name": "NCAA, Regular Season",
+    "poster_id": "Florida-Intl-Golden-Panthers-Delaware-Blue-Hens-20092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Kalamazoo Hornets",
+    "team_b": "Anderson\tRavens",
+    "event_name": "NCAA, Regular Season",
+    "poster_id": "Kalamazoo-Hornets-Anderson-Ravens-20092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Allen Yellow Jackets",
+    "team_b": "Clark Atlanta Panthers",
+    "event_name": "NCAA, Regular Season",
+    "poster_id": "Allen-Yellow-Jackets-Clark-Atlanta-Panthers-20092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Merrimack Warriors",
+    "team_b": "Central Connecticut State Blue Devils",
+    "event_name": "NCAA, Regular Season",
+    "poster_id": "Merrimack-Warriors-Central-Connecticut-State-Blue-Devils-20092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Kennesaw State Owls",
+    "team_b": "Arkansas State Red Wolves",
+    "event_name": "NCAA, Regular Season",
+    "poster_id": "Kennesaw-State-Owls-Arkansas-State-Red-Wolves-20092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Kansas Jayhawks",
+    "team_b": "West Virginia Mountaineers",
+    "event_name": "NCAA, Regular Season",
+    "poster_id": "Kansas-Jayhawks-West-Virginia-Mountaineers-20092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Morehead State Eagles",
+    "team_b": "Kentucky Christian Knights",
+    "event_name": "NCAA, Regular Season",
+    "poster_id": "Morehead-State-Eagles-Kentucky-Christian-Knights-20092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Slippery Rock",
+    "team_b": "Shippensburg Raiders",
+    "event_name": "NCAA, Regular Season",
+    "poster_id": "Slippery-Rock-Shippensburg-Raiders-20092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Towson Tigers",
+    "team_b": "Youngstown State Penguins",
+    "event_name": "NCAA, Regular Season",
+    "poster_id": "Towson-Tigers-Youngstown-State-Penguins-20092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Virginia-Wise Cavaliers",
+    "team_b": "Wingate Bulldogs",
+    "event_name": "NCAA, Regular Season",
+    "poster_id": "Virginia-Wise-Cavaliers-Wingate-Bulldogs-20092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Rhode Island Rams",
+    "team_b": "Liu Sharks",
+    "event_name": "NCAA, Regular Season",
+    "poster_id": "Rhode-Island-Rams-Liu-Sharks-20092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Ohio Wesleyan Battling Bishops",
+    "team_b": "Wittenberg Tigers",
+    "event_name": "NCAA, Regular Season",
+    "poster_id": "Ohio-Wesleyan-Battling-Bishops-Wittenberg-Tigers-20092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Virginia Union Panthers",
+    "team_b": "Johnson C. Smith Golden Bulls",
+    "event_name": "NCAA, Regular Season",
+    "poster_id": "Virginia-Union-Panthers-Johnson-C.-Smith-Golden-Bulls-20092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Angelo State Rams",
+    "team_b": "Western New Mexico Mustangs",
+    "event_name": "NCAA, Regular Season",
+    "poster_id": "Angelo-State-Rams-Western-New-Mexico-Mustangs-20092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Hamilton Tiger-Cats",
+    "team_b": "Edmonton Elks",
+    "event_name": "CFL",
+    "poster_id": "Hamilton-Tiger-Cats-Edmonton-Elks-20092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Air Force Falcons",
+    "team_b": "Boise State Broncos",
+    "event_name": "NCAA, Regular Season",
+    "poster_id": "Air-Force-Falcons-Boise-State-Broncos-20092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Alabama A&M Bulldogs",
+    "team_b": "Lane Dragons",
+    "event_name": "NCAA, Regular Season",
+    "poster_id": "Alabama-A&M-Bulldogs-Lane-Dragons-20092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Allegheny Gators",
+    "team_b": "Thiel Tomcats",
+    "event_name": "NCAA, Regular Season",
+    "poster_id": "Allegheny-Gators-Thiel-Tomcats-20092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "West Georgia Wolves",
+    "team_b": "Eastern Kentucky",
+    "event_name": "NCAA, Regular Season",
+    "poster_id": "West-Georgia-Wolves-Eastern-Kentucky-20092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Albany Great Danes",
+    "team_b": "Cornell Big Red",
+    "event_name": "NCAA, Regular Season",
+    "poster_id": "Albany-Great-Danes-Cornell-Big-Red-20092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Alabama A&M Bulldogs",
+    "team_b": "Lane Dragons",
+    "event_name": "NCAA, Regular Season",
+    "poster_id": "Alabama-A&M-Bulldogs-Lane-Dragons-20092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Albany Great Danes",
+    "team_b": "Cornell Big Red",
+    "event_name": "NCAA, Regular Season",
+    "poster_id": "Albany-Great-Danes-Cornell-Big-Red-20092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Angelo State Rams",
+    "team_b": "Western New Mexico Mustangs",
+    "event_name": "NCAA, Regular Season",
+    "poster_id": "Angelo-State-Rams-Western-New-Mexico-Mustangs-20092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Air Force Falcons",
+    "team_b": "Boise State Broncos",
+    "event_name": "NCAA, Regular Season",
+    "poster_id": "Air-Force-Falcons-Boise-State-Broncos-20092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Allegheny Gators",
+    "team_b": "Thiel Tomcats",
+    "event_name": "NCAA, Regular Season",
+    "poster_id": "Allegheny-Gators-Thiel-Tomcats-20092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Beloit Buccaneers",
+    "team_b": "Knox Prairie Fire",
+    "event_name": "NCAA, Regular Season",
+    "poster_id": "Beloit-Buccaneers-Knox-Prairie-Fire-20092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Case Western Reserve Spartans",
+    "team_b": "Westminster Titans",
+    "event_name": "NCAA, Regular Season",
+    "poster_id": "Case-Western-Reserve-Spartans-Westminster-Titans-20092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "East Central Tigers",
+    "team_b": "Southern Nazarene Crimson Storm",
+    "event_name": "NCAA, Regular Season",
+    "poster_id": "East-Central-Tigers-Southern-Nazarene-Crimson-Storm-20092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Davidson Wildcats",
+    "team_b": "Greensboro Pride",
+    "event_name": "NCAA, Regular Season",
+    "poster_id": "Davidson-Wildcats-Greensboro-Pride-20092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Centenary Gents",
+    "team_b": "East Texas Baptist Tigers",
+    "event_name": "NCAA, Regular Season",
+    "poster_id": "Centenary-Gents-East-Texas-Baptist-Tigers-20092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Millikin Big Blue",
+    "team_b": "North Park Vikings",
+    "event_name": "NCAA, Regular Season",
+    "poster_id": "Millikin-Big-Blue-North-Park-Vikings-20092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Missouri S&T Miners",
+    "team_b": "Truman State Bulldogs",
+    "event_name": "NCAA, Regular Season",
+    "poster_id": "Missouri-S&T-Miners-Truman-State-Bulldogs-20092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Middle Tennessee Blue Raiders",
+    "team_b": "Marshall Thundering Herd",
+    "event_name": "NCAA, Regular Season",
+    "poster_id": "Middle-Tennessee-Blue-Raiders-Marshall-Thundering-Herd-20092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Midwestern State Mustangs",
+    "team_b": "Eastern New Mexico Greyhounds",
+    "event_name": "NCAA, Regular Season",
+    "poster_id": "Midwestern-State-Mustangs-Eastern-New-Mexico-Greyhounds-20092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Missouri State Bears",
+    "team_b": "Tennessee-Martin Skyhawks",
+    "event_name": "NCAA, Regular Season",
+    "poster_id": "Missouri-State-Bears-Tennessee-Martin-Skyhawks-20092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Lindenwood Lions",
+    "team_b": "Stony Brook Seawolves",
+    "event_name": "NCAA, Regular Season",
+    "poster_id": "Lindenwood-Lions-Stony-Brook-Seawolves-20092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Newberry Wolves",
+    "team_b": "Catawba Indians",
+    "event_name": "NCAA, Regular Season",
+    "poster_id": "Newberry-Wolves-Catawba-Indians-20092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Missouri Western Griffons",
+    "team_b": "Central Missouri Mules",
+    "event_name": "NCAA, Regular Season",
+    "poster_id": "Missouri-Western-Griffons-Central-Missouri-Mules-20092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "North Greenville Crusaders",
+    "team_b": "West Florida Argonauts",
+    "event_name": "NCAA, Regular Season",
+    "poster_id": "North-Greenville-Crusaders-West-Florida-Argonauts-20092025.png",
+    "match_type": "team_vs_team"
   }
 ]
