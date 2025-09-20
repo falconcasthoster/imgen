@@ -217,13 +217,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "TSG Hoffenheim",
-    "team_b": "FC Bayern MÃ¼nchen",
-    "event_name": "Bundesliga",
-    "poster_id": "TSG-Hoffenheim-FC-Bayern-MÃ¼nchen-20092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "FC Augsburg",
     "team_b": "1. FSV Mainz 05",
     "event_name": "Bundesliga",
