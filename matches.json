@@ -203,13 +203,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Rayo Vallecano",
-    "team_b": "Celta Vigo",
-    "event_name": "LaLiga",
-    "poster_id": "Rayo-Vallecano-Celta-Vigo-21092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Bournemouth",
     "team_b": "Newcastle United",
     "event_name": "Premier League",
@@ -525,13 +518,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Midwestern State Mustangs",
-    "team_b": "Eastern New Mexico Greyhounds",
-    "event_name": "NCAA, Regular Season",
-    "poster_id": "Midwestern-State-Mustangs-Eastern-New-Mexico-Greyhounds-20092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Missouri State Bears",
     "team_b": "Tennessee-Martin Skyhawks",
     "event_name": "NCAA, Regular Season",
@@ -557,13 +543,6 @@
     "team_b": "Central Missouri Mules",
     "event_name": "NCAA, Regular Season",
     "poster_id": "Missouri-Western-Griffons-Central-Missouri-Mules-20092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "North Greenville Crusaders",
-    "team_b": "West Florida Argonauts",
-    "event_name": "NCAA, Regular Season",
-    "poster_id": "North-Greenville-Crusaders-West-Florida-Argonauts-20092025.png",
     "match_type": "team_vs_team"
   }
 ]
