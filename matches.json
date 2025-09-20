@@ -84,13 +84,6 @@
     "match_type": "single_event"
   },
   {
-    "team_a": "India Women",
-    "team_b": "Australia Women",
-    "event_name": "One Day International Women",
-    "poster_id": "India-Women-Australia-Women-20092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "ATHLETICS | World Championships | Tokyo",
     "team_b": "",
     "event_name": "World Athletics Championships",
@@ -172,118 +165,6 @@
     "team_b": "West Indies",
     "event_name": "T20 International",
     "poster_id": "Nepal-West-Indies-28092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "VfB Stuttgart",
-    "team_b": "FC St. Pauli",
-    "event_name": "Bundesliga",
-    "poster_id": "VfB-Stuttgart-FC-St.-Pauli-19092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Al-Ahli",
-    "team_b": "Al-Hilal",
-    "event_name": "Saudi Pro League",
-    "poster_id": "Al-Ahli-Al-Hilal-19092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Olympique Lyonnais",
-    "team_b": "Angers",
-    "event_name": "Ligue 1",
-    "poster_id": "Olympique-Lyonnais-Angers-19092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Real Betis",
-    "team_b": "Real Sociedad",
-    "event_name": "LaLiga",
-    "poster_id": "Real-Betis-Real-Sociedad-19092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Leicester City",
-    "team_b": "Coventry City",
-    "event_name": "Championship",
-    "poster_id": "Leicester-City-Coventry-City-20092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Wolverhampton",
-    "team_b": "Leeds United",
-    "event_name": "Premier League",
-    "poster_id": "Wolverhampton-Leeds-United-20092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Burnley",
-    "team_b": "Nottingham Forest",
-    "event_name": "Premier League",
-    "poster_id": "Burnley-Nottingham-Forest-20092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Brighton & Hove Albion",
-    "team_b": "Tottenham Hotspur",
-    "event_name": "Premier League",
-    "poster_id": "Brighton-&-Hove-Albion-Tottenham-Hotspur-20092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "West Ham United",
-    "team_b": "Crystal Palace",
-    "event_name": "Premier League",
-    "poster_id": "West-Ham-United-Crystal-Palace-20092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Hull City",
-    "team_b": "Southampton",
-    "event_name": "Championship",
-    "poster_id": "Hull-City-Southampton-20092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Cardiff City",
-    "team_b": "Bradford City",
-    "event_name": "League One",
-    "poster_id": "Cardiff-City-Bradford-City-20092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Sheffield United",
-    "team_b": "Charlton Athletic",
-    "event_name": "Championship",
-    "poster_id": "Sheffield-United-Charlton-Athletic-20092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Norwich City",
-    "team_b": "Wrexham",
-    "event_name": "Championship",
-    "poster_id": "Norwich-City-Wrexham-20092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Portsmouth",
-    "team_b": "Sheffield Wednesday",
-    "event_name": "Championship",
-    "poster_id": "Portsmouth-Sheffield-Wednesday-20092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Blackburn Rovers",
-    "team_b": "Ipswich Town",
-    "event_name": "Championship",
-    "poster_id": "Blackburn-Rovers-Ipswich-Town-20092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Real Madrid",
-    "team_b": "Espanyol",
-    "event_name": "LaLiga",
-    "poster_id": "Real-Madrid-Espanyol-20092025.png",
     "match_type": "team_vs_team"
   },
   {
