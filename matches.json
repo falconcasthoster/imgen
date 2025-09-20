@@ -10,7 +10,7 @@
     "team_a": "Formula 1",
     "team_b": "",
     "event_name": "Formula 1",
-    "poster_id": "Formula-1-19092025.png",
+    "poster_id": "Formula-1-20092025.png",
     "match_type": "single_event"
   },
   {
@@ -89,6 +89,13 @@
     "event_name": "One Day International Women",
     "poster_id": "India-Women-Australia-Women-20092025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "ATHLETICS | World Championships | Tokyo",
+    "team_b": "",
+    "event_name": "World Athletics Championships",
+    "poster_id": "ATHLETICS-World-Championships-Tokyo-20092025.png",
+    "match_type": "single_event"
   },
   {
     "team_a": "Pakistan Women",
