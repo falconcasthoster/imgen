@@ -460,5 +460,145 @@
     "event_name": "MLS",
     "poster_id": "Inter-Miami-CF-DC-United-20092025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Rayo Vallecano",
+    "team_b": "Celta Vigo",
+    "event_name": "LaLiga",
+    "poster_id": "Rayo-Vallecano-Celta-Vigo-21092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Bournemouth",
+    "team_b": "Newcastle United",
+    "event_name": "Premier League",
+    "poster_id": "Bournemouth-Newcastle-United-21092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Paris FC",
+    "team_b": "RC Strasbourg",
+    "event_name": "Ligue 1",
+    "poster_id": "Paris-FC-RC-Strasbourg-21092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Torino",
+    "team_b": "Atalanta",
+    "event_name": "Serie A",
+    "poster_id": "Torino-Atalanta-21092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Cremonese",
+    "team_b": "Parma",
+    "event_name": "Serie A",
+    "poster_id": "Cremonese-Parma-21092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Sunderland",
+    "team_b": "Aston Villa",
+    "event_name": "Premier League",
+    "poster_id": "Sunderland-Aston-Villa-21092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Eintracht Frankfurt",
+    "team_b": "1. FC Union Berlin",
+    "event_name": "Bundesliga",
+    "poster_id": "Eintracht-Frankfurt-1.-FC-Union-Berlin-21092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "FC KÃ¸benhavn",
+    "team_b": "Silkeborg IF",
+    "event_name": "Danish Superliga",
+    "poster_id": "FC-KÃ¸benhavn-Silkeborg-IF-21092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Mallorca",
+    "team_b": "AtlÃ©tico Madrid",
+    "event_name": "LaLiga",
+    "poster_id": "Mallorca-AtlÃ©tico-Madrid-21092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Auxerre",
+    "team_b": "Toulouse",
+    "event_name": "Ligue 1",
+    "poster_id": "Auxerre-Toulouse-21092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "AS Monaco",
+    "team_b": "Metz",
+    "event_name": "Ligue 1",
+    "poster_id": "AS-Monaco-Metz-21092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Le Havre",
+    "team_b": "Lorient",
+    "event_name": "Ligue 1",
+    "poster_id": "Le-Havre-Lorient-21092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Bayer 04 Leverkusen",
+    "team_b": "Borussia M'gladbach",
+    "event_name": "Bundesliga",
+    "poster_id": "Bayer-04-Leverkusen-Borussia-M'gladbach-21092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Arsenal",
+    "team_b": "Manchester City",
+    "event_name": "Premier League",
+    "poster_id": "Arsenal-Manchester-City-21092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Al-Batin",
+    "team_b": "Al-Ettifaq",
+    "event_name": "King's Cup",
+    "poster_id": "Al-Batin-Al-Ettifaq-21092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Fiorentina",
+    "team_b": "Como",
+    "event_name": "Serie A",
+    "poster_id": "Fiorentina-Como-21092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Elche",
+    "team_b": "Real Oviedo",
+    "event_name": "LaLiga",
+    "poster_id": "Elche-Real-Oviedo-21092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Inter",
+    "team_b": "Sassuolo",
+    "event_name": "Serie A",
+    "poster_id": "Inter-Sassuolo-21092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Olympique de Marseille",
+    "team_b": "Paris Saint-Germain",
+    "event_name": "Ligue 1",
+    "poster_id": "Olympique-de-Marseille-Paris-Saint-Germain-21092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Barcelona",
+    "team_b": "Getafe",
+    "event_name": "LaLiga",
+    "poster_id": "Barcelona-Getafe-21092025.png",
+    "match_type": "team_vs_team"
   }
 ]
