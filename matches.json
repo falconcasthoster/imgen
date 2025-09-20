@@ -175,10 +175,38 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Sri Lanka",
-    "team_b": "Bangladesh",
-    "event_name": "Asia Cup",
-    "poster_id": "Sri-Lanka-Bangladesh-20092025.png",
+    "team_a": "VfB Stuttgart",
+    "team_b": "FC St. Pauli",
+    "event_name": "Bundesliga",
+    "poster_id": "VfB-Stuttgart-FC-St.-Pauli-19092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Al-Ahli",
+    "team_b": "Al-Hilal",
+    "event_name": "Saudi Pro League",
+    "poster_id": "Al-Ahli-Al-Hilal-19092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Olympique Lyonnais",
+    "team_b": "Angers",
+    "event_name": "Ligue 1",
+    "poster_id": "Olympique-Lyonnais-Angers-19092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Real Betis",
+    "team_b": "Real Sociedad",
+    "event_name": "LaLiga",
+    "poster_id": "Real-Betis-Real-Sociedad-19092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Liverpool",
+    "team_b": "Everton",
+    "event_name": "Premier League",
+    "poster_id": "Liverpool-Everton-20092025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -266,10 +294,31 @@
     "match_type": "team_vs_team"
   },
   {
+    "team_a": "Cardiff City",
+    "team_b": "Bradford City",
+    "event_name": "League One",
+    "poster_id": "Cardiff-City-Bradford-City-20092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
     "team_a": "Sheffield United",
     "team_b": "Charlton Athletic",
     "event_name": "Championship",
     "poster_id": "Sheffield-United-Charlton-Athletic-20092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Norwich City",
+    "team_b": "Wrexham",
+    "event_name": "Championship",
+    "poster_id": "Norwich-City-Wrexham-20092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Portsmouth",
+    "team_b": "Sheffield Wednesday",
+    "event_name": "Championship",
+    "poster_id": "Portsmouth-Sheffield-Wednesday-20092025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -501,6 +550,13 @@
     "team_b": "Getafe",
     "event_name": "LaLiga",
     "poster_id": "Barcelona-Getafe-21092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Sri Lanka",
+    "team_b": "Bangladesh",
+    "event_name": "Asia Cup",
+    "poster_id": "Sri-Lanka-Bangladesh-20092025.png",
     "match_type": "team_vs_team"
   }
 ]
