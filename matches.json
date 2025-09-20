@@ -215,5 +215,250 @@
     "event_name": "Asia Cup",
     "poster_id": "Sri-Lanka-Bangladesh-20092025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Formula 2",
+    "team_b": "",
+    "event_name": "Formula 2",
+    "poster_id": "Formula-2-20092025.png",
+    "match_type": "single_event"
+  },
+  {
+    "team_a": "Blackpool",
+    "team_b": "Barnsley",
+    "event_name": "League One",
+    "poster_id": "Blackpool-Barnsley-20092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Leicester City",
+    "team_b": "Coventry City",
+    "event_name": "Championship",
+    "poster_id": "Leicester-City-Coventry-City-20092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Birmingham City",
+    "team_b": "Swansea City",
+    "event_name": "Championship",
+    "poster_id": "Birmingham-City-Swansea-City-20092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Bolton Wanderers",
+    "team_b": "Wigan Athletic",
+    "event_name": "League One",
+    "poster_id": "Bolton-Wanderers-Wigan-Athletic-20092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Lincoln City",
+    "team_b": "Luton Town",
+    "event_name": "League One",
+    "poster_id": "Lincoln-City-Luton-Town-20092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Queens Park Rangers",
+    "team_b": "Stoke City",
+    "event_name": "Championship",
+    "poster_id": "Queens-Park-Rangers-Stoke-City-20092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Girona FC",
+    "team_b": "Levante UD",
+    "event_name": "LaLiga",
+    "poster_id": "Girona-FC-Levante-UD-20092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Hamburger SV",
+    "team_b": "1. FC Heidenheim",
+    "event_name": "Bundesliga",
+    "poster_id": "Hamburger-SV-1.-FC-Heidenheim-20092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "TSG Hoffenheim",
+    "team_b": "FC Bayern MÃ¼nchen",
+    "event_name": "Bundesliga",
+    "poster_id": "TSG-Hoffenheim-FC-Bayern-MÃ¼nchen-20092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "FC Augsburg",
+    "team_b": "1. FSV Mainz 05",
+    "event_name": "Bundesliga",
+    "poster_id": "FC-Augsburg-1.-FSV-Mainz-05-20092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "SV Werder Bremen",
+    "team_b": "SC Freiburg",
+    "event_name": "Bundesliga",
+    "poster_id": "SV-Werder-Bremen-SC-Freiburg-20092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Bologna",
+    "team_b": "Genoa",
+    "event_name": "Serie A",
+    "poster_id": "Bologna-Genoa-20092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Wolverhampton",
+    "team_b": "Leeds United",
+    "event_name": "Premier League",
+    "poster_id": "Wolverhampton-Leeds-United-20092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Burnley",
+    "team_b": "Nottingham Forest",
+    "event_name": "Premier League",
+    "poster_id": "Burnley-Nottingham-Forest-20092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Brighton & Hove Albion",
+    "team_b": "Tottenham Hotspur",
+    "event_name": "Premier League",
+    "poster_id": "Brighton-&-Hove-Albion-Tottenham-Hotspur-20092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "West Ham United",
+    "team_b": "Crystal Palace",
+    "event_name": "Premier League",
+    "poster_id": "West-Ham-United-Crystal-Palace-20092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Hull City",
+    "team_b": "Southampton",
+    "event_name": "Championship",
+    "poster_id": "Hull-City-Southampton-20092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Cardiff City",
+    "team_b": "Bradford City",
+    "event_name": "League One",
+    "poster_id": "Cardiff-City-Bradford-City-20092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Sheffield United",
+    "team_b": "Charlton Athletic",
+    "event_name": "Championship",
+    "poster_id": "Sheffield-United-Charlton-Athletic-20092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Norwich City",
+    "team_b": "Wrexham",
+    "event_name": "Championship",
+    "poster_id": "Norwich-City-Wrexham-20092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Portsmouth",
+    "team_b": "Sheffield Wednesday",
+    "event_name": "Championship",
+    "poster_id": "Portsmouth-Sheffield-Wednesday-20092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Blackburn Rovers",
+    "team_b": "Ipswich Town",
+    "event_name": "Championship",
+    "poster_id": "Blackburn-Rovers-Ipswich-Town-20092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Real Madrid",
+    "team_b": "Espanyol",
+    "event_name": "LaLiga",
+    "poster_id": "Real-Madrid-Espanyol-20092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "New York City FC",
+    "team_b": "Charlotte FC",
+    "event_name": "MLS",
+    "poster_id": "New-York-City-FC-Charlotte-FC-20092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Hellas Verona",
+    "team_b": "Juventus",
+    "event_name": "Serie A",
+    "poster_id": "Hellas-Verona-Juventus-20092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Villarreal",
+    "team_b": "Osasuna",
+    "event_name": "LaLiga",
+    "poster_id": "Villarreal-Osasuna-20092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "RB Leipzig",
+    "team_b": "1. FC KÃ¶ln",
+    "event_name": "Bundesliga",
+    "poster_id": "RB-Leipzig-1.-FC-KÃ¶ln-20092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Deportivo AlavÃ©s",
+    "team_b": "Sevilla",
+    "event_name": "LaLiga",
+    "poster_id": "Deportivo-AlavÃ©s-Sevilla-20092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Manchester United",
+    "team_b": "Chelsea",
+    "event_name": "Premier League",
+    "poster_id": "Manchester-United-Chelsea-20092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Stade Brestois",
+    "team_b": "Nice",
+    "event_name": "Ligue 1",
+    "poster_id": "Stade-Brestois-Nice-20092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Valencia",
+    "team_b": "Athletic Club",
+    "event_name": "LaLiga",
+    "poster_id": "Valencia-Athletic-Club-20092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Fulham",
+    "team_b": "Brentford",
+    "event_name": "Premier League",
+    "poster_id": "Fulham-Brentford-20092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Udinese",
+    "team_b": "Milan",
+    "event_name": "Serie A",
+    "poster_id": "Udinese-Milan-20092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Inter Miami CF",
+    "team_b": "DC United",
+    "event_name": "MLS",
+    "poster_id": "Inter-Miami-CF-DC-United-20092025.png",
+    "match_type": "team_vs_team"
   }
 ]
