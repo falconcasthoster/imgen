@@ -210,34 +210,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Hamburger SV",
-    "team_b": "1. FC Heidenheim",
-    "event_name": "Bundesliga",
-    "poster_id": "Hamburger-SV-1.-FC-Heidenheim-20092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "FC Augsburg",
-    "team_b": "1. FSV Mainz 05",
-    "event_name": "Bundesliga",
-    "poster_id": "FC-Augsburg-1.-FSV-Mainz-05-20092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "SV Werder Bremen",
-    "team_b": "SC Freiburg",
-    "event_name": "Bundesliga",
-    "poster_id": "SV-Werder-Bremen-SC-Freiburg-20092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Bologna",
-    "team_b": "Genoa",
-    "event_name": "Serie A",
-    "poster_id": "Bologna-Genoa-20092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Wolverhampton",
     "team_b": "Leeds United",
     "event_name": "Premier League",
