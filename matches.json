@@ -168,41 +168,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "New York City FC",
-    "team_b": "Charlotte FC",
-    "event_name": "MLS",
-    "poster_id": "New-York-City-FC-Charlotte-FC-20092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Hellas Verona",
-    "team_b": "Juventus",
-    "event_name": "Serie A",
-    "poster_id": "Hellas-Verona-Juventus-20092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Villarreal",
-    "team_b": "Osasuna",
-    "event_name": "LaLiga",
-    "poster_id": "Villarreal-Osasuna-20092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Deportivo AlavÃ©s",
-    "team_b": "Sevilla",
-    "event_name": "LaLiga",
-    "poster_id": "Deportivo-AlavÃ©s-Sevilla-20092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Manchester United",
-    "team_b": "Chelsea",
-    "event_name": "Premier League",
-    "poster_id": "Manchester-United-Chelsea-20092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Stade Brestois",
     "team_b": "Nice",
     "event_name": "Ligue 1",
@@ -378,10 +343,80 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Sri Lanka",
-    "team_b": "Bangladesh",
-    "event_name": "Asia Cup",
-    "poster_id": "Sri-Lanka-Bangladesh-20092025.png",
+    "team_a": "Pittsburgh Pirates",
+    "team_b": "Athletics",
+    "event_name": "MLB",
+    "poster_id": "Pittsburgh-Pirates-Athletics-20092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Cincinnati Reds",
+    "team_b": "Chicago Cubs",
+    "event_name": "MLB",
+    "poster_id": "Cincinnati-Reds-Chicago-Cubs-20092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Baltimore Orioles",
+    "team_b": "New York Yankees",
+    "event_name": "MLB",
+    "poster_id": "Baltimore-Orioles-New-York-Yankees-20092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Tampa Bay Rays",
+    "team_b": "Boston Red Sox",
+    "event_name": "MLB",
+    "poster_id": "Tampa-Bay-Rays-Boston-Red-Sox-20092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Texas Rangers",
+    "team_b": "Miami Marlins",
+    "event_name": "MLB",
+    "poster_id": "Texas-Rangers-Miami-Marlins-20092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Kansas City Royals",
+    "team_b": "Toronto Blue Jays",
+    "event_name": "MLB",
+    "poster_id": "Kansas-City-Royals-Toronto-Blue-Jays-20092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Chicago White Sox",
+    "team_b": "San Diego Padres",
+    "event_name": "MLB",
+    "poster_id": "Chicago-White-Sox-San-Diego-Padres-20092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Minnesota Twins",
+    "team_b": "Cleveland Guardians",
+    "event_name": "MLB",
+    "poster_id": "Minnesota-Twins-Cleveland-Guardians-20092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Houston Astros",
+    "team_b": "Seattle Mariners",
+    "event_name": "MLB",
+    "poster_id": "Houston-Astros-Seattle-Mariners-20092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "St. Louis Cardinals",
+    "team_b": "Milwaukee Brewers",
+    "event_name": "MLB",
+    "poster_id": "St.-Louis-Cardinals-Milwaukee-Brewers-20092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Al-Nassr",
+    "team_b": "Al-Riyadh",
+    "event_name": "Saudi Pro League",
+    "poster_id": "Al-Nassr-Al-Riyadh-20092025.png",
     "match_type": "team_vs_team"
   }
 ]
