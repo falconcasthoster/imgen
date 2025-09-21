@@ -161,13 +161,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Formula 2",
-    "team_b": "",
-    "event_name": "Formula 2",
-    "poster_id": "Formula-2-21092025.png",
-    "match_type": "single_event"
-  },
-  {
     "team_a": "Bournemouth",
     "team_b": "Newcastle United",
     "event_name": "Premier League",
@@ -336,31 +329,31 @@
     "match_type": "team_vs_team"
   },
   {
+    "team_a": "Jacksonville Jaguars",
+    "team_b": "Houston Texans",
+    "event_name": "NFL",
+    "poster_id": "Jacksonville-Jaguars-Houston-Texans-21092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Minnesota Vikings",
+    "team_b": "Cincinnati Bengals",
+    "event_name": "NFL",
+    "poster_id": "Minnesota-Vikings-Cincinnati-Bengals-21092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Carolina Panthers",
+    "team_b": "Atlanta Falcons",
+    "event_name": "NFL",
+    "poster_id": "Carolina-Panthers-Atlanta-Falcons-21092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
     "team_a": "Cleveland Browns",
     "team_b": "Green Bay Packers",
     "event_name": "NFL",
     "poster_id": "Cleveland-Browns-Green-Bay-Packers-21092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "New England Patriots",
-    "team_b": "Pittsburgh Steelers",
-    "event_name": "NFL",
-    "poster_id": "New-England-Patriots-Pittsburgh-Steelers-21092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Washington Commanders",
-    "team_b": "Las Vegas Raiders",
-    "event_name": "NFL",
-    "poster_id": "Washington-Commanders-Las-Vegas-Raiders-21092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Tampa Bay Buccaneers",
-    "team_b": "New York Jets",
-    "event_name": "NFL",
-    "poster_id": "Tampa-Bay-Buccaneers-New-York-Jets-21092025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -378,10 +371,38 @@
     "match_type": "team_vs_team"
   },
   {
+    "team_a": "Tampa Bay Buccaneers",
+    "team_b": "New York Jets",
+    "event_name": "NFL",
+    "poster_id": "Tampa-Bay-Buccaneers-New-York-Jets-21092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "New England Patriots",
+    "team_b": "Pittsburgh Steelers",
+    "event_name": "NFL",
+    "poster_id": "New-England-Patriots-Pittsburgh-Steelers-21092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
     "team_a": "Los Angeles Chargers",
     "team_b": "Denver Broncos",
     "event_name": "NFL",
     "poster_id": "Los-Angeles-Chargers-Denver-Broncos-21092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Seattle Seahawks",
+    "team_b": "New Orleans Saints",
+    "event_name": "NFL",
+    "poster_id": "Seattle-Seahawks-New-Orleans-Saints-21092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Washington Commanders",
+    "team_b": "Las Vegas Raiders",
+    "event_name": "NFL",
+    "poster_id": "Washington-Commanders-Las-Vegas-Raiders-21092025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -406,17 +427,10 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Seattle Seahawks",
-    "team_b": "New Orleans Saints",
+    "team_a": "Baltimore Ravens",
+    "team_b": "Detroit Lions",
     "event_name": "NFL",
-    "poster_id": "Seattle-Seahawks-New-Orleans-Saints-21092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "New England Patriots",
-    "team_b": "Pittsburgh Steelers",
-    "event_name": "NFL",
-    "poster_id": "New-England-Patriots-Pittsburgh-Steelers-21092025.png",
+    "poster_id": "Baltimore-Ravens-Detroit-Lions-23092025.png",
     "match_type": "team_vs_team"
   }
 ]
