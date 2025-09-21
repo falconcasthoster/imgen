@@ -175,41 +175,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Auxerre",
-    "team_b": "Toulouse",
-    "event_name": "Ligue 1",
-    "poster_id": "Auxerre-Toulouse-21092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Le Havre",
-    "team_b": "Lorient",
-    "event_name": "Ligue 1",
-    "poster_id": "Le-Havre-Lorient-21092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "AS Monaco",
-    "team_b": "Metz",
-    "event_name": "Ligue 1",
-    "poster_id": "AS-Monaco-Metz-21092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Bayer 04 Leverkusen",
-    "team_b": "Borussia M'gladbach",
-    "event_name": "Bundesliga",
-    "poster_id": "Bayer-04-Leverkusen-Borussia-M'gladbach-21092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Arsenal",
-    "team_b": "Manchester City",
-    "event_name": "Premier League",
-    "poster_id": "Arsenal-Manchester-City-21092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Fiorentina",
     "team_b": "Como",
     "event_name": "Serie A",
@@ -347,13 +312,6 @@
     "team_b": "Arizona Cardinals",
     "event_name": "NFL",
     "poster_id": "San-Francisco-49ers-Arizona-Cardinals-21092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Baltimore Ravens",
-    "team_b": "Detroit Lions",
-    "event_name": "NFL",
-    "poster_id": "Baltimore-Ravens-Detroit-Lions-23092025.png",
     "match_type": "team_vs_team"
   },
   {
