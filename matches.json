@@ -10,7 +10,7 @@
     "team_a": "Formula 1",
     "team_b": "",
     "event_name": "Formula 1",
-    "poster_id": "Formula-1-20092025.png",
+    "poster_id": "Formula-1-21092025.png",
     "match_type": "single_event"
   },
   {
@@ -166,6 +166,13 @@
     "event_name": "T20 International",
     "poster_id": "Nepal-West-Indies-28092025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Formula 2",
+    "team_b": "",
+    "event_name": "Formula 2",
+    "poster_id": "Formula-2-21092025.png",
+    "match_type": "single_event"
   },
   {
     "team_a": "Stade Brestois",
