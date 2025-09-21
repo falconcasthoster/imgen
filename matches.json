@@ -175,34 +175,6 @@
     "match_type": "single_event"
   },
   {
-    "team_a": "Stade Brestois",
-    "team_b": "Nice",
-    "event_name": "Ligue 1",
-    "poster_id": "Stade-Brestois-Nice-20092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Valencia",
-    "team_b": "Athletic Club",
-    "event_name": "LaLiga",
-    "poster_id": "Valencia-Athletic-Club-20092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Fulham",
-    "team_b": "Brentford",
-    "event_name": "Premier League",
-    "poster_id": "Fulham-Brentford-20092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Udinese",
-    "team_b": "Milan",
-    "event_name": "Serie A",
-    "poster_id": "Udinese-Milan-20092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Bournemouth",
     "team_b": "Newcastle United",
     "event_name": "Premier League",
@@ -336,171 +308,94 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Pittsburgh Pirates",
-    "team_b": "Athletics",
-    "event_name": "MLB",
-    "poster_id": "Pittsburgh-Pirates-Athletics-20092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Cincinnati Reds",
-    "team_b": "Chicago Cubs",
-    "event_name": "MLB",
-    "poster_id": "Cincinnati-Reds-Chicago-Cubs-20092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Tampa Bay Rays",
-    "team_b": "Boston Red Sox",
-    "event_name": "MLB",
-    "poster_id": "Tampa-Bay-Rays-Boston-Red-Sox-20092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Al-Nassr",
-    "team_b": "Al-Riyadh",
-    "event_name": "Saudi Pro League",
-    "poster_id": "Al-Nassr-Al-Riyadh-20092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Bucknell Bison",
-    "team_b": "Lehigh Mountain Hawks",
-    "event_name": "NCAA, Regular Season",
-    "poster_id": "Bucknell-Bison-Lehigh-Mountain-Hawks-20092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Campbell Fighting Camels",
-    "team_b": "Bryant Bulldogs",
-    "event_name": "NCAA, Regular Season",
-    "poster_id": "Campbell-Fighting-Camels-Bryant-Bulldogs-20092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Idaho State Bengals",
-    "team_b": "Lincoln Oaklanders",
-    "event_name": "NCAA, Regular Season",
-    "poster_id": "Idaho-State-Bengals-Lincoln-Oaklanders-20092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Florida Intl Golden Panthers",
-    "team_b": "Delaware Blue Hens",
-    "event_name": "NCAA, Regular Season",
-    "poster_id": "Florida-Intl-Golden-Panthers-Delaware-Blue-Hens-20092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Merrimack Warriors",
-    "team_b": "Central Connecticut State Blue Devils",
-    "event_name": "NCAA, Regular Season",
-    "poster_id": "Merrimack-Warriors-Central-Connecticut-State-Blue-Devils-20092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Kennesaw State Owls",
-    "team_b": "Arkansas State Red Wolves",
-    "event_name": "NCAA, Regular Season",
-    "poster_id": "Kennesaw-State-Owls-Arkansas-State-Red-Wolves-20092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Kansas Jayhawks",
-    "team_b": "West Virginia Mountaineers",
-    "event_name": "NCAA, Regular Season",
-    "poster_id": "Kansas-Jayhawks-West-Virginia-Mountaineers-20092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Morehead State Eagles",
-    "team_b": "Kentucky Christian Knights",
-    "event_name": "NCAA, Regular Season",
-    "poster_id": "Morehead-State-Eagles-Kentucky-Christian-Knights-20092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Towson Tigers",
-    "team_b": "Youngstown State Penguins",
-    "event_name": "NCAA, Regular Season",
-    "poster_id": "Towson-Tigers-Youngstown-State-Penguins-20092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Air Force Falcons",
-    "team_b": "Boise State Broncos",
-    "event_name": "NCAA, Regular Season",
-    "poster_id": "Air-Force-Falcons-Boise-State-Broncos-20092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Alabama A&M Bulldogs",
-    "team_b": "Lane Dragons",
-    "event_name": "NCAA, Regular Season",
-    "poster_id": "Alabama-A&M-Bulldogs-Lane-Dragons-20092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "West Georgia Wolves",
-    "team_b": "Eastern Kentucky",
-    "event_name": "NCAA, Regular Season",
-    "poster_id": "West-Georgia-Wolves-Eastern-Kentucky-20092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Davidson Wildcats",
-    "team_b": "Greensboro Pride",
-    "event_name": "NCAA, Regular Season",
-    "poster_id": "Davidson-Wildcats-Greensboro-Pride-20092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Millikin Big Blue",
-    "team_b": "North Park Vikings",
-    "event_name": "NCAA, Regular Season",
-    "poster_id": "Millikin-Big-Blue-North-Park-Vikings-20092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Middle Tennessee Blue Raiders",
-    "team_b": "Marshall Thundering Herd",
-    "event_name": "NCAA, Regular Season",
-    "poster_id": "Middle-Tennessee-Blue-Raiders-Marshall-Thundering-Herd-20092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Missouri State Bears",
-    "team_b": "Tennessee-Martin Skyhawks",
-    "event_name": "NCAA, Regular Season",
-    "poster_id": "Missouri-State-Bears-Tennessee-Martin-Skyhawks-20092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Lindenwood Lions",
-    "team_b": "Stony Brook Seawolves",
-    "event_name": "NCAA, Regular Season",
-    "poster_id": "Lindenwood-Lions-Stony-Brook-Seawolves-20092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Newberry Wolves",
-    "team_b": "Catawba Indians",
-    "event_name": "NCAA, Regular Season",
-    "poster_id": "Newberry-Wolves-Catawba-Indians-20092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Missouri Western Griffons",
-    "team_b": "Central Missouri Mules",
-    "event_name": "NCAA, Regular Season",
-    "poster_id": "Missouri-Western-Griffons-Central-Missouri-Mules-20092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Wrestlepalooza",
     "team_b": "",
     "event_name": "WWE | Wrestlepalooza",
     "poster_id": "Wrestlepalooza-20092025.png",
     "match_type": "single_event"
+  },
+  {
+    "team_a": "AS Monaco",
+    "team_b": "Metz",
+    "event_name": "Ligue 1",
+    "poster_id": "AS-Monaco-Metz-21092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Auxerre",
+    "team_b": "Toulouse",
+    "event_name": "Ligue 1",
+    "poster_id": "Auxerre-Toulouse-21092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Le Havre",
+    "team_b": "Lorient",
+    "event_name": "Ligue 1",
+    "poster_id": "Le-Havre-Lorient-21092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Arsenal",
+    "team_b": "Manchester City",
+    "event_name": "Premier League",
+    "poster_id": "Arsenal-Manchester-City-21092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Bayer 04 Leverkusen",
+    "team_b": "Borussia M'gladbach",
+    "event_name": "Bundesliga",
+    "poster_id": "Bayer-04-Leverkusen-Borussia-M'gladbach-21092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Elche",
+    "team_b": "Real Oviedo",
+    "event_name": "LaLiga",
+    "poster_id": "Elche-Real-Oviedo-21092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Borussia Dortmund",
+    "team_b": "VfL Wolfsburg",
+    "event_name": "Bundesliga",
+    "poster_id": "Borussia-Dortmund-VfL-Wolfsburg-21092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Inter",
+    "team_b": "Sassuolo",
+    "event_name": "Serie A",
+    "poster_id": "Inter-Sassuolo-21092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Olympique de Marseille",
+    "team_b": "Paris Saint-Germain",
+    "event_name": "Ligue 1",
+    "poster_id": "Olympique-de-Marseille-Paris-Saint-Germain-21092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Barcelona",
+    "team_b": "Getafe",
+    "event_name": "LaLiga",
+    "poster_id": "Barcelona-Getafe-21092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Flamengo",
+    "team_b": "Vasco da Gama",
+    "event_name": "BrasileirÃ£o Betano",
+    "poster_id": "Flamengo-Vasco-da-Gama-21092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Santos",
+    "team_b": "SÃ£o Paulo",
+    "event_name": "BrasileirÃ£o Betano",
+    "poster_id": "Santos-SÃ£o-Paulo-21092025.png",
+    "match_type": "team_vs_team"
   }
 ]
