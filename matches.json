@@ -91,13 +91,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "India",
-    "team_b": "Pakistan",
-    "event_name": "Asia Cup",
-    "poster_id": "India-Pakistan-21092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Sri Lanka Women",
     "team_b": "Pakistan Women",
     "event_name": "ICC Women's World Cup Warm-up Matches",
