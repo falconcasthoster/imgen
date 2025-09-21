@@ -154,13 +154,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Mallorca",
-    "team_b": "AtlÃ©tico Madrid",
-    "event_name": "LaLiga",
-    "poster_id": "Mallorca-AtlÃ©tico-Madrid-21092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Wrestlepalooza",
     "team_b": "",
     "event_name": "WWE | Wrestlepalooza",
@@ -256,13 +249,6 @@
     "team_b": "Sassuolo",
     "event_name": "Serie A",
     "poster_id": "Inter-Sassuolo-21092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Ireland",
-    "team_b": "England",
-    "event_name": "T20 International",
-    "poster_id": "Ireland-England-21092025.png",
     "match_type": "team_vs_team"
   },
   {
