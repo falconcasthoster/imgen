@@ -7,13 +7,6 @@
     "match_type": "single_event"
   },
   {
-    "team_a": "Formula 1",
-    "team_b": "",
-    "event_name": "Formula 1",
-    "poster_id": "Formula-1-21092025.png",
-    "match_type": "single_event"
-  },
-  {
     "team_a": "SmackDown",
     "team_b": "",
     "event_name": "SmackDown",
@@ -161,48 +154,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Bournemouth",
-    "team_b": "Newcastle United",
-    "event_name": "Premier League",
-    "poster_id": "Bournemouth-Newcastle-United-21092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Paris FC",
-    "team_b": "RC Strasbourg",
-    "event_name": "Ligue 1",
-    "poster_id": "Paris-FC-RC-Strasbourg-21092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Torino",
-    "team_b": "Atalanta",
-    "event_name": "Serie A",
-    "poster_id": "Torino-Atalanta-21092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Cremonese",
-    "team_b": "Parma",
-    "event_name": "Serie A",
-    "poster_id": "Cremonese-Parma-21092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Sunderland",
-    "team_b": "Aston Villa",
-    "event_name": "Premier League",
-    "poster_id": "Sunderland-Aston-Villa-21092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Eintracht Frankfurt",
-    "team_b": "1. FC Union Berlin",
-    "event_name": "Bundesliga",
-    "poster_id": "Eintracht-Frankfurt-1.-FC-Union-Berlin-21092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Mallorca",
     "team_b": "AtlÃ©tico Madrid",
     "event_name": "LaLiga",
@@ -270,13 +221,6 @@
     "team_b": "Como",
     "event_name": "Serie A",
     "poster_id": "Fiorentina-Como-21092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "VitÃ³ria SC",
-    "team_b": "Benfica",
-    "event_name": "Campeonato Nacional Feminino",
-    "poster_id": "VitÃ³ria-SC-Benfica-21092025.png",
     "match_type": "team_vs_team"
   },
   {
