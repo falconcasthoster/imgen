@@ -350,27 +350,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Carolina Panthers",
-    "team_b": "Atlanta Falcons",
-    "event_name": "NFL",
-    "poster_id": "Carolina-Panthers-Atlanta-Falcons-21092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Jacksonville Jaguars",
-    "team_b": "Houston Texans",
-    "event_name": "NFL",
-    "poster_id": "Jacksonville-Jaguars-Houston-Texans-21092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Minnesota Vikings",
-    "team_b": "Cincinnati Bengals",
-    "event_name": "NFL",
-    "poster_id": "Minnesota-Vikings-Cincinnati-Bengals-21092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Washington Commanders",
     "team_b": "Las Vegas Raiders",
     "event_name": "NFL",
@@ -431,6 +410,13 @@
     "team_b": "New Orleans Saints",
     "event_name": "NFL",
     "poster_id": "Seattle-Seahawks-New-Orleans-Saints-21092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "New England Patriots",
+    "team_b": "Pittsburgh Steelers",
+    "event_name": "NFL",
+    "poster_id": "New-England-Patriots-Pittsburgh-Steelers-21092025.png",
     "match_type": "team_vs_team"
   }
 ]
