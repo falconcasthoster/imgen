@@ -175,6 +175,27 @@
     "match_type": "team_vs_team"
   },
   {
+    "team_a": "Auxerre",
+    "team_b": "Toulouse",
+    "event_name": "Ligue 1",
+    "poster_id": "Auxerre-Toulouse-21092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Le Havre",
+    "team_b": "Lorient",
+    "event_name": "Ligue 1",
+    "poster_id": "Le-Havre-Lorient-21092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "AS Monaco",
+    "team_b": "Metz",
+    "event_name": "Ligue 1",
+    "poster_id": "AS-Monaco-Metz-21092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
     "team_a": "Bayer 04 Leverkusen",
     "team_b": "Borussia M'gladbach",
     "event_name": "Bundesliga",
@@ -389,13 +410,6 @@
     "team_b": "San Francisco Giants",
     "event_name": "MLB",
     "poster_id": "Los-Angeles-Dodgers-San-Francisco-Giants-21092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Arizona Diamondbacks",
-    "team_b": "Philadelphia Phillies",
-    "event_name": "MLB",
-    "poster_id": "Arizona-Diamondbacks-Philadelphia-Phillies-21092025.png",
     "match_type": "team_vs_team"
   },
   {
