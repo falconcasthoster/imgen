@@ -231,6 +231,27 @@
     "match_type": "team_vs_team"
   },
   {
+    "team_a": "Wrestlepalooza",
+    "team_b": "",
+    "event_name": "WWE | Wrestlepalooza",
+    "poster_id": "Wrestlepalooza-20092025.png",
+    "match_type": "single_event"
+  },
+  {
+    "team_a": "Flamengo",
+    "team_b": "Vasco da Gama",
+    "event_name": "BrasileirÃ£o Betano",
+    "poster_id": "Flamengo-Vasco-da-Gama-21092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Santos",
+    "team_b": "SÃ£o Paulo",
+    "event_name": "BrasileirÃ£o Betano",
+    "poster_id": "Santos-SÃ£o-Paulo-21092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
     "team_a": "Auxerre",
     "team_b": "Toulouse",
     "event_name": "Ligue 1",
@@ -238,17 +259,17 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "AS Monaco",
-    "team_b": "Metz",
-    "event_name": "Ligue 1",
-    "poster_id": "AS-Monaco-Metz-21092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Le Havre",
     "team_b": "Lorient",
     "event_name": "Ligue 1",
     "poster_id": "Le-Havre-Lorient-21092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "AS Monaco",
+    "team_b": "Metz",
+    "event_name": "Ligue 1",
+    "poster_id": "AS-Monaco-Metz-21092025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -263,13 +284,6 @@
     "team_b": "Manchester City",
     "event_name": "Premier League",
     "poster_id": "Arsenal-Manchester-City-21092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Al-Batin",
-    "team_b": "Al-Ettifaq",
-    "event_name": "King's Cup",
-    "poster_id": "Al-Batin-Al-Ettifaq-21092025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -280,73 +294,10 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Elche",
-    "team_b": "Real Oviedo",
-    "event_name": "LaLiga",
-    "poster_id": "Elche-Real-Oviedo-21092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Inter",
-    "team_b": "Sassuolo",
-    "event_name": "Serie A",
-    "poster_id": "Inter-Sassuolo-21092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Olympique de Marseille",
-    "team_b": "Paris Saint-Germain",
-    "event_name": "Ligue 1",
-    "poster_id": "Olympique-de-Marseille-Paris-Saint-Germain-21092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Barcelona",
-    "team_b": "Getafe",
-    "event_name": "LaLiga",
-    "poster_id": "Barcelona-Getafe-21092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Wrestlepalooza",
-    "team_b": "",
-    "event_name": "WWE | Wrestlepalooza",
-    "poster_id": "Wrestlepalooza-20092025.png",
-    "match_type": "single_event"
-  },
-  {
-    "team_a": "AS Monaco",
-    "team_b": "Metz",
-    "event_name": "Ligue 1",
-    "poster_id": "AS-Monaco-Metz-21092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Auxerre",
-    "team_b": "Toulouse",
-    "event_name": "Ligue 1",
-    "poster_id": "Auxerre-Toulouse-21092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Le Havre",
-    "team_b": "Lorient",
-    "event_name": "Ligue 1",
-    "poster_id": "Le-Havre-Lorient-21092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Arsenal",
-    "team_b": "Manchester City",
-    "event_name": "Premier League",
-    "poster_id": "Arsenal-Manchester-City-21092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Bayer 04 Leverkusen",
-    "team_b": "Borussia M'gladbach",
-    "event_name": "Bundesliga",
-    "poster_id": "Bayer-04-Leverkusen-Borussia-M'gladbach-21092025.png",
+    "team_a": "VitÃ³ria SC",
+    "team_b": "Benfica",
+    "event_name": "Campeonato Nacional Feminino",
+    "poster_id": "VitÃ³ria-SC-Benfica-21092025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -364,13 +315,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Inter",
-    "team_b": "Sassuolo",
-    "event_name": "Serie A",
-    "poster_id": "Inter-Sassuolo-21092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Olympique de Marseille",
     "team_b": "Paris Saint-Germain",
     "event_name": "Ligue 1",
@@ -385,17 +329,10 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Flamengo",
-    "team_b": "Vasco da Gama",
-    "event_name": "BrasileirÃ£o Betano",
-    "poster_id": "Flamengo-Vasco-da-Gama-21092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Santos",
-    "team_b": "SÃ£o Paulo",
-    "event_name": "BrasileirÃ£o Betano",
-    "poster_id": "Santos-SÃ£o-Paulo-21092025.png",
+    "team_a": "Inter",
+    "team_b": "Sassuolo",
+    "event_name": "Serie A",
+    "poster_id": "Inter-Sassuolo-21092025.png",
     "match_type": "team_vs_team"
   }
 ]
