@@ -432,5 +432,82 @@
     "event_name": "NFL",
     "poster_id": "Baltimore-Ravens-Detroit-Lions-23092025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Cincinnati Reds",
+    "team_b": "Chicago Cubs",
+    "event_name": "MLB",
+    "poster_id": "Cincinnati-Reds-Chicago-Cubs-21092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Kansas City Royals",
+    "team_b": "Toronto Blue Jays",
+    "event_name": "MLB",
+    "poster_id": "Kansas-City-Royals-Toronto-Blue-Jays-21092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Chicago White Sox",
+    "team_b": "San Diego Padres",
+    "event_name": "MLB",
+    "poster_id": "Chicago-White-Sox-San-Diego-Padres-21092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Minnesota Twins",
+    "team_b": "Cleveland Guardians",
+    "event_name": "MLB",
+    "poster_id": "Minnesota-Twins-Cleveland-Guardians-21092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "St. Louis Cardinals",
+    "team_b": "Milwaukee Brewers",
+    "event_name": "MLB",
+    "poster_id": "St.-Louis-Cardinals-Milwaukee-Brewers-21092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Texas Rangers",
+    "team_b": "Miami Marlins",
+    "event_name": "MLB",
+    "poster_id": "Texas-Rangers-Miami-Marlins-21092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Colorado Rockies",
+    "team_b": "Los Angeles Angels",
+    "event_name": "MLB",
+    "poster_id": "Colorado-Rockies-Los-Angeles-Angels-21092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Los Angeles Dodgers",
+    "team_b": "San Francisco Giants",
+    "event_name": "MLB",
+    "poster_id": "Los-Angeles-Dodgers-San-Francisco-Giants-21092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Arizona Diamondbacks",
+    "team_b": "Philadelphia Phillies",
+    "event_name": "MLB",
+    "poster_id": "Arizona-Diamondbacks-Philadelphia-Phillies-21092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Tampa Bay Rays",
+    "team_b": "Boston Red Sox",
+    "event_name": "MLB",
+    "poster_id": "Tampa-Bay-Rays-Boston-Red-Sox-21092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Houston Astros",
+    "team_b": "Seattle Mariners",
+    "event_name": "MLB",
+    "poster_id": "Houston-Astros-Seattle-Mariners-21092025.png",
+    "match_type": "team_vs_team"
   }
 ]
