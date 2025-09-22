@@ -278,5 +278,12 @@
     "event_name": "Asia Cup",
     "poster_id": "India-Bangladesh-24092025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Baltimore Ravens",
+    "team_b": "Detroit Lions",
+    "event_name": "NFL",
+    "poster_id": "Baltimore-Ravens-Detroit-Lions-23092025.png",
+    "match_type": "team_vs_team"
   }
 ]
