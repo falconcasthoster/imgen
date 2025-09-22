@@ -147,20 +147,6 @@
     "match_type": "single_event"
   },
   {
-    "team_a": "Galatasaray",
-    "team_b": "Konyaspor",
-    "event_name": "Trendyol SÃ¼per Lig",
-    "poster_id": "Galatasaray-Konyaspor-22092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Olympique de Marseille",
-    "team_b": "Paris Saint-Germain",
-    "event_name": "Ligue 1",
-    "poster_id": "Olympique-de-Marseille-Paris-Saint-Germain-22092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Al-Adalah",
     "team_b": "Al-Hilal",
     "event_name": "King's Cup",
@@ -277,6 +263,20 @@
     "team_b": "South Africa Women",
     "event_name": "One Day International Women",
     "poster_id": "Pakistan-Women-South-Africa-Women-22092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "A",
+    "team_b": "",
+    "event_name": "Balon Dor ",
+    "poster_id": "A-22092025.png",
+    "match_type": "single_event"
+  },
+  {
+    "team_a": "Olympique de Marseille",
+    "team_b": "Paris Saint-Germain",
+    "event_name": "Ligue 1",
+    "poster_id": "Olympique-de-Marseille-Paris-Saint-Germain-22092025.png",
     "match_type": "team_vs_team"
   }
 ]
