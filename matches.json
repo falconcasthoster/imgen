@@ -161,13 +161,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Santos",
-    "team_b": "SÃ£o Paulo",
-    "event_name": "BrasileirÃ£o Betano",
-    "poster_id": "Santos-SÃ£o-Paulo-21092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Fiorentina",
     "team_b": "Como",
     "event_name": "Serie A",
@@ -361,13 +354,6 @@
     "team_b": "Boston Red Sox",
     "event_name": "MLB",
     "poster_id": "Tampa-Bay-Rays-Boston-Red-Sox-21092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Houston Astros",
-    "team_b": "Seattle Mariners",
-    "event_name": "MLB",
-    "poster_id": "Houston-Astros-Seattle-Mariners-21092025.png",
     "match_type": "team_vs_team"
   },
   {
