@@ -259,13 +259,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "A",
-    "team_b": "",
-    "event_name": "Balon Dor ",
-    "poster_id": "A-22092025.png",
-    "match_type": "single_event"
-  },
-  {
     "team_a": "Olympique de Marseille",
     "team_b": "Paris Saint-Germain",
     "event_name": "Ligue 1",
