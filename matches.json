@@ -362,5 +362,131 @@
     "event_name": "Caribbean Premier League",
     "poster_id": "Guyana-Amazon-Warriors-Trinbago-Knight-Riders-22092025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Galatasaray",
+    "team_b": "Konyaspor",
+    "event_name": "Trendyol SÃ¼per Lig",
+    "poster_id": "Galatasaray-Konyaspor-22092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Eintracht Frankfurt",
+    "team_b": "RB Leipzig",
+    "event_name": "Frauen-Bundesliga",
+    "poster_id": "Eintracht-Frankfurt-RB-Leipzig-22092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Olympique de Marseille",
+    "team_b": "Paris Saint-Germain",
+    "event_name": "Ligue 1",
+    "poster_id": "Olympique-de-Marseille-Paris-Saint-Germain-22092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Al-Adalah",
+    "team_b": "Al-Hilal",
+    "event_name": "King's Cup",
+    "poster_id": "Al-Adalah-Al-Hilal-22092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Napoli",
+    "team_b": "Pisa",
+    "event_name": "Serie A",
+    "poster_id": "Napoli-Pisa-22092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "FC Bayern MÃ¼nchen",
+    "team_b": "SC Freiburg",
+    "event_name": "Frauen-Bundesliga",
+    "poster_id": "FC-Bayern-MÃ¼nchen-SC-Freiburg-23092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Al-Ahli",
+    "team_b": "Pyramids FC",
+    "event_name": "FIFA Intercontinental Cup",
+    "poster_id": "Al-Ahli-Pyramids-FC-23092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Fulham",
+    "team_b": "Cambridge United",
+    "event_name": "EFL Cup",
+    "poster_id": "Fulham-Cambridge-United-23092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Barnsley",
+    "team_b": "Brighton & Hove Albion",
+    "event_name": "EFL Cup",
+    "poster_id": "Barnsley-Brighton-&-Hove-Albion-23092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Burnley",
+    "team_b": "Cardiff City",
+    "event_name": "EFL Cup",
+    "poster_id": "Burnley-Cardiff-City-23092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Lincoln City",
+    "team_b": "Chelsea",
+    "event_name": "EFL Cup",
+    "poster_id": "Lincoln-City-Chelsea-23092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Wolverhampton",
+    "team_b": "Everton",
+    "event_name": "EFL Cup",
+    "poster_id": "Wolverhampton-Everton-23092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Liverpool",
+    "team_b": "Southampton",
+    "event_name": "EFL Cup",
+    "poster_id": "Liverpool-Southampton-23092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Milan",
+    "team_b": "Lecce",
+    "event_name": "Coppa Italia",
+    "poster_id": "Milan-Lecce-23092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Benfica",
+    "team_b": "Rio Ave",
+    "event_name": "Liga Portugal Betclic",
+    "poster_id": "Benfica-Rio-Ave-23092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Sevilla",
+    "team_b": "Villarreal",
+    "event_name": "LaLiga",
+    "poster_id": "Sevilla-Villarreal-23092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Levante UD",
+    "team_b": "Real Madrid",
+    "event_name": "LaLiga",
+    "poster_id": "Levante-UD-Real-Madrid-23092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "India",
+    "team_b": "Bangladesh",
+    "event_name": "Asia Cup",
+    "poster_id": "India-Bangladesh-24092025.png",
+    "match_type": "team_vs_team"
   }
 ]
