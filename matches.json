@@ -369,5 +369,12 @@
     "event_name": "MLB",
     "poster_id": "Houston-Astros-Seattle-Mariners-21092025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Guyana Amazon Warriors",
+    "team_b": "Trinbago Knight Riders",
+    "event_name": "Caribbean Premier League",
+    "poster_id": "Guyana-Amazon-Warriors-Trinbago-Knight-Riders-22092025.png",
+    "match_type": "team_vs_team"
   }
 ]
