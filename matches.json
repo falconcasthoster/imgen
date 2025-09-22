@@ -271,5 +271,26 @@
     "event_name": "Ligue 1",
     "poster_id": "Olympique-de-Marseille-Paris-Saint-Germain-22092025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "San Diego Padres",
+    "team_b": "Milwaukee Brewers",
+    "event_name": "MLB",
+    "poster_id": "San-Diego-Padres-Milwaukee-Brewers-23092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "San Francisco Giants",
+    "team_b": "St. Louis Cardinals",
+    "event_name": "MLB",
+    "poster_id": "San-Francisco-Giants-St.-Louis-Cardinals-23092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Atlanta Braves",
+    "team_b": "Washington Nationals",
+    "event_name": "MLB",
+    "poster_id": "Atlanta-Braves-Washington-Nationals-22092025.png",
+    "match_type": "team_vs_team"
   }
 ]
