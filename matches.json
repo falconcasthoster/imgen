@@ -168,20 +168,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Barnsley",
-    "team_b": "Brighton & Hove Albion",
-    "event_name": "EFL Cup",
-    "poster_id": "Barnsley-Brighton-&-Hove-Albion-23092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Burnley",
-    "team_b": "Cardiff City",
-    "event_name": "EFL Cup",
-    "poster_id": "Burnley-Cardiff-City-23092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Lincoln City",
     "team_b": "Chelsea",
     "event_name": "EFL Cup",
