@@ -252,13 +252,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Baltimore Ravens",
-    "team_b": "Detroit Lions",
-    "event_name": "NFL",
-    "poster_id": "Baltimore-Ravens-Detroit-Lions-23092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Olympique de Marseille",
     "team_b": "Paris Saint-Germain",
     "event_name": "Ligue 1",
