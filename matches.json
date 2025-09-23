@@ -257,5 +257,12 @@
     "event_name": "Ligue 1",
     "poster_id": "Olympique-de-Marseille-Paris-Saint-Germain-22092025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Pakistan",
+    "team_b": "Sri Lanka",
+    "event_name": "Asia Cup",
+    "poster_id": "Pakistan-Sri-Lanka-23092025.png",
+    "match_type": "team_vs_team"
   }
 ]
