@@ -161,13 +161,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Al-Ahli",
-    "team_b": "Pyramids FC",
-    "event_name": "FIFA Intercontinental Cup",
-    "poster_id": "Al-Ahli-Pyramids-FC-23092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Fulham",
     "team_b": "Cambridge United",
     "event_name": "EFL Cup",
