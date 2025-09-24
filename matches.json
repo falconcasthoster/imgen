@@ -329,13 +329,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Atlanta Braves",
-    "team_b": "Washington Nationals",
-    "event_name": "MLB",
-    "poster_id": "Atlanta-Braves-Washington-Nationals-24092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Philadelphia Phillies",
     "team_b": "Miami Marlins",
     "event_name": "MLB",
