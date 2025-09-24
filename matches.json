@@ -266,13 +266,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Nice",
-    "team_b": "Roma",
-    "event_name": "UEFA Europa League",
-    "poster_id": "Nice-Roma-24092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Real Betis",
     "team_b": "Nottingham Forest",
     "event_name": "UEFA Europa League",
@@ -326,13 +319,6 @@
     "team_b": "Miami Marlins",
     "event_name": "MLB",
     "poster_id": "Philadelphia-Phillies-Miami-Marlins-24092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Cincinnati Reds",
-    "team_b": "Pittsburgh Pirates",
-    "event_name": "MLB",
-    "poster_id": "Cincinnati-Reds-Pittsburgh-Pirates-24092025.png",
     "match_type": "team_vs_team"
   },
   {
