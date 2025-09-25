@@ -210,31 +210,10 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Cincinnati Reds",
-    "team_b": "Pittsburgh Pirates",
-    "event_name": "MLB",
-    "poster_id": "Cincinnati-Reds-Pittsburgh-Pirates-25092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Baltimore Orioles",
-    "team_b": "Tampa Bay Rays",
-    "event_name": "MLB",
-    "poster_id": "Baltimore-Orioles-Tampa-Bay-Rays-25092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "Arizona Diamondbacks",
     "team_b": "Los Angeles Dodgers",
     "event_name": "MLB",
     "poster_id": "Arizona-Diamondbacks-Los-Angeles-Dodgers-25092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Texas Rangers",
-    "team_b": "Minnesota Twins",
-    "event_name": "MLB",
-    "poster_id": "Texas-Rangers-Minnesota-Twins-25092025.png",
     "match_type": "team_vs_team"
   },
   {
@@ -417,6 +396,27 @@
     "team_b": "Manchester United",
     "event_name": "Premier League",
     "poster_id": "Brentford-Manchester-United-27092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Texas Rangers",
+    "team_b": "Minnesota Twins",
+    "event_name": "MLB",
+    "poster_id": "Texas-Rangers-Minnesota-Twins-25092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Baltimore Orioles",
+    "team_b": "Tampa Bay Rays",
+    "event_name": "MLB",
+    "poster_id": "Baltimore-Orioles-Tampa-Bay-Rays-25092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Cincinnati Reds",
+    "team_b": "Pittsburgh Pirates",
+    "event_name": "MLB",
+    "poster_id": "Cincinnati-Reds-Pittsburgh-Pirates-25092025.png",
     "match_type": "team_vs_team"
   }
 ]
