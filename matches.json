@@ -252,41 +252,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Tottenham Hotspur",
-    "team_b": "Doncaster Rovers",
-    "event_name": "EFL Cup",
-    "poster_id": "Tottenham-Hotspur-Doncaster-Rovers-24092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "FK Crvena zvezda",
-    "team_b": "Celtic",
-    "event_name": "UEFA Europa League",
-    "poster_id": "FK-Crvena-zvezda-Celtic-24092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Real Betis",
-    "team_b": "Nottingham Forest",
-    "event_name": "UEFA Europa League",
-    "poster_id": "Real-Betis-Nottingham-Forest-24092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "SC Freiburg",
-    "team_b": "Basel",
-    "event_name": "UEFA Europa League",
-    "poster_id": "SC-Freiburg-Basel-24092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Port Vale",
-    "team_b": "Arsenal",
-    "event_name": "EFL Cup",
-    "poster_id": "Port-Vale-Arsenal-24092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "AtlÃ©tico Madrid",
     "team_b": "Rayo Vallecano",
     "event_name": "LaLiga",
