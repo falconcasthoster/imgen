@@ -376,5 +376,47 @@
     "event_name": "LaLiga",
     "poster_id": "Real-Oviedo-Barcelona-25092025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Al-Ittihad",
+    "team_b": "Al-Nassr",
+    "event_name": "Saudi Pro League",
+    "poster_id": "Al-Ittihad-Al-Nassr-26092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "FC Bayern MÃ¼nchen",
+    "team_b": "SV Werder Bremen",
+    "event_name": "Bundesliga",
+    "poster_id": "FC-Bayern-MÃ¼nchen-SV-Werder-Bremen-26092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "RC Strasbourg",
+    "team_b": "Olympique de Marseille",
+    "event_name": "Ligue 1",
+    "poster_id": "RC-Strasbourg-Olympique-de-Marseille-26092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Girona FC",
+    "team_b": "Espanyol",
+    "event_name": "LaLiga",
+    "poster_id": "Girona-FC-Espanyol-26092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "West Bromwich Albion",
+    "team_b": "Leicester City",
+    "event_name": "Championship",
+    "poster_id": "West-Bromwich-Albion-Leicester-City-26092025.png",
+    "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "Brentford",
+    "team_b": "Manchester United",
+    "event_name": "Premier League",
+    "poster_id": "Brentford-Manchester-United-27092025.png",
+    "match_type": "team_vs_team"
   }
 ]
