@@ -196,55 +196,6 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Getafe",
-    "team_b": "Deportivo AlavÃ©s",
-    "event_name": "LaLiga",
-    "poster_id": "Getafe-Deportivo-AlavÃ©s-24092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "AtlÃ©tico Madrid",
-    "team_b": "Rayo Vallecano",
-    "event_name": "LaLiga",
-    "poster_id": "AtlÃ©tico-Madrid-Rayo-Vallecano-24092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Pakistan",
-    "team_b": "Bangladesh",
-    "event_name": "Asia Cup",
-    "poster_id": "Pakistan-Bangladesh-25092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Al-Shabab",
-    "team_b": "Al-Kholood",
-    "event_name": "Saudi Pro League",
-    "poster_id": "Al-Shabab-Al-Kholood-25092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Lille",
-    "team_b": "SK Brann",
-    "event_name": "UEFA Europa League",
-    "poster_id": "Lille-SK-Brann-25092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Al-Hilal",
-    "team_b": "Al-Okhdood",
-    "event_name": "Saudi Pro League",
-    "poster_id": "Al-Hilal-Al-Okhdood-25092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Osasuna",
-    "team_b": "Elche",
-    "event_name": "LaLiga",
-    "poster_id": "Osasuna-Elche-25092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "FC Utrecht",
     "team_b": "Olympique Lyonnais",
     "event_name": "UEFA Europa League",
@@ -354,13 +305,6 @@
     "team_b": "Tampa Bay Rays",
     "event_name": "MLB",
     "poster_id": "Baltimore-Orioles-Tampa-Bay-Rays-25092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Cincinnati Reds",
-    "team_b": "Pittsburgh Pirates",
-    "event_name": "MLB",
-    "poster_id": "Cincinnati-Reds-Pittsburgh-Pirates-25092025.png",
     "match_type": "team_vs_team"
   },
   {
