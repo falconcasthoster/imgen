@@ -147,13 +147,6 @@
     "match_type": "single_event"
   },
   {
-    "team_a": "Al-Adalah",
-    "team_b": "Al-Hilal",
-    "event_name": "King's Cup",
-    "poster_id": "Al-Adalah-Al-Hilal-22092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "SkellefteÃ¥ AIK U20",
     "team_b": "DjurgÃ¥rdens IF",
     "event_name": "SDHL",
@@ -231,115 +224,10 @@
     "match_type": "team_vs_team"
   },
   {
-    "team_a": "Al-Orobah",
-    "team_b": "Al-Qadsiah",
-    "event_name": "King's Cup",
-    "poster_id": "Al-Orobah-Al-Qadsiah-24092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Huddersfield Town",
-    "team_b": "Manchester City",
-    "event_name": "EFL Cup",
-    "poster_id": "Huddersfield-Town-Manchester-City-24092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Newcastle United",
-    "team_b": "Bradford City",
-    "event_name": "EFL Cup",
-    "poster_id": "Newcastle-United-Bradford-City-24092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
     "team_a": "AtlÃ©tico Madrid",
     "team_b": "Rayo Vallecano",
     "event_name": "LaLiga",
     "poster_id": "AtlÃ©tico-Madrid-Rayo-Vallecano-24092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Real Sociedad",
-    "team_b": "Mallorca",
-    "event_name": "LaLiga",
-    "poster_id": "Real-Sociedad-Mallorca-24092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "New York City FC",
-    "team_b": "Inter Miami CF",
-    "event_name": "MLS",
-    "poster_id": "New-York-City-FC-Inter-Miami-CF-24092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Palmeiras",
-    "team_b": "River Plate",
-    "event_name": "CONMEBOL Libertadores",
-    "poster_id": "Palmeiras-River-Plate-25092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Philadelphia Phillies",
-    "team_b": "Miami Marlins",
-    "event_name": "MLB",
-    "poster_id": "Philadelphia-Phillies-Miami-Marlins-24092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Cleveland Guardians",
-    "team_b": "Detroit Tigers",
-    "event_name": "MLB",
-    "poster_id": "Cleveland-Guardians-Detroit-Tigers-24092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Baltimore Orioles",
-    "team_b": "Tampa Bay Rays",
-    "event_name": "MLB",
-    "poster_id": "Baltimore-Orioles-Tampa-Bay-Rays-24092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "San Diego Padres",
-    "team_b": "Milwaukee Brewers",
-    "event_name": "MLB",
-    "poster_id": "San-Diego-Padres-Milwaukee-Brewers-24092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "New York Yankees",
-    "team_b": "Chicago White Sox",
-    "event_name": "MLB",
-    "poster_id": "New-York-Yankees-Chicago-White-Sox-24092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Toronto Blue Jays",
-    "team_b": "Boston Red Sox",
-    "event_name": "MLB",
-    "poster_id": "Toronto-Blue-Jays-Boston-Red-Sox-24092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Chicago Cubs",
-    "team_b": "New York Mets",
-    "event_name": "MLB",
-    "poster_id": "Chicago-Cubs-New-York-Mets-25092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Texas Rangers",
-    "team_b": "Minnesota Twins",
-    "event_name": "MLB",
-    "poster_id": "Texas-Rangers-Minnesota-Twins-25092025.png",
-    "match_type": "team_vs_team"
-  },
-  {
-    "team_a": "Los Angeles Angels",
-    "team_b": "Kansas City Royals",
-    "event_name": "MLB",
-    "poster_id": "Los-Angeles-Angels-Kansas-City-Royals-25092025.png",
     "match_type": "team_vs_team"
   },
   {
