@@ -369,5 +369,12 @@
     "event_name": "MLB",
     "poster_id": "Chicago-Cubs-New-York-Mets-25092025.png",
     "match_type": "team_vs_team"
+  },
+  {
+    "team_a": "India",
+    "team_b": "Sri Lanka",
+    "event_name": "Asia Cup",
+    "poster_id": "India-Sri-Lanka-26092025.png",
+    "match_type": "team_vs_team"
   }
 ]
